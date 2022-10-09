@@ -41,7 +41,7 @@
 
 * Products tablosundan CategoryId'ye ait Kategori ismini ve Product tablosundaki belirli alanlarin getirilmesi
    ```
-  Select Products.ProductID,Products.ProductName,Products.UnitPrice, Categories.CategoryName from Products inner join Categories on Products.CategoryID =             Categories.CategoryID
+  Select Products.ProductID,Products.ProductName,Products.UnitPrice, Categories.CategoryName from Products inner join Categories on Products.CategoryID = Categories.CategoryID
   
 > C#'ta bu ozellige DTO(Data Transformation Object) denmektedir.Yani istenilen alanlarin cekilmesi
 > Innerjoin = sadece iki tabloda eslesen dataları cekmemizi saglar.
