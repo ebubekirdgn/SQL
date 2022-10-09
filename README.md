@@ -45,11 +45,9 @@
 > C#'ta bu ozellige DTO(Data Transformation Object) denmektedir.Yani istenilen alanlarin cekilmesi<br>
 > Innerjoin = Sadece iki tabloda eslesen dataları cekmemizi saglar.<br>  
 
-* Solda (Products) olup , sagda (Order Details) olmayanlari getir.
+* Solda (Products) olup , sagda (Order Details) olmayanlari getir.<br>
  ```
    Select * from Products p left join [Order Details] od on p.ProductId = od.ProductID
-
-* Sadece sana ozel indirim yapılmak istenip boyle olan kisileri bulmak icin (Siparisi olmayan kullanıcılar gibi)
+* Sadece sana ozel indirim yapılmak istenip boyle olan kisileri bulmak icin (Siparisi olmayan kullanıcılar gibi)<br>
   ```
-  Select * from Customers c left join Orders o  on c.CustomerID = o.CustomerID
-where o.CustomerID is null
+  Select * from Customers c left join Orders o  on c.CustomerID = o.CustomerID where o.CustomerID is null
