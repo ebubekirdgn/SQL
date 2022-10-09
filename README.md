@@ -10,20 +10,20 @@
 
 * Filtreleme Komutu<br>
    ```
-   Select * from Customers where City = 'London'
+     Select * from Customers where City = 'London'
    
 * case insensitive yani buyuk kucuk harf duyarsız her turlu calisir.<br>
    ``` 
-   sEleCt * from Products where CategoryID = 1 or CategoryID = 3
-   sEleCt * from Products where CategoryID = 1 and  UnitPrice >= 30
+     sEleCt * from Products where CategoryID = 1 or CategoryID = 3
+     sEleCt * from Products where CategoryID = 1 and  UnitPrice >= 30
   
 * Butun urunleri ProductName'e gore siralama a -> z ye dogru (artan sekilde sirala demek -> asc) <br>
   ```
-   Select * from Products order by ProductName
-   
+     Select * from Products order by ProductName
+     
 * Once CategoryId ye gore sonra ProductName gore siralama<br>
   ``` 
-  Select * from Products order by CategoryID, ProductName
+    Select * from Products order by CategoryID, ProductName
   
 * Azalan sekilde siralama -> descending.z -> a diye sıralar.En pahali urunden ucuza dogru sıralar.<br>
   ``` Select * from Products order by UnitPrice desc 
@@ -31,14 +31,12 @@
       
 * Products tablosunda kac adet veri var onu bulmak icin <br>
   ``` 
-  Select count(*) from Products 
+     Select count(*) from Products 
 
-* Products tablosunda CategoryId'si 2 olan kac adet urun var
+* Products tablosunda CategoryId'si 2 olan kac adet urun var <br>
  ```
-  Select count(*) from Products where CategoryID = 2 
-
-
-* Hangi kategoride kac adet urun var ?Not : group by da yildiz kullanılmaz.
-
+     Select count(*) from Products where CategoryID = 2 
+  
+* Hangi kategoride kac adet urun var ?Not : group by da yildiz kullanılmaz.<br>
  ```
- Select CategoryID,count(*) KategoriyeAitVeriSayisi from  Products group by CategoryID
+     Select CategoryID,count(*) KategoriyeAitVeriSayisi from  Products group by CategoryID
