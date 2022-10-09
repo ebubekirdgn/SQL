@@ -16,19 +16,15 @@
    
    ```
 
--- Butun urunleri ProductName'e gore siralama a -> z ye dogru (artan sekilde sirala demek -> asc) 
+-- Butun urunleri ProductName'e gore siralama a -> z ye dogru (artan sekilde sirala demek -> asc) <br>
+  ``` Select * from Products order by ProductName  ```
 
---Select * from Products order by ProductName
+-- Once CategoryId ye gore sonra ProductName gore siralama<br>
+  ``` Select * from Products order by CategoryID, ProductName  ```
 
--- Once CategoryId ye gore sonra ProductName gore siralama
---Select * from Products order by CategoryID, ProductName
-
-
--- Azalan sekilde siralama -> descending.z -> a diye sıralar.En pahali urunden ucuza dogru sıralar.
---Select * from Products order by UnitPrice desc
-
-Select * from Products  where  CategoryID=1 order by UnitPrice desc
-
-
--- Products tablosunda kac adet veri var onu bulmak icin 
-Select count(*) from Products
+-- Azalan sekilde siralama -> descending.z -> a diye sıralar.En pahali urunden ucuza dogru sıralar.<br>
+  ```Select * from Products order by UnitPrice desc 
+     Select * from Products  where  CategoryID=1 order by UnitPrice desc  ```
+ 
+-- Products tablosunda kac adet veri var onu bulmak icin <br>
+  ``` Select count(*) from Products   ```
