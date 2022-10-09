@@ -1,6 +1,6 @@
 
 
-![alt text](https://https://github.com/ebubekirdgn/SQL/blob/main/Northwind-database-structure.png?raw=true)
+![alt text](https://github.com/ebubekirdgn/SQL/blob/main/Northwind-database-structure.png?raw=true)
 
 
 -- SELECT ANSII
