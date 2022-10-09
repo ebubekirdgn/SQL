@@ -1,6 +1,6 @@
 -- SELECT ANSII
 
--- 1 Alias Kullanilarak istenilen alanlarin cekilmesi
+-- 1 Alias Kullanilarak istenilen alanlarin cekilmesi <br>
     ``` select ContactName Adi, CompanyName SirketAdi,City Sehir  from Customers```
 
 -- 2 Alias Olmadan
