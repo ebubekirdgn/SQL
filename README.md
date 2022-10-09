@@ -37,8 +37,7 @@
  ```
   Select count(*) from Products where CategoryID = 2 
 
-* Hangi kategoride kac adet urun var ?
--- Not : group by da yildiz kullanılmaz.
+* Hangi kategoride kac adet urun var ?Not : group by da yildiz kullanılmaz.
 
  ```
  Select CategoryID,count(*) KategoriyeAitVeriSayisi from  Products group by CategoryID
