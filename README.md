@@ -15,3 +15,16 @@
    sEleCt * from Products where CategoryID = 1 and  UnitPrice >= 30
    
    ```
+
+-- Butun urunleri ProductName'e gore siralama a -> z ye dogru (artan sekilde sirala demek -> asc) 
+
+--Select * from Products order by ProductName
+
+-- Once CategoryId ye gore sonra ProductName gore siralama
+--Select * from Products order by CategoryID, ProductName
+
+
+-- Azalan sekilde siralama -> descending.z -> a diye sıralar.En pahali urunden ucuza dogru sıralar.
+--Select * from Products order by UnitPrice desc
+
+Select * from Products  where  CategoryID=1 order by UnitPrice desc
