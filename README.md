@@ -1,4 +1,4 @@
-
+## Northwind Database Structure
 
 ![alt text](https://github.com/ebubekirdgn/SQL/blob/main/Northwind-database-structure.png?raw=true)
 
