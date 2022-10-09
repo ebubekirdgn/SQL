@@ -19,6 +19,6 @@
   ``` Select * from Products order by CategoryID, ProductName  ```
 * Azalan sekilde siralama -> descending.z -> a diye sıralar.En pahali urunden ucuza dogru sıralar.<br>
   ``` Select * from Products order by UnitPrice desc 
-      Select * from Products  where  CategoryID=1 order by UnitPrice desc  ```
+      Select * from Products  where  CategoryID=1 order by UnitPrice desc
 * Products tablosunda kac adet veri var onu bulmak icin <br>
   ``` Select count(*) from Products   ```
