@@ -1,7 +1,7 @@
 -- SELECT ANSII
 
 -- 1 Alias Kullanilarak istenilen alanlarin cekilmesi
-    >select ContactName Adi, CompanyName SirketAdi,City Sehir  from Customers
+    > select ContactName Adi, CompanyName SirketAdi,City Sehir  from Customers
 
 -- 2 Alias Olmadan
     >select ContactName,CompanyName,City  from Customers
