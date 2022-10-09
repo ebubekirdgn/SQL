@@ -44,3 +44,12 @@
   Select Products.ProductID,Products.ProductName,Products.UnitPrice, Categories.CategoryName from Products inner join Categories on Products.CategoryID = Categories.CategoryID 
 > C#'ta bu ozellige DTO(Data Transformation Object) denmektedir.Yani istenilen alanlarin cekilmesi<br>
 > Innerjoin = Sadece iki tabloda eslesen dataları cekmemizi saglar.<br>  
+
+* Solda (Products) olup , sagda (Order Details) olmayanlari getir.
+ ```
+   Select * from Products p left join [Order Details] od on p.ProductId = od.ProductID
+
+* Sadece sana ozel indirim yapılmak istenip boyle olan kisileri bulmak icin (Siparisi olmayan kullanıcılar gibi)
+  ```
+  Select * from Customers c left join Orders o  on c.CustomerID = o.CustomerID
+where o.CustomerID is null
