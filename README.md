@@ -33,4 +33,4 @@
      Select CategoryID,count(*) KategoriyeAitVeriSayisi from  Products group by CategoryID
 * Kategori icinde 10 tane urunden az olan urunlerin sayisini verme<br>
    ```
-    Select CategoryID,count(*) KategoriyeAitVeriSayisi from Products where UnitPrice>20   group by CategoryID  having count(*) <10
+   Select CategoryID,count(*) KategoriyeAitVeriSayisi from Products where UnitPrice>20   group by CategoryID  having count(*) <10
