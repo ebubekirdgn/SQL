@@ -35,13 +35,12 @@
    ```
    Select CategoryID,count(*) KategoriyeAitVeriSayisi from Products where UnitPrice>20   group by CategoryID  having count(*) <10
    
-* Products tablosundan CategoryId'ye ait bilgilerinde Kategori tablosundan cekilip tek tabloda gosterilmesi
+* Products tablosundan CategoryId'ye ait bilgilerinde Kategori tablosundan cekilip tek tabloda gosterilmesi<br>
    ```
    Select * from Products inner join Categories on Products.CategoryID = Categories.CategoryID
 
-* Products tablosundan CategoryId'ye ait Kategori ismini ve Product tablosundaki belirli alanlarin getirilmesi
+* Products tablosundan CategoryId'ye ait Kategori ismini ve Product tablosundaki belirli alanlarin getirilmesi<br>
    ```
-  Select Products.ProductID,Products.ProductName,Products.UnitPrice, Categories.CategoryName from Products inner join Categories on Products.CategoryID = Categories.CategoryID
-  
+  Select Products.ProductID,Products.ProductName,Products.UnitPrice, Categories.CategoryName from Products inner join Categories on Products.CategoryID = Categories.CategoryID 
 > C#'ta bu ozellige DTO(Data Transformation Object) denmektedir.Yani istenilen alanlarin cekilmesi
 > Innerjoin = sadece iki tabloda eslesen dataları cekmemizi saglar.
