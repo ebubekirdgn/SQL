@@ -1,5 +1,3 @@
-# SQL
-
 -- SELECT ANSII
 
 -- 1 Alias Kullanilarak istenilen alanlarin cekilmesi
