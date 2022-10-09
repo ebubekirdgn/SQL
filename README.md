@@ -1,3 +1,8 @@
+
+
+![alt text](https://https://github.com/ebubekirdgn/SQL/blob/main/Northwind-database-structure.png?raw=true)
+
+
 -- SELECT ANSII
 
 * Alias Kullanilarak istenilen alanlarin cekilmesi <br>
