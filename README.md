@@ -28,6 +28,4 @@
 * Products tablosunda CategoryId'si 2 olan kac adet urun var <br>
  ```
    Select count(*) from Products where CategoryID = 2  <br>
-* Products tablosunda kac adet veri var onu bulmak icin <br>
-  ``` 
-     Select count(*) from Products 
+ 
