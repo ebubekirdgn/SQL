@@ -25,6 +25,7 @@
 * Products tablosunda kac adet veri var onu bulmak icin <br>
   ``` 
      Select count(*) from Products 
-* Products tablosunda CategoryId'si 2 olan kac adet urun var <br>
- ```
-   Select count(*) from Products where CategoryID = 2
+* case insensitive yani buyuk kucuk harf duyarsız her turlu calisir.<br>
+   ``` 
+     sEleCt * from Products where CategoryID = 1 or CategoryID = 3
+     sEleCt * from Products where CategoryID = 1 and  UnitPrice >= 30
