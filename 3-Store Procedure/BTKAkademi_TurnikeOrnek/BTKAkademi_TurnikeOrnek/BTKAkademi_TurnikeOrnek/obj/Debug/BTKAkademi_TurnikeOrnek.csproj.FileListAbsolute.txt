@@ -1,0 +1,11 @@
+C:\Users\Dogan Pc\Documents\GitHub\SQL\3-Store Procedure\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\bin\Debug\BTKAkademi_TurnikeOrnek.exe.config
+C:\Users\Dogan Pc\Documents\GitHub\SQL\3-Store Procedure\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\bin\Debug\BTKAkademi_TurnikeOrnek.exe
+C:\Users\Dogan Pc\Documents\GitHub\SQL\3-Store Procedure\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\bin\Debug\BTKAkademi_TurnikeOrnek.pdb
+C:\Users\Dogan Pc\Documents\GitHub\SQL\3-Store Procedure\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\obj\Debug\BTKAkademi_TurnikeOrnek.csproj.AssemblyReference.cache
+C:\Users\Dogan Pc\Documents\GitHub\SQL\3-Store Procedure\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\obj\Debug\BTKAkademi_TurnikeOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dogan Pc\Documents\GitHub\SQL\3-Store Procedure\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\obj\Debug\BTKAkademi_TurnikeOrnek.Form1.resources
+C:\Users\Dogan Pc\Documents\GitHub\SQL\3-Store Procedure\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\obj\Debug\BTKAkademi_TurnikeOrnek.Properties.Resources.resources
+C:\Users\Dogan Pc\Documents\GitHub\SQL\3-Store Procedure\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\obj\Debug\BTKAkademi_TurnikeOrnek.csproj.GenerateResource.cache
+C:\Users\Dogan Pc\Documents\GitHub\SQL\3-Store Procedure\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\obj\Debug\BTKAkademi_TurnikeOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Dogan Pc\Documents\GitHub\SQL\3-Store Procedure\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\obj\Debug\BTKAkademi_TurnikeOrnek.exe
+C:\Users\Dogan Pc\Documents\GitHub\SQL\3-Store Procedure\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\BTKAkademi_TurnikeOrnek\obj\Debug\BTKAkademi_TurnikeOrnek.pdb

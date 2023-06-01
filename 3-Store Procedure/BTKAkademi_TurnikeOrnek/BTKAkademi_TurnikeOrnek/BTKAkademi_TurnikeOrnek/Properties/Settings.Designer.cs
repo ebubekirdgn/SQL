@@ -22,5 +22,15 @@ namespace BTKAkademi_TurnikeOrnek.Properties {
                 return defaultInstance;
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-CORSMHB;Initial Catalog=HR;Integrated Security=True")]
+        public string HRConnectionString {
+            get {
+                return ((string)(this["HRConnectionString"]));
+            }
+        }
     }
 }
