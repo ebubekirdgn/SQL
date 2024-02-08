@@ -53,3 +53,6 @@
 * Sadece sana ozel indirim yapılmak istenip boyle olan kisileri bulmak icin (Siparisi olmayan kullanıcılar gibi)<br>
    ```
    Select * from Customers c left join Orders o  on c.CustomerID = o.CustomerID where o.CustomerID is null
+
+TSQL_LAB_DATETIME_FUNCTIONS kaynak dosyasını [buraya](https://mylifebox.com/sharedFiles?publicToken=119069cb-e113-4646-9bd4-a494b32a8a85&dynamic=true) tıklayarak indirebilirsiniz.
+
