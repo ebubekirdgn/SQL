@@ -1,0 +1,1210 @@
+﻿Id;CreationDate;PostId;Score;Text;UserId
+1904427;2010-01-01 00:00:50.027;1987105;0;Be aware that `eval` has security implications: http://mywiki.wooledge.org/BashFAQ/048;26428
+1904431;2010-01-01 00:02:46.280;1981242;0;As an example, my firefox 3.5.6 has a Go Daddy intermediate cert but not the rapidssl intermediate cert.;238704
+1904434;2010-01-01 00:04:58.833;1980771;0;Hmmm, I don't see the rapidssl ca at that apple.com link;238704
+1904436;2010-01-01 00:06:14.540;1987485;0;Hmm, some languages allow the inference to be after the point of var declaration...;84535
+1904437;2010-01-01 00:06:18.223;1976193;0;"Hmm...maybe you can look at the test page directly:  http://ppgeez.com/stats/enter_game.php
+
+Basically, there is one main table, and then inside each of that tables TD's contains 2 nested tables.  The radio boxes are in a table themselves, and the checkbox and N/A radio button are in another.  Thats why, when I turn OFF the highlighting, I had to find the 0th parent, instead of the 1st parent like I use to turn it on.  Check it out... if you can update your code so I can see how its done, that would be great.  Thanks.";240350
+1904438;2010-01-01 00:07:28.233;841201;0;I'd love to see syntax like this in more languages, like C#.;12971
+1904440;2010-01-01 00:08:19.310;1987512;4;Specifically, the optional `DocumentType` node is a `childNode` of `Document`, just as the root `documentElement` and any `Comment` nodes outside the root are.;18936
+1904441;2010-01-01 00:08:28.780;1978064;0;That's too bad. Good luck discovering the source of your problem.;165876
+1904442;2010-01-01 00:08:37.267;1987520;0;The doesn't seem anything related to php. It's like windows is encoding to ANSI when I save it with this code. At least this is the conclusion I am getting at;8715
+1904444;2010-01-01 00:10:31.023;1986709;0;Nicely put, a House class would really tie the rooms together.;241676
+1904447;2010-01-01 00:11:31.613;1987543;1;"You can also use the ""simplified"" databinding syntax of ASP.NET 2.0 and newer: <%# Eval(""videoFile"") %>";31668
+1904448;2010-01-01 00:12:06.103;1986571;0;In that case dynamic linq may help, but you may need a two-pass approach. Parse the data once to see which tags are encountered, and then another time to fill the list of new objects. I guess the problem is that if any mp3 file has a defined property, after you map the values to objects (dynamic or not) all of them have to have that property.;175823
+1904449;2010-01-01 00:12:24.043;1987183;0;"Pseudocode is on page 121 of that book. Note that the algorithm given there is a little different; it's guaranteed to terminate but may fail to find a solution even if one exists. It's only ""almost certain"" to find the solution, and then only if the graph has a lot of edges! By contrast, the algorithm as described by Wikipedia will wander forever if no Hamiltonian path exists. Hey, what can you expect of an O(n^2) algorithm for an NP-complete problem?";94977
+1904450;2010-01-01 00:12:37.477;1987485;0;It would surprise me if C# doesn't get more clever about type inference at some point.  As long as all assignments in the current scope attempt to assign the same time, a compiler can handle this situation.;141172
+1904451;2010-01-01 00:13:46.413;1987514;0;"Yes - did ""Clean all targets"", deleted ""Build"" folder";241762
+1904452;2010-01-01 00:13:59.673;1987325;0;I've updated my response to include a C# program that prints out all the values.;31668
+1904453;2010-01-01 00:14:03.200;1984871;3;"I dropped Perl and moved to Python, not because of speed concerns but language concerns. Python is a joy to program in; Perl gives me sorrow.";60075
+1904455;2010-01-01 00:16:37.203;1987213;0;You'll want to take a look at the NSConnection class, and its related classes (NSURL, NSURLConnection, etc).;6694
+1904457;2010-01-01 00:17:14.707;1987520;0;"Okay, now you lost me. What exactly *are* you asking about? The encoding detected by some editor? If there are no ""high"" characters in the file, then it may very well be detected as ISO-8859-1, since BOMless UTF-8 (PHP wants it without a BOM, so...) with no characters >=128 will differ in their binary representation from the ISO-8859-1 representation.";27528
+1904458;2010-01-01 00:18:03.550;1985083;0;"""Python local vars are much faster than globals."" Interesting. Do you have a good reference to explain this? How about class instance variables—are they faster than globals too?";60075
+1904459;2010-01-01 00:18:09.837;1987221;0;there is no link to click. i added what i can see above;108869
+1904460;2010-01-01 00:18:56.033;1987554;14;"Usually it means they want gullible kids who are willing to work for equity stakes and ""experience"" in lieu of competitive pay.";187712
+1904461;2010-01-01 00:19:16.127;1987553;0;Maybe if you explained what that meant - there aren't many people here that do both .net and java.;21234
+1904462;2010-01-01 00:19:24.767;1987554;12;Ask them, not us.;NULL
+1904463;2010-01-01 00:19:25.730;1987468;0;"You will eventually want to use something specific instead of coupling this to the logger, such as opt[""time_functions""] (which you might default to True/False based on some other option).";NULL
+1904464;2010-01-01 00:20:02.297;1987512;0;Thank you, Alex.  bobince, the comment you left is also very informative.;241761
+1904466;2010-01-01 00:20:50.877;1987557;0;Thanks, I don't know why I didn't look at the samples first. :-);105500
+1904468;2010-01-01 00:21:37.863;1987495;0;It may.  Does it?;17034
+1904469;2010-01-01 00:21:53.493;1986908;0;If it's closed as moved, there will be a link here which you can follow to superuser.com where other people may add answers.;26428
+1904470;2010-01-01 00:21:54.227;1987460;0;The question wasn't clear, but I interpreted it as a character array non-static data member, for which this answer wouldn't apply.;NULL
+1904471;2010-01-01 00:21:56.693;1987024;0;Change the '*' metacharacter to a '+' so that the URL has at least one character in the path. Answer updated.;90527
+1904472;2010-01-01 00:22:02.690;1984660;0;No shared group was needed, I don’t even know what that is.;17279
+1904473;2010-01-01 00:23:16.347;1970966;0;Thanks - so then this could also be a useful function to get different screen states together with a timer function to show the application in various states for documentation purposes?;239721
+1904474;2010-01-01 00:23:16.470;1987183;0;@Kevin Montrose: The algorithm relies on being able to pivot, which reverses part of the path. So no, I don't think it would work for a directed graph.;94977
+1904475;2010-01-01 00:23:56.477;1987495;0;I am not sure.  Someone with more C++ knowledge will hopefully answer that.  I didn't want to claim something I don't know for sure.  (Of course, I hope I got everything regarding C right in my reply - but if not, I will be happy to be corrected!);226621
+1904476;2010-01-01 00:24:15.970;1987481;0;It seems that part is a bug. The same issue happens on this demo http://valums.com/wp-content/uploads/2009/10/editableText/demo/demo.htm;240609
+1904477;2010-01-01 00:25:37.253;1978289;0;I specifically pointed out that I wasn't commenting on the current Jet version.  That the engine had well known problems with data integrity that I experienced first hand in a mature release (3.5 with all the SPs/patches) that is not that long ago is very relevant to the original post.  One data corruption problem is enough to sour you on an engine for life.  I've never seen a data corruption problem in Sql Server (caused by the engine).  While current Jet/ACE might be as solid as Sql Server, I wouldn't bet on it when you have Sql Server Express/Adp projects as a costless alternative.;240618
+1904480;2010-01-01 00:28:01.267;1987573;0;He already explained that it's not normalised.;228936
+1904481;2010-01-01 00:29:03.357;1987573;0;So I see, but that doesn't excuse it.;37213
+1904482;2010-01-01 00:29:06.583;1987226;0;-removeAllObjects does work without calling -release.  Are you saying that is still a memory leak?;40106
+1904483;2010-01-01 00:29:24.893;1967740;0;"public void onCreate(Bundle savedInstanceState) 
+{
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.login_screen);
+        emailTxt = (EditText) findViewById(R.id.email);
+        emailTxt.setOnKeyListener(new OnKeyListener() 
+ {
+
+  public boolean onKey(View v, int keyCode, KeyEvent event) 
+
+  {
+
+   Log.i(""Key Value"", String.valueOf(keyCode));
+
+  });
+}";NULL
+1904487;2010-01-01 00:32:02.953;1984733;0;Reading between the lines, we can conclude that the DBGrid is the source of this effect, interacting in some way with the TFields of the DataSet. I'm going to accept your answer on the basis of this conclusion. But I think we can still dig deeper. I want to know more about the precise mechanism that is responsible, as it may be the source of other little known side effects. Thanks, Dimitrij;84904
+1904488;2010-01-01 00:32:15.043;1967740;0;I am just reading the keys for now.;NULL
+1904489;2010-01-01 00:32:55.173;1987541;1;How is the marshalling code supposed to know when to marshal the union as `int[]` or `float[]` ? Is it supposed to choose for each array element, or is it always one or the other?;234815
+1904490;2010-01-01 00:34:15.670;1987183;0;One last thing to point out: If you only let one end of the path wander, then a bad initial choice can condemn you never to find a solution. (Or at least to wander for a really long time. Learned that one the hard way!) So at some point you must switch to the other end of the path and let that end wander for a while. Or make sure you pick a good starting node.;94977
+1904491;2010-01-01 00:34:38.067;1987495;0;@nobugz: Please see my edit.;226621
+1904492;2010-01-01 00:34:45.840;1947611;0;O.k, I'm sort of an idiot...I decided to use Constants, and as I found out, they don't work like $_session...there in lies my idiocracy....constants are working like I wanted them to.  thanks for your help;249034
+1904493;2010-01-01 00:34:55.740;1982071;0;I tried using TextWatcher but I need the KeyUp and KeyDown events for each key pressed. Textwatcher just gives me the keydown event.;NULL
+1904494;2010-01-01 00:35:09.897;1987431;0;Thanks! I don't know why, but the download did not include any of the download sources.;572
+1904495;2010-01-01 00:35:43.093;1987401;8;While `goto` may be dreaded, there are a small number of cases where it is actually useful and I believe this is one of them.;131407
+1904496;2010-01-01 00:37:35.097;1986033;0;Perhaps use an additional variable, and then set it to 1 if you find a solution, 0 otherwise. Once you get out of the loop, you can check it, and do your stuff from there. I don't have my calculator on me, but I'm sure theres a `Break` command in list somewhere. Just stick that after the `Disp X` in the `If` statement.;NULL
+1904497;2010-01-01 00:37:56.033;1987585;2;I'm fairly sure that doesn't work. Have you tested that?;143327
+1904501;2010-01-01 00:40:04.020;1987585;4;"Definitely works. The ""right hand side"" of a lambda does not have to reference the ""left hand side"".";31668
+1904502;2010-01-01 00:42:02.987;1987443;3;"While this is fine for most applications, there is an important difference between `switch` and `if/else` being that the compiler can usually optimize the ""branching"" operations by using a jump table, resulting in faster code.";131407
+1904503;2010-01-01 00:43:48.240;1987397;0;Why? is the average level too slow or too high?;224363
+1904504;2010-01-01 00:44:29.203;1987583;1;"solved no need of script 
+i used error_reporting(0);";238952
+1904505;2010-01-01 00:45:08.033;1987406;0;Than you, I was already thinking in using jQuery, but I wanted to start from the ground before getting into frameworks. :-);224363
+1904506;2010-01-01 00:45:13.510;1987583;7;Safaali, you ought to fix the problems, not ignore then.;54680
+1904507;2010-01-01 00:45:22.463;1987512;0;@bobince Excellent comment.;54420
+1904508;2010-01-01 00:47:35.207;1987512;0;Although, this does *not* work in IE.;54420
+1904510;2010-01-01 00:48:04.237;1987589;3;If i may, i think you are asking such simple questions, that maybe you should do some research before asking them on SO.;220819
+1904511;2010-01-01 00:48:41.927;1986726;0;Here is the list of supported tags for Google docs. Note that not all of the unsupported tags cause XSS problems (some are just poorly supported by contenteditable): http://docs.google.com/support/bin/answer.py?hl=en&answer=146021;231675
+1904512;2010-01-01 00:49:21.210;1987600;0;"In UIKit/Mobile Darwin, you can use properties as well: tf_text = yourTextField.text;";23498
+1904513;2010-01-01 00:49:24.297;1865434;0;@David W. Fenton -- the issue was in the data type. I ended up rolling my own command builder to make this work.;50018
+1904514;2010-01-01 00:49:30.913;1987602;2;You should make `ActionBase`'s destructor `virtual`. See http://www.parashift.com/c++-faq-lite/virtual-functions.html#faq-20.7;226621
+1904515;2010-01-01 00:49:44.233;1986657;0;"Each class could derive from the same abstract base class that records the connections in one instance of a ""master"" class. It sounds like you need a ""Building"" class that has the canonical view of what's going on.";12960
+1904516;2010-01-01 00:49:50.787;1987585;0;Well gee, would you look at that! That will clean up some of the Html.RenderPartial()s I've been using unnecessarily.;143327
+1904517;2010-01-01 00:52:35.010;1987585;0;You're right, it does work.  I didn't think it would either.  Thanks.;9266
+1904518;2010-01-01 00:53:23.213;1987585;6;"Keep in mind that lambdas are just method definition. A method can take a parameter ""x"" and not actually use it in the method body. A neat trick, for sure! I highly recommend reading Brad Wilson's 5-part series on templated helpers: http://bradwilson.typepad.com/blog/2009/10/aspnet-mvc-2-templates-part-1-introduction.html";31668
+1904519;2010-01-01 00:54:28.017;1987609;0;Was just going to answer the same thing. great answer!;220819
+1904520;2010-01-01 00:54:30.450;1987585;1;"I never realized that about lambdas; where have I been all this time?!";143327
+1904521;2010-01-01 00:54:50.140;1987601;0;You will have to debug the PHP script or post it here. It's impossible to tell without.;187606
+1904522;2010-01-01 00:55:06.953;1987612;0;It does look weird. Apparently, some code generators also use it. But I'm wondering if it's some convention for RMI, perhaps brought in from another language.;572
+1904523;2010-01-01 00:55:22.507;1981765;0;This worked great thanks so much!;240487
+1904524;2010-01-01 00:58:15.077;1987614;0;I'd have to check which classes it was in. This is in a school assignment, and the use of $ in variable names caught me off guard - I had forgotten it was even valid. If it was proxy classes, I could assume that they were probably generated.;572
+1904525;2010-01-01 00:59:28.243;1987619;0;Does that still apply if developer is full-time paid to work with open-source technologies?  Such guy surely uses a lot of them in his projects, but isn't there anything differrent?;158676
+1904526;2010-01-01 00:59:34.250;1987603;0;If you'd asked me, I'd have guessed that `$` was valid in class files, but not java source.;21234
+1904528;2010-01-01 01:01:49.877;1987621;1;+1: Leave the presentation formatting to PHP;135152
+1904529;2010-01-01 01:02:22.930;1987601;0;there are three PHP files, contact.php functions.php and config.php. They are all located in the root folder. They are too long to post here. Any other way?;121630
+1904531;2010-01-01 01:03:55.297;1987629;0;Note that this is Python 2.x syntax.  Python 3.0 has print as a function, and redirection is done completely differently.;238406
+1904532;2010-01-01 01:05:14.537;1987452;0;In this case I'm using them for hours.  They don't really need to be exact I just wondered why those seemingly simple numbers would result in a SUM so seemingly wrong.  Now I know :);32892
+1904533;2010-01-01 01:05:38.023;1987397;0;For some people, far too low.;34397
+1904534;2010-01-01 01:06:04.717;1987621;0;That's exactly how I do it in our Java/MySQL system. It works great.;18189
+1904535;2010-01-01 01:06:19.747;1987480;0;Good explanation in simple terms.  Thanks!;32892
+1904536;2010-01-01 01:06:44.310;1987300;0;"I would only want to use Part or HardDrive for finders, so I could do Part.all and then render views based on that, but that's not such a big loss.
+
+I've tried using inheritance but as far as I can tell, I can't use ruby inheritance and have it use different tables for the subclasses. I initially designed this with STI as I said but there's a known bug in DM on their lighthouse page that prevents that.
+
+What strategy would you use?";241445
+1904537;2010-01-01 01:06:50.307;1986204;0;Is it churning out lots of debug SQL statements to the debug window? Try setting showSql to false when you configure the session factory.;83109
+1904538;2010-01-01 01:07:46.087;1987625;0;ok, you might be on to something. THe working version has a PHP version of 5.2.11 and the non working version is 4.3.11. So Im guessing I have to call them to update it?;121630
+1904539;2010-01-01 01:08:09.487;1987601;0;You can use a site like http://pastebin.ca to post the files and then link.;148870
+1904540;2010-01-01 01:08:25.000;1987613;2;While you're very right in your advice, that doesn't have anything to do with the problem in subject.;158676
+1904542;2010-01-01 01:08:57.527;1987532;0;global is notoriously evil. I'd redesign/refactor my system before I used global.;16668
+1904543;2010-01-01 01:09:13.837;1930851;0;Is using QPersistantModelIndex the only sane way? The Qt MVC classes feel really outdated to me…;24587
+1904544;2010-01-01 01:09:28.633;1987640;0;How can I make the switch in Coldfusion elegantly?;149080
+1904546;2010-01-01 01:09:33.063;1987528;0;Folks are suggesting ways to do this, but why would you want to? This kind of pattern causes unmaintainable code. Consider refactoring.;16668
+1904547;2010-01-01 01:10:16.550;1984901;3;"on many platforms, older perl's would have done better; starting in 5.10, usefaststdio (formerly the default on many platforms - which causes perl to try to interact in encapsulation-breaking ways with libc's FILE structs in the interest of blinding speed) defaults to off and the slower perlio abstraction layer replaces use of stdio.";17389
+1904548;2010-01-01 01:11:38.693;1878803;0;@steveha: +1 - Named constants for function call: excellent use for function attributes.;140894
+1904549;2010-01-01 01:11:49.697;1984901;2;"@steveha: I'm not seeing any comments that I'd label as sniping, except at oversimplified ""benchmarks"", regardless of language.";17389
+1904550;2010-01-01 01:13:13.190;1983334;0;ok then i know. it is just to use common sense then. im using php:) a very easy to learn language..but the hardest part is to learn how to code the right structure:);206446
+1904551;2010-01-01 01:13:32.713;1987640;0;"You could make the ""switch"" by keeping a variable that keeps track of the section you are on.  When that section no longer matches the ""LastSection"", create the next header.";55164
+1904553;2010-01-01 01:14:37.423;1982562;0;Opening them to `/dev/null` is typical.;20713
+1904554;2010-01-01 01:15:14.137;1987226;0;Yes.  The dictionary is being leaked.;25646
+1904555;2010-01-01 01:15:58.293;1987640;0;Neil can you provide an example in CF that shows how that looping would work?;149080
+1904557;2010-01-01 01:16:49.713;1984946;0;Will this be unique for a computer across the world?;238030
+1904558;2010-01-01 01:17:33.627;1984946;0;And is it Mac-specific, or will the Windows version (`UuidCreateSequential()`) give the same result?;238030
+1904559;2010-01-01 01:17:51.527;1987645;0;Can you show a code sample of what it is that you're doing and when the value switches between the two formats?;31668
+1904560;2010-01-01 01:18:11.473;1986986;0;@Pavel - thanks for the explanation of the subtle mistake.  I've updated my example.;29809
+1904561;2010-01-01 01:19:16.467;1987555;0;"This totally worked! The trick was the <textContent> property. It was the reason I had been getting blank outputs.
+
+Thanks Josh. You rock";445584
+1904562;2010-01-01 01:19:27.400;1987583;2;Safaali, seeing as you have a certain interest in PHP, do yourself a favour and look into fixing that script.;187606
+1904563;2010-01-01 01:19:50.727;1987529;0;You should probably declare min_so_far as an int* or else pass the address of min_so_far when you make the function call. As it is, it'll probably compile but have major logic errors (and/or a segmentation fault).;129655
+1904564;2010-01-01 01:19:59.863;1987613;0;"Thanks for the quick answer guys.  With a virtual destructor, this still compiles and executes with a ""pure virtual method called"" error with gcc-ubuntu-64 4.3.3.
+
+The first produces the error, the next does not.  What is inherently different between the two?  The second takes the address of a temporary, which of course is not good.  Does the first also?
+
+Button button = Button( Action<View>( view, &View::foo ) );
+
+Action<View> action( view, &View::foo );
+Button button2 = Button( action );";NULL
+1904565;2010-01-01 01:20:19.427;1987485;0;"I agree that in principle this could be done, but it is rather more complicated in practice than your quick sketch would indicate. var not only requires that there be an initializer, it also requires that the initializer not refer to the variable. If you have int M(out int) then you can say ""int x = M(out x);"" but you cannot say ""var x = M(out x);"" because to do overload resolution on M, we need to know the type of x, which is what we're attempting to figure out. Would it be legal to say ""var s; if (b) M(out s); else s = 0;"" ?";88656
+1904566;2010-01-01 01:20:24.157;1987532;0;Sure, but that wasn't the question.;228936
+1904568;2010-01-01 01:21:43.090;1987589;0;Also, you should accept the answers that are correct.;220819
+1904569;2010-01-01 01:22:23.420;1968581;0;Proxy class, or proxy server? It sounds like it might not be so easy in a shared hosting environment, right?;384670
+1904571;2010-01-01 01:23:14.883;1984946;0;According to this: http://developer.apple.com/mac/library/documentation/CoreFoundation/Reference/CFUUIDRef/Reference/reference.html, the UUID is unique across time and space. I need it to be the same across time because I want to be able to use it at any time to uniquely identify a computer. How do I do this?;238030
+1904572;2010-01-01 01:23:21.933;1987625;0;No, mail() should work on both of them.;187606
+1904573;2010-01-01 01:23:22.777;1987460;0;"@Roger Pate: `a` is not a pointer to a static memory block, it is an array on the stack and it is initialized; therefore, yes this answer does apply.";3153
+1904574;2010-01-01 01:23:29.530;1987641;0;Why was this downvoted?;55164
+1904575;2010-01-01 01:23:30.093;1987238;0;This just gives (0,0) as before, unfortunately.;58635
+1904577;2010-01-01 01:24:18.390;1982071;0;I don't think it's possible to listen to KeyUp and KeyDown from the software keyboard.;13070
+1904578;2010-01-01 01:25:16.173;1987058;0;@BalusC - wow. Awesome answer. I can put that to good use myself.;181144
+1904580;2010-01-01 01:26:07.703;1987613;0;Mike: The issue isn't taking the taking the address of a temporary, but using a reference after the lifetime has ended for the object to which it refers (see my answer).;NULL
+1904581;2010-01-01 01:26:40.117;1987079;0;What I do (if I don't care about the jit time -- sometimes that is the thing that I am profiling since I often want to measure startup time), I simply run all my tests ten, a hundred, or whatever times and discard the first result.;88656
+1904582;2010-01-01 01:26:47.387;1987647;0;"About undefined-ness... I checked the assembly, it seems that gcc didn't destroy `Action` hierarchy *at all*, if destructor was ""trivial""--i.e. compiler-generated.  So the code correctly caught vtable pointer without destructor since it remained in memory unoverwritten.";158676
+1904584;2010-01-01 01:27:14.860;1985149;0;Thank you for the words!;137954
+1904585;2010-01-01 01:27:29.930;1987573;0;"I'm still in the process of learning so maybe the next go around I'll learn the ""right way"" to do some of this stuff. ;)";172964
+1904586;2010-01-01 01:30:09.083;1976193;0;I looked at your code. I think you should give each table (that will toggle 'selected' a common class like 'atBat' and target from there. I will edit my original post with my suggested code. Please let me know if it works.;230520
+1904587;2010-01-01 01:30:16.260;1987561;0;Just what I needed. If I create the new file descriptor inside a function, will it still exist after the function ends?;25700
+1904588;2010-01-01 01:31:10.610;1987119;0;Is DIR_EXCLUDES just `['.', '..']` or does it include other stuff?  Also, do you get the same time results the second time you run it?  Windows XP and beyond do some pretty freaky caching of filesystem info, and it can really affect benchmark results.;221537
+1904589;2010-01-01 01:31:33.543;1987619;0;Ok. you seem to have covered it in your edit. (it's ok to remove this comment thread);158676
+1904590;2010-01-01 01:32:18.393;1987615;0;It worked like a charm... just like what I wanted!! :) going to put this in a shell script for batch labelling... thanks a lot!;196863
+1904592;2010-01-01 01:32:39.483;1987647;1;"There's no correctly catching this; it's undefined behavior and all bets are off *in the entire program* (as far as the standard guarantees).  What you found does make sense though, in the trivial-dtor case the vtable pointer isn't updated, so no error message.";NULL
+1904594;2010-01-01 01:34:46.283;1987663;0;thanks seems I have to forget whole my code and turn to cURL :( :(;238952
+1904596;2010-01-01 01:34:53.347;1987552;0;As always there is more than one way to anything with programing. Thanks everyone for your answers!;172964
+1904598;2010-01-01 01:35:33.860;1987592;0;This seems to be the simplest way. Thanks;172964
+1904600;2010-01-01 01:35:56.857;1987672;1;"How deep do you want to get into the mathematics? How ""CS"" should the answer be?";76337
+1904601;2010-01-01 01:37:09.740;1987672;0;Mathematics? *bemused face!* By all means feel free to mention those, though I admit I'm more interested in their practical CS applications.;129655
+1904602;2010-01-01 01:37:34.357;1987670;0;Don't use ordering unless needed. If no proper index is present, the `ORDER BY` query will lead to creation of temporary tables to execute the query.;137954
+1904603;2010-01-01 01:40:35.880;1987374;0;sorry about the delay i went shopping lol. i have tried JYIops47fx1q and lots of different variations;152598
+1904605;2010-01-01 01:41:33.630;1987374;0;thank you @David Stratton, am trying it now.;152598
+1904606;2010-01-01 01:41:57.233;1987657;0;One thing to watch out for is that ConvExpr is not part of the interface of the QuotationEvaluation module (at least in v1.9.7.8 of the Power Pack).  (I get a compiler error when I try to use ConvExpr.)  The module interface surfaces it via the `Expr.ToLinqExpression` extension method.;61700
+1904608;2010-01-01 01:42:15.893;1987601;0;Not using GoDaddy hosting would probably be the easiest solution to this and many other problems you have yet to experience.;187712
+1904610;2010-01-01 01:43:17.637;1987511;2;"Actually, try/except blocks in Python (contrary to experience from some other languages) are very cheap when exceptions are not raised, and in any case that code is there to catch problems that could not be determined in advance (such as ""access denied"" on certain items) so it can't really be avoided.";221537
+1904611;2010-01-01 01:45:10.440;1987589;0;Good point, i did try - hate pissing off developers but apples documentation is pretty complicated :/;161266
+1904612;2010-01-01 01:45:31.393;1987374;0;@Andy White - No, I haven't tried any special characters. I usually just assume they're not supported.;152598
+1904614;2010-01-01 01:45:49.190;1987478;0;I'm not sure why 'preceding' isn't working. Could it be that it compares only to the preceding sibling nodes of the node in question as opposed to *all* preceding nodes?;31668
+1904615;2010-01-01 01:45:53.310;1987683;0;"a) it's what he asked for, and b) it's `register_globals` ;)";220819
+1904616;2010-01-01 01:46:11.517;1987647;1;Demons flying from the nose and all that.;33345
+1904621;2010-01-01 01:48:20.777;1987683;0;Er, yeah, register_globals. And you're right--actually let me refine that to: make sure you don't do that in global scope, and only inside a function. (which is also what you said, but it deserves emphasis);241779
+1904622;2010-01-01 01:49:01.370;1986182;0;Though Marc W's Answer is technically right answer, klokop's answer works;238569
+1904623;2010-01-01 01:50:02.787;1987647;0;Thanks Roger, now I understand what's going on.  I only recently started using const for non-trivial code, so the scope of action wasn't entirely clear to me.;NULL
+1904624;2010-01-01 01:50:26.653;1987676;0;I explode every string to do some kind of comparison for my application. Some time it also get single CHAR so it create these problems. If i want to pass argument by myself then i know i can pass a string. But that is at run time. Can you please another solution ?;238384
+1904625;2010-01-01 01:51:25.280;1987576;1;thanks. that was my impression. i'll take the performance hit :);115025
+1904626;2010-01-01 01:51:36.370;113164;0;"%-formatting won't go away any time soon, but the ""format"" method on strings is the new (current) best-practices method.  It supports everything %-formatting does and most people think the API and the formatting syntax is much nicer.  (Myself included.)  Python has a third method, string.Template added in 2.4; basically nobody likes that one.";208607
+1904627;2010-01-01 01:51:56.853;1987682;0;What errors are you getting?;55589
+1904628;2010-01-01 01:52:25.200;1987676;0;"Or you can also say that I am looking for organization in a string and at run time it get the arugment ""or"" again it will say YES EXIST";238384
+1904629;2010-01-01 01:52:54.280;1987687;2;No it doesn't, you can build an entire interface from within code.;220819
+1904631;2010-01-01 01:54:48.783;1987683;0;I agree, globals are really really bad. But it's what the doctor ordered.;220819
+1904632;2010-01-01 01:56:55.957;1986926;0;I tried putting the init method into the urls.py, but seems it won't be called before any visiting;192048
+1904633;2010-01-01 01:57:05.393;1902376;0;<+ +> looks like latex-suite substitution fields...try Ctrl-j to move between them.;230537
+1904634;2010-01-01 01:57:33.617;1987000;0;Pretty close as it turns out.  I wasn't checking to make sure the filter parameter type I was setting was correct.  I'll explain in an answer below.;15609
+1904636;2010-01-01 01:58:06.780;1987691;0;BTW this issue is unlikely to be related to the issue you link to. That guy's VS installation just seems totally messed up.;31668
+1904637;2010-01-01 01:59:04.017;1987671;1;I would suggest useing the `${$key}` format but only to improve readability.  Thats entirely a personal preference though.;55589
+1904638;2010-01-01 01:59:40.537;1987460;0;"Brian: `struct A { char a[20]; };`, A::a is a non-static data member.  Your answer doesn't apply to this case.  The question wasn't clear.";NULL
+1904641;2010-01-01 02:01:02.797;1987672;3;"""practical"" and ""CS"" in the same sentence! LOL!";76337
+1904642;2010-01-01 02:02:32.637;1987254;0;@jbochi, 90%+ of the time consumed is in accessing the filesystem, so it's unlikely much improvement could be seen using things like map().;221537
+1904644;2010-01-01 02:03:20.203;1987702;1;This is a basic case of debugging. What does the full, generated query that inserts the row look like?;187606
+1904645;2010-01-01 02:03:30.513;1987625;0;nope, it worked after i upgraded php versions.;121630
+1904646;2010-01-01 02:03:59.640;1987432;0;@chobo: see edits.;24995
+1904647;2010-01-01 02:04:10.887;1984863;0;Doesn't this destroy existing merge info, or is the merge info redundant there?;5555
+1904648;2010-01-01 02:04:11.290;1987290;0;`if (B* b_ptr = dynamic_cast<B*>(x))` and no need for the either the union or mis-scoped variables.  Plus you can write more natural `else if` instead of `else { ... if ... }`;NULL
+1904650;2010-01-01 02:05:13.023;1979261;0;Do you mean this to be impossible with Fluent NHibernate automapping, Fluent NHibernate as a whole (meaning with the fluent mappings as well), or NHibernate itself?;135318
+1904651;2010-01-01 02:05:27.670;1987672;0;"Ah, my apologies, I misunderstood you. I thought when you said ""CS"" you meant, more practical than pure mathematics. I keep forgetting that many people see the CS as only the theoretical side. I am more interested in the ""software development"" side... Is that better? But any answers will be welcomed.";129655
+1904652;2010-01-01 02:06:06.547;1987455;1;It didn't here.  Slightly slower, in fact, which perhaps isn't too surprising considering that the list is built in C code and there should be less overhead scanning a list than using an iterator.;221537
+1904653;2010-01-01 02:06:17.683;683522;0;"I don't understand why this was marked as the answer, when Jon never really answered the question... he only commented on what you wrote, but neglected the question, ""What other outdated practices are there?""";65387
+1904654;2010-01-01 02:06:33.953;1984994;0;Do you mean that when you right-click -> Subversion -> Add them, they don't get added?;5555
+1904656;2010-01-01 02:11:37.517;1987715;0;The problem with this will be if there are other $'s in the string, no?;239879
+1904658;2010-01-01 02:15:47.183;1984803;1;"Yes, you're reading it wrong.  Response.AddHeader doesn't take a full-header string (""Content-Disposition: attachment;...""), but rather two strings: the header name (""Content-Disposition"") and the header value (""attachment;..."").";241753
+1904659;2010-01-01 02:16:15.620;1987715;0;This will match any number after a dollar symbol at the end of a string only. Without knowing enough about the rest of your titles, I can't say how reliable it is. For example, if there are spaces between the symbol and the numbers (or other data between the numbers and the end of the string), then it won't match.;14054
+1904660;2010-01-01 02:16:22.233;1987683;0;Thanks for that. I'll try it;241781
+1904661;2010-01-01 02:16:28.240;1987137;1;Thanks, Bill. I've added a root_id column to both the tables and implemented the methods you suggested (http://pastie.org/762955). I'm not able to see the big picture though. How would the method to iterate over the Rows in the Rowset work dealing with the tree spread out over two tables? I'm assuming that fetchTreeByRootId() needs to use a UNION. Or would creating a view be a better solution? Although I do like being able to utilize the existing classes...;24805
+1904662;2010-01-01 02:16:36.400;1987264;0;"Thanks!
+The only improvement I would suggest is to use bitwise operations for the by 2 division. Supposed to be 2 to 3.5 X as fast.
+
+var probe:int = (low + high) / 2;
+
+would become 
+var probe:int = (low + high) >> 1;
+ 
+http://osflash.org/as3_speed_optimizations";129899
+1904663;2010-01-01 02:17:31.470;1987676;4;Sorry, I don't really understand what you're trying to do. Can you explain?;18393
+1904664;2010-01-01 02:17:46.037;1986917;0;Navigation rules will be ignored. `ExternalContext#redirect()` will call `FacesContext#responseComplete()`.;157882
+1904665;2010-01-01 02:18:25.087;1987702;0;Try to use DECIMAL MySQL datatype to store price. Your regex is not very good but should work.;27309
+1904666;2010-01-01 02:18:50.607;1984190;0;Yeah, it's pretty dirty, but as per the OP, the class only has one property. See edit for a better solution.;129404
+1904667;2010-01-01 02:19:43.867;1987702;0;"INSERT INTO resultset (search_id,title,price,source_url) VALUES (""1"",""***BUYING ALL BRAND NEW BLACKBERRY IN ANY QUANTITY BOLD~JAVELLIN~ONYX (Chelsea) $100000"",""100,000.00"",""http://newyork.craigslist.org/mnh/ele/1532363555.html"")";239879
+1904669;2010-01-01 02:20:04.503;1305785;0;A variable length string could justify having memory allocated within the function. I would be very hesitant about such code in my own project however, and rather prefer to explicitly specify a maximum length that is chosen based on the context and requirements of the code. What sort of variable length strings are you talking about? They couldn't possibly be more than several KB/MB that could be pre-allocated?;118364
+1904672;2010-01-01 02:20:59.060;1987702;0;Wow.. I see my problem. Damn it. A little point in the right direction and I'm on my way. Thanks! =);239879
+1904673;2010-01-01 02:21:33.207;1987589;2;Stack overflow is a web site for any question about programming, no matter how simple. No need to downvote it just cos its basic. Its always nice to find a web site that answers your exact question without trawling through the api documentation when you are working things out.;145645
+1904674;2010-01-01 02:21:42.100;1984891;0;"yes brad is absolutely correct........
+now can you suggest some solution please........";195504
+1904675;2010-01-01 02:22:29.243;1987713;3;"You probably mean ""yes"", since there *is* a difference.";61801
+1904676;2010-01-01 02:23:42.690;683530;0;Good IDE should have intelligent word-wrap too...;65387
+1904677;2010-01-01 02:25:29.003;1986841;0;I've done what you said, I have a log full of memory usage statements, but I don't really know what to do about it. The memory usage increases with every email. With a subscriber list of 200, it gets to 160 then runs out of memory.;48523
+1904678;2010-01-01 02:25:32.810;1987674;0;Not actually.. I just wanted to use the text 'first_name' as the value of a new variable. So if I echoed $fn it would echo 'first_name';241781
+1904680;2010-01-01 02:25:39.640;1987673;3;@agazerboy - Don't put two totally unrelated questions into one Question.;139985
+1904681;2010-01-01 02:26:13.383;1987683;0;Well, if I clean the variable prior to assignment then shouldn't that be ok?;241781
+1904682;2010-01-01 02:27:29.373;1987709;0;"I'm not sure whether this is really framework specific or the implementational part of your question should at least be split from the architectural aspects.
+
+As far as the programming is concerned you could easily implement some sort of RESTful API in ZF, but you'll probably rather sooner than later have to make mainly architectural decisions which are not primarily bound to the language or environment you use.";240245
+1904683;2010-01-01 02:28:08.077;1987636;0;You can leave off the `-F'\t'`;26428
+1904686;2010-01-01 02:28:56.873;1987615;0;Actually ghostdog74's is a bit better.;26428
+1904687;2010-01-01 02:29:38.683;1987729;0;"I started writing this, but on re-reading the OP wants to change the *default* window size with which otherprogram.exe *creates* its main window.  By the time MainWindowHandle is available, otherprogram.exe may already have shown its window at the ""wrong"" size, resulting in a nasty visual glitch.";61700
+1904688;2010-01-01 02:29:46.700;1987679;3;I think as of today it will be called C++1x;NULL
+1904689;2010-01-01 02:30:11.380;1987460;0;@Roger Pate: Ya he could have meant that too.;3153
+1904691;2010-01-01 02:31:10.223;1987595;3;This just hides the error, it's still happening. Errors make PHP slow down so it's best to fix the error if at all possible. Using @ even slows down the code when there is not an error. http://vega.rd.no/articles/php-performance-error-suppression;3152
+1904692;2010-01-01 02:31:57.383;1987733;1;"After look at the ""Add References"" dialog again, I see that System.Web.Extensions is built against v2.0.50727. OK, so that's probably the problem. But what assembly holds System.Web.Scripting.JavaScriptSerializer now?";338
+1904693;2010-01-01 02:32:33.793;1987221;0;Perhaps the datastore viewers that are exposed by the different SDKs do not have similar functionality. This technique works nicely with the Python SDK.;226476
+1904694;2010-01-01 02:33:04.103;1986971;1;John Thank you for your suggestions !;220959
+1904695;2010-01-01 02:33:28.520;1986508;0;You're welcome, and Happy New Year :-);240245
+1904696;2010-01-01 02:35:01.853;1987737;0;I think it is changed in the DOM, at least in in 3.5 - I recently fixed a JS bug caused by this problem, code was looking for a hex value for computer style and it was getting an rgb one and failing the match.;8655
+1904697;2010-01-01 02:36:28.950;1987700;0;An important note is the addition of `var`;126562
+1904698;2010-01-01 02:36:59.963;1987739;0;Huh. You're absolutely right. I guess I better learn about these profile things. I can't believe they changes the linker rules like this. Any good links out there?;338
+1904699;2010-01-01 02:40:27.913;1986119;0;"I have done all things as you reported,
+
+turned out that is better to access repo by full path for ssh git clone syntax e.g. git clone ssh://git@192.168.0.6/home/git/repositories/my_project
+
+However to access repo without full path is better to add origin with server domain name e.g. git@atom-desktop instead of raw server address (e.g. 192. ...).
+Anyway big thx for your time and response ,
+ regards Tom";85005
+1904700;2010-01-01 02:42:34.693;683522;0;"@Mark: To quote Steven, ""because, well, it's Jon Skeet"". ;-)";66449
+1904701;2010-01-01 02:42:48.937;1985240;0;XHTML Strict doesn't allow the border attribute on an img element, so you've still not got valid markup.;8655
+1904702;2010-01-01 02:43:18.873;1987751;8;And, of course, EnumSet is implemented as a bitmask under the hood.;29173
+1904703;2010-01-01 02:43:29.323;1987739;1;http://windowsclient.net/wpf/wpf35/wpf-35sp1-start-here.aspx is a good starting point for the Client Profile in general.  http://blogs.msdn.com/bclteam/archive/2008/05/21/net-framework-client-profile-justin-van-patten.aspx is a bit out of date (it refers to the 3.5 SP1 beta) but should still help give a clear idea of what's in and what's not.;61700
+1904704;2010-01-01 02:43:35.723;1806430;0;I would expand on Meidan's idea. Host a copy of the library in a windows service for the faster net.pipe scenario.;18450
+1904705;2010-01-01 02:44:16.920;1987561;0;"Yes, but so will the pointer into the file. In other words, if you seek to the end of the file in the function you will still be there outside the function. `test() { exec 3<inputfile; cat <&3; }; cat <&3` will only output the file once, but you can do `test() { exec 3<inputfile; }; cat <&3`";26428
+1904706;2010-01-01 02:45:21.070;1838056;0;This does appear to be the issue...at least in my case. I've got the same kind of delay in one of my server methods, and in my client I immediately spawn five ThreadPool workers inside of an infinite loop that I can re-iterate by pressing a key. On the first iteration, the threads appear to be created very slowly (1-2 per second). Once the first five workers get their responses from the server and subsequently terminate, I trigger the second iteration, and all five workers begin concurrently and get concurrent responses from the server.;32536
+1904707;2010-01-01 02:45:34.390;1987706;1;"This is the perfect solution; there isn't any reason to loop through all the array values, when there is `extract()` that does all the work.";225647
+1904708;2010-01-01 02:46:36.060;1987747;0;Thanks for the thought, I think this is something akin to what DjangoSites.org does but I'm hoping for something a little more automated.;233507
+1904709;2010-01-01 02:46:38.663;1987599;0;"I get a ""permission denied"" error when I'm not root.";25700
+1904710;2010-01-01 02:47:13.967;1985158;0;"He means ""x+1.5"", not ""x*1.5"".";241753
+1904711;2010-01-01 02:48:27.007;1987446;0;Thanks a lot, this is exactly what I was looking for! :);211496
+1904712;2010-01-01 02:48:32.967;1987746;0;Yes, this does sound like what I am looking for.  But, I don't really want all pages do be served from the index page. I still want URLS like www.mysite.com/page/page2 and www.mysite.com/page-test.  Will the example you gave account for this?;144695
+1904713;2010-01-01 02:50:01.857;1987693;2;Please bear in mind that neither of those are supported, and your application may break on various devices or with future Android releases. The SMS content provider is not part of the Android SDK, so device manufacturers are welcome to remove it, revise it, or otherwise muck it up, and the core Android team is welcome to do the same.;115145
+1904714;2010-01-01 02:53:22.833;1986886;0;@Alex: Please click the check mark next to one of the answers to accept it.;76337
+1904715;2010-01-01 02:53:31.303;1987751;0;They are. It uses `long` for upto 64 `Enums` byte arrays, so called `JubmoSet`.;223196
+1904716;2010-01-01 02:54:16.730;1987758;1;more security for us all to learn;210754
+1904717;2010-01-01 02:54:22.797;1986652;0;Is the Hall constructor supposed to set the connected rooms to another hall or to the Kitchen?;3820
+1904718;2010-01-01 02:56:38.317;1987737;0;Yes, lots of values are converted to an equivalent unit when the computedStyle is calculated.;18936
+1904719;2010-01-01 03:00:08.857;1987702;0;"what are you going to do when the title is like ""10 little indians in 9 vases for 8 dollars""";210754
+1904720;2010-01-01 03:04:16.617;1987763;0;"Actually I have so many data which I need to store. That's why I choose sqllite. 
+Thanks for your quick response.";NULL
+1904721;2010-01-01 03:04:38.300;1987741;0;Note that if you use this approach, the zero-width characters get copied when users copy and paste the text.;231675
+1904723;2010-01-01 03:05:05.990;1987693;0;I totally understand that.  If you have some officially supported way of querying the SMS log I'd be happy to switch to it.  In the mean time I'm just trying to work with what's available to me.;13070
+1904724;2010-01-01 03:05:28.283;1987735;0;Great advice, Martin. And, thanks for the links. BTW, I had the 'Hello World' step in mind. However, now that I think about it, given that Java *is* platform independent, wouldn't it be best NOT to use RIM's APIs and, instead, go with a pure J2ME approach so that I can run the game in other platforms? I leaned towards Blackberry because that's the phone I currently have, but who's to say I won't switch over to an Android phone or something else tomorrow?;239270
+1904725;2010-01-01 03:06:20.667;1987724;0;Thanks for the link, Drewen!;239270
+1904727;2010-01-01 03:08:11.943;1987339;0;What platform are you running on?;167735
+1904728;2010-01-01 03:08:31.477;1987743;0;I think what you're referring to is something like mediawiki (cms used on wikipedia) right? If the article does not already exist (and consequently, the path), then load up a page that will help you create one.;101090
+1904729;2010-01-01 03:10:10.440;1987673;0;"So in the ""w"" case you are expecting something that returns false because it isn't a complete word?";186663
+1904730;2010-01-01 03:10:25.403;1987767;0;In general you shouldn't submit a GET request, when your submitted form will leave side-effects, like inserting data in a database, or updating the browser cookies. In addition, GET variables in IE are limited in their total content length.;222908
+1904731;2010-01-01 03:11:50.127;1987764;0;My connection string doesn't specify a username. It uses integrated security.;129164
+1904734;2010-01-01 03:13:40.277;1987196;0;+1 Another very good point in cases where view state is an issue.;57348
+1904735;2010-01-01 03:14:03.397;1912978;0;"I am not checking out files - just using ""svn info"" on a repository and I keep getting no output (although I get the output if I copy-paste the command into terminal). Setting custom config directory doesn't do any good, so I'd give up the problem with saving/reading svn's config data. Simply, there's not output from svn info, while ""svn --version"", for example, returns the output just fine :-/";197487
+1904739;2010-01-01 03:16:05.157;1964230;0;GunnessFan.  Thanks.  But it also helps that David and I have known each other online for well over a decade now.   Although I don't think we've ever actually talked via voice.;93528
+1904741;2010-01-01 03:17:25.917;1987746;0;yes, with proper configuration;2119053
+1904742;2010-01-01 03:17:43.360;1987718;0;I am aware of transactions being used for recordsets. But can they be used for SQL statements?;241786
+1904745;2010-01-01 03:22:14.550;1978413;0;can you post your new code again as an edit to the question;188788
+1904747;2010-01-01 03:23:07.420;1987695;0;"thanks :), I want to know what I am doing, when using cURL, i am blind........ so the difference between what I said and u is a space, 
+i included a space  mine: ...n7zMA==, WLSESSION=1528... yours: n7zMA==,WLSESSION=1528  is that the problem?";238952
+1904748;2010-01-01 03:23:19.713;1987775;1;Couldn't see any problem in your code. In my application, people upload files everyday with all weird names. Never ran into issues of uppercase or numbers. Are you sure that the `mysql_insert_id()` is printing something? Or by any chance is it breaking the code? And what do you assign for `$filename`?;137954
+1904749;2010-01-01 03:23:44.610;1987478;0;"That would be the preceding-sibling:: axis.
+W3C says:
+the preceding axis contains all nodes in the same document as the context node that are before the context node in document order, excluding any ancestors and excluding attribute nodes and namespace nodes.
+
+So, I can see why I might get duplicates if elements with the same name are ancestors, but I'm getting duplicates from sibling elements too!";241758
+1904750;2010-01-01 03:24:33.563;1987763;0;Core Data uses SQLite and offers better performance. Also, in my opinion, it offers easy data model management.;161815
+1904753;2010-01-01 03:26:24.963;1987686;1;SICP should be required reading for anyone doing software development. Lisp/Scheme may not end up being the language you use later on in life but what you learn from it is highly valuable.;167735
+1904755;2010-01-01 03:27:48.613;1987519;0;"Thanks, John. That solved the specific case above and seems to work great!
+
+What it doesn't seem to solve is how TestCase interprets named routes, whether they're in the test itself, or used in the application. For example, if I have in a test:
+
+redirect_to homepage_url
+
+and homepath_url expects the locale (map.homepage '/:locale', :controller => 'home'), I get an error, when running the test, that the url requirements are not satisfield (missing ""locale""). Again, the application runs fine as default_url_options takes care of adding the locale. Any way to fix that?";83218
+1904756;2010-01-01 03:27:57.457;1984646;0;i need to get all of them, i have created application to get the location using core location and loaded the google map. but it shows only a limited details, i came to know that some websites are offering the details about a place if the location is given to them. I need that one. To send the details to them and retrieve the response from them.;221153
+1904757;2010-01-01 03:28:04.307;1983600;0;@Nathan, a few questions : 1. by design the end-user cannot check or uncheck category nodes ? 2. if user can check a category (root) node : but doesn't select an item (child node) within checked category node : is this an error condition ? 3. only the act of checking a child node will automatically check the root node which is the category-parent of the child node you just checked ? 4. if I am allowed to uncheck a category node and I have an item node within its parent (category) node checked, when I uncheck the item ndoe : the category node (parent node) must also be unchecked ?;133321
+1904758;2010-01-01 03:28:12.013;1986860;1;Hey cuzzin, you ain't got no code that's raisin' `LoadPackageListFailed`;84270
+1904762;2010-01-01 03:34:22.750;1987519;0;Let me add that if this was only a problem in the test themselves, it wouldn't be so bad. I can just add the locale whenever used a named route in a test. But the problem is that it also generates an error whenever a named route is used in my application (and I don't want to have to change all that or specify the locale each time just so my tests will run).;83218
+1904763;2010-01-01 03:35:18.537;1987695;0;"same result : header says : HTTP/1.1 302 Moved Temporarily Content-length: 0 Content-type: text/html Server: Sun-ONE-Web-Server/6.1 Date: Fri, 01 Jan 2010 03:30:17 GMT Set-cookie: ERIGHTS=x2BFYIx2BVvODdWm9hREdxxH2PYux2Ff3BSmqQ9-hhBHcMigRXArbhL4YBG81w==;path=/;domain=.example.org Set-cookie: WLSESSION=1562534540.20480.0000; expires=Sat, 02-Jan-2010 03:30:18 GMT; path=/ Location: http://example.org/example.mp3&tag=1 
+
+the server sends same header with new cookies!!";238952
+1904766;2010-01-01 03:38:08.840;1362744;0;"As for singletons and MDI, you can have an app that has a ""single"" file open and an MDI interface. Visual Studio solutions are a single file in an MDI environment.";3820
+1904767;2010-01-01 03:39:13.287;1986014;3;"It would be a very good idea if you explain what is your definition of ""invalid string"" and in particular what is ""invalid"" about ""\x00"" or ""\xff\xfe"". Have you noted that the OP appears to be using Python 2.x and not 3.x and so PEP-0358 has little relevance?";84270
+1904768;2010-01-01 03:40:45.590;1987775;0;"$filename is set earlier in the code and is just equal to $_FILES[""filename""][""name""]
+I've done some more research into the issue and it seems that it may not be the capitalization, it is actually not finding a filetype on the image file i am trying to upload (I did an echo $_FILES[""filename""][""type""] and it returned nothing).  However, when I check the properties on the file in my Finder, it clearly shows that the filetype is jpeg.  I'm really stuck here, so thanks for any help you have.";179137
+1904770;2010-01-01 03:41:50.050;1876197;0;A property without a getter and setter is not a property, it's a field.;3820
+1904771;2010-01-01 03:42:03.513;1987794;0;Yes I can browse to it with no problem.  It just shows a blank page.  It doesn't do anything yet.;399832
+1904772;2010-01-01 03:42:08.363;1987545;0;@Tatu, any chance of fleshing it out a bit more with *how* this works. My knowledge of jQuery is just a tad short to totally get it. I think I understand how the CSS works with repeating in the x direction and the 16*5=80 bit and how you adjust the width of the yellow-star image, but how are you overlaying the two images on top of each other from a single image that has one star above the other? Does the -16px bring the gray star up to the same level as the yellow?;14860
+1904773;2010-01-01 03:42:43.433;1987795;0;I have switched over to using the googlecheckout dll's.;399832
+1904774;2010-01-01 03:44:02.357;1984756;1;With max() you Don't have to Repeat Yourself.;166849
+1904775;2010-01-01 03:45:28.950;1960200;0;This problem is crying out for a 20 character APL solution.;21365
+1904776;2010-01-01 03:45:58.433;1983148;0;"@Jonathan, If John's answer worked best for you, and is the best answer for your question, please don't hesitate to change your accepted answer, and accept his answer. At age 66, with my ""fifteen-minutes of fame"" as a programmer twenty-five years long-ago, believe me, I would not feel ""slighted"" in the least. It's not the length of the reply, or the research that went into it, but the accurcy and usefulness of the reply in the context of your question should be the only criteria, imho :) best,";133321
+1904779;2010-01-01 03:47:27.560;1987795;0;Still looks like the authentication problem described here: http://groups.google.com/group/google-checkout-api-dotnet/browse_thread/thread/6e3475a36596f5e7#msg_f42df6c42b423db9. Note point E: You should have one IIS website for the public pages and another one, with Basic Authentication, for the callback pages.;222908
+1904781;2010-01-01 03:48:04.983;1983600;0;@Nathan, Hi, once we know exactly what can and can't be done with category nodes (parentless, root nodes), this situation can easily be managed with just one or two boolean flags, or, perhaps, only by using two references to the currently checked category node (parentless, root), and currently checked item node (child node). best,;133321
+1904782;2010-01-01 03:49:29.677;1984734;2;"In any language, you'll always have to either copy the array, or pass indices into that array.  If you mean ""Lisp using a linked list"", then sure, it's nicer than ""Java using an array"", but I think ""X using a linked list"" is nicer than ""Y using an array"" for any X and Y.  (Displaced arrays in Common Lisp handle a little of the bookkeeping for you, but I don't think they really make this case much simpler.)";166849
+1904783;2010-01-01 03:49:53.030;1968971;0;i've done it using uislider;221153
+1904785;2010-01-01 03:51:27.720;1986961;1;See: http://www.wisdomandwonder.com/link/952/lisp-style-rules;121526
+1904786;2010-01-01 03:52:35.833;1987236;0;@Brian - thanks brian for this nice explanation. SO never disappointed me. this site has masterminds. and one more thing U understands question very well then u give answer very well. great work.;84201
+1904787;2010-01-01 03:53:17.280;1986742;0;"""One place I worked was "" ... possibly because the code did things that were strictly undefined according to the C/C++ spec; e.g. like making invalid assumptions about order of execution in expressions.  If your code runs with some compiler optimization switches and not others, that's most likely a bug in your code.";139985
+1904788;2010-01-01 03:54:53.300;1987307;0;I'm just using Proxy.dll as a container for all the wrapping code so neither of the modules has to know about the others existence.;105760
+1904789;2010-01-01 03:55:39.650;1987811;1;+1 for keeping your vote system simple (anything more than like/dislike just tends to add noise and very little signal) and the clear explanation. Welcome!;18393
+1904790;2010-01-01 03:55:57.543;1974510;0;As a kludge before resorting to an arbitrary-precision library, the `long double` datatype might work for the OP if it's large enough.;60777
+1904791;2010-01-01 03:56:12.363;1987695;0;"Well, the difference between your original code and mine is that yours doesn't have ""Cookie: "" at the start of $cookies.  That means that the cookies aren't being recognized as cookies.  The spaces between multiple cookies in a single header are optional.";241753
+1904792;2010-01-01 03:56:15.780;1986676;0;Devil's advocate: these seem mostly hypothetical.  If I'm not using MSVC, then why would that be in the top 90% of my priority list? Unless I need a speed boost that only ICC can provide (when was the last time compiler optimization was a bottleneck?), why would I care about that? And so on. Every non-trivial project has at least hundreds of open bugs in their bug tracker -- none of the projects I work on has the problem that we can't find enough bugs with only one compiler.  Why would finding potential bugs or helping out potential users ever be more important than working on actual issues?;166849
+1904796;2010-01-01 03:59:50.793;1987735;0;I agree.  You can always have 'optional' behaviour in your code or build that take advantage of hardware specific stuff like the BB clickwheel and add these later if needed and/or time permits.;183172
+1904798;2010-01-01 04:04:24.390;1973774;0;@daotoad, You posted a great tutorial for me. I am reading and practising. btw, i enjoy learning programming and english at the same time. THANK YOU A LOT.;215912
+1904799;2010-01-01 04:05:10.207;1987736;0;Thanks.  That's exactly what I was after.  I figured there should be something like this but I was coming up dry on Google.;10659
+1904800;2010-01-01 04:05:27.430;1987372;0;"I've tried two separate FTP clients on my Windows machine, as I said. No luck with that, unfortunately.
+
+The name of the third directory is ""1998 - Siege Perilous"" minus the quotes.
+
+Also, if there are any logs, I'm afraid I don't know where they would be. I tried to Google for the location without luck. I'll post the logs if I find them.";NULL
+1904801;2010-01-01 04:06:28.363;1984194;0;Nice, can this be wrapped into an extension?;156142
+1904802;2010-01-01 04:06:30.237;1987829;2;The system may or may not be badly coded but that is completely incidental to it's OOP-ness. Good code doesn't necessarily entail OOP nor does OOP necessarily entail good code.;18393
+1904803;2010-01-01 04:09:18.620;1987829;0;I agree with your point. But I am not particularly pointing to the OOP-ness for its bad structure. Sure I have seen many good codes which was structured before PHP 5. But it's not the case in what I have in hand. I would at least expect functions that deal with database queries. And not a set of queries in each and every point of the program where they are needed.;137954
+1904804;2010-01-01 04:11:04.907;1987131;0;You can override `process()` to display intermediate results and/or call `setProgress()` as required. Here's an example: http://sites.google.com/site/drjohnbmatthews/randomdata;230513
+1904805;2010-01-01 04:11:04.950;1987795;0;What I had to do is call go daddy and have them place an advanced ticket for google checkout postbacks. You may get a rep who doesn't know what it is, won't check into and brush you off, but if you call back a couple more times you will get through to someone that will help.;399832
+1904806;2010-01-01 04:11:12.083;1987747;0;Really, you just can't trust random users. Anything which can result in an unchecked fetch of ... *anything* can result in Bad Things Happening: href, src, iframe, javascript, even url()'s in css files etc.;17017
+1904807;2010-01-01 04:11:29.087;1987813;0;Thanks, that looks so much better.;78436
+1904808;2010-01-01 04:11:53.327;1987767;0;@Daniel - thanks. I didn't know any of that. Is it safe to use $_GEt when querying a database to show content to users? (READ ONLY, like a catalog of sorts);224988
+1904809;2010-01-01 04:13:44.527;1987736;0;"Too bad it's not standard.  +1 anyway; it *should* be standard.";41661
+1904813;2010-01-01 04:15:07.143;1987841;1;"Please post your ""bonus question"" as a separate question.";104533
+1904817;2010-01-01 04:17:24.020;1987841;1;Adam - It's a duplicate though.;224988
+1904819;2010-01-01 04:19:22.080;1987849;0;+1 for the courage to make a gross oversimplification that is, nevertheless as you say, close enough.;238704
+1904820;2010-01-01 04:19:47.743;1987334;0;Uhmmm... have any of you **read the code**?  There's only 524,288 combinations here.  It's very feasible...;209359
+1904821;2010-01-01 04:20:12.703;1986292;0;What type of appender are you using for log4net?;226629
+1904822;2010-01-01 04:20:33.107;1987838;0;"That did it, thanks a lot!
+
+I do realize it's quite a basic question, but I've only just switched from nvi and I got kind of confused with all the tab options.";241806
+1904824;2010-01-01 04:21:35.743;1987837;0;Yeah, I do realize. I was trying to say that I want ^T characters to be written to the file (which are usually rendered as 8 spaces wide). I apologize.;241806
+1904825;2010-01-01 04:21:51.437;1987853;1;Grails is the closest, but it's mainly known as a Groovy framework though.;125844
+1904826;2010-01-01 04:22:11.660;1987841;1;"@Greg - As a ""bonus Question"" I can get away with it. As a fresh one, I don't stand a chance. I also thought of it while typing up this one.  Also - I'm researching iPhone development and I want to learn objective-c for that reason.";224988
+1904827;2010-01-01 04:22:17.880;1980972;0;Thank you its working now...;226972
+1904829;2010-01-01 04:23:25.750;1987849;0;I actually am told by some friends that I am the 'master of simplification' lol. I just need to learn a new language, get a new computer and then voila, an iPhone app! It should take... um ... a few hours... lol;224988
+1904831;2010-01-01 04:23:27.300;1987850;0;"spinn,
+good call on renaming the file to test.
+so here's where i'm at...
+basically it appears that sometimes image files are not being detected as such.  the jpg file i was trying to test (that was failing), was pulled directly from my iPhone.  despite it showing up as a type jpeg in my Finder, when i try to grab the [""type""] (for both writing to the db and general file upload error check), it returns nothing.  so i guess what i need is some way to guarantee these 'images' to go through.  any thoughts?";179137
+1904832;2010-01-01 04:23:38.000;1980958;0;Thank you its working now...;226972
+1904833;2010-01-01 04:23:42.213;1987732;0;Thanks for this enhanced version even if the gain is small. It seems that we a reached a limit so we are going to run our process in background and keep the folders size list up to date using the change notification Windows supports. Same idea as you are suggesting.;160941
+1904834;2010-01-01 04:23:55.147;1987695;0;well, still have problem, see my another clarification,;238952
+1904835;2010-01-01 04:24:20.787;1987853;0;Yeah, that is true.;179233
+1904836;2010-01-01 04:24:53.270;1701872;1;NealB is right.  The basic issue in mainframe systems is that IBM almost never removes a facility, at least not within its first 20 years or so.  Like most programmers, mainframers tend to stick with what they know best (Unix folks still use awk!), and anyone in Z/OS has used CLIST in their early days.;241753
+1904837;2010-01-01 04:24:57.830;1987656;0;"+1. But why 'Action<View> event = Action<View>(view,&view::foo)'? Why not 'Action<View>  event(view,&View::foo)';";14065
+1904838;2010-01-01 04:25:01.400;1987841;0;It sounds like you're really looking for this question: http://stackoverflow.com/questions/113547/iphone-development-on-windows;893
+1904839;2010-01-01 04:27:10.700;1987602;0;Add a destructor to Action<> that prints out when it is destroyed and you will see it dying before it can be used and thus invoking undefined behavior.;14065
+1904840;2010-01-01 04:28:55.500;1987767;0;Yes, the best practice is to use GET for requests that display data without altering it, and POST for requests that may update or destroy data. (HTTP DELETE and PUT could be used for altering data too, but it's not common).;92448
+1904841;2010-01-01 04:29:02.940;1987849;0;Thanks, GregS. I thought I was going to be eviscerated for that one.  Glad to see it was read in the hasty spirit it was intended.;8992
+1904842;2010-01-01 04:30:32.870;1986134;0;Python's regex engine is a very strange beast. Fixed the answer.;5190
+1904843;2010-01-01 04:30:48.127;1973013;0;@steveha, yes, it's a font chooser. it has pre-generated sample text previews but that's not enough. it also has an option to generate dynamic preview using submitted text. because different text may have huge difference in appearance for a same font.;192767
+1904844;2010-01-01 04:30:49.000;1884500;1;+1, for mentioning Scala! :);192247
+1904845;2010-01-01 04:32:16.970;1001469;2;The problem I guess is that it will _not_ switch, it will still be r12345 after next update. And committed changes will go into HEAD (or will fail with conflict). That is not what committing dev was intending either way.;114488
+1904846;2010-01-01 04:33:25.687;1986841;0;Found a probable solution.  See EDIT 2 in my answer.;141172
+1904847;2010-01-01 04:34:13.897;1983896;0;Glad you found a good solution.  This idea works well for us, but the other solution looks better for you.;224359
+1904848;2010-01-01 04:34:16.920;1987811;2;+1 for searching first!;126562
+1904849;2010-01-01 04:35:41.410;1584958;0;Nexus is meant to be deployed to using http/https. Scp kinda works but this is a hack that will leave internal caches and indexes out of sync with the disks. You can schedule the flush and reindex if this is an absolute must, but we don't recommend this mode. We have some tools that make working with https self signed certificates much easier. You can ping us on the nexus-user list for more assistance.;77489
+1904850;2010-01-01 04:35:44.420;1987744;0;Yes, but `EnumSet` has the essential set operations, e.g. union via `addAll()` and intersection via `retainAll()`. See also: http://en.wikipedia.org/wiki/Set_(mathematics);230513
+1904851;2010-01-01 04:36:27.993;1979403;0;Thanks.. I have solved this problem...!!;240737
+1904852;2010-01-01 04:37:24.543;1987767;0;OK, thanks. Happy new year all.;224988
+1904853;2010-01-01 04:38:24.343;1987875;0;Longest list or IDEs FTW, thanks.;224988
+1904854;2010-01-01 04:38:38.053;1987866;0;@Monty i will have a look at it;146857
+1904855;2010-01-01 04:38:55.083;1987882;1;It's the second part that's the hard bit. Noda Time is not quite ready yet but soon it will be a good solution for time zone calculations in .NET: http://code.google.com/p/noda-time/;8954
+1904856;2010-01-01 04:40:03.630;1987887;0;Performance would probably depend on what are your access patterns to the structure, you could describe the expected access patterns to get suitable answers.;5190
+1904857;2010-01-01 04:41:55.497;1987743;0;Sure, this is what is known as routing. Good implementations are found in MVC frameworks like Ruby on Rails, Django, CodeIgnitor, etc.;92448
+1904858;2010-01-01 04:41:59.803;1983482;0;+1 Yes. I participated in the discussion. I admitted that my solution is too simple. It only works if the hot module itself does not require further modules. Felix' solution is more well thought-out but it is debated if *auto*-reload really belongs to the core.;220060
+1904859;2010-01-01 04:43:47.867;1987894;1;"Wow. IE broken. What else is new... 
+IE 6 had issues with float implementation. It seems that they might have not actually fixed the issue, but they have hidden it pretty well. Just my useless opinion here.";224988
+1904860;2010-01-01 04:45:09.783;1987779;0;And that would be for use with PowerShell v2 only since it uses the new Add-Type.;26478
+1904861;2010-01-01 04:45:13.433;1972695;0;I it changed my design of the site, but thanks. Check for you and I guess I will get around to testing it eventually.;224988
+1904862;2010-01-01 04:45:13.620;1987887;0;Thanks for the advice, I have added my senario.;226834
+1904863;2010-01-01 04:46:36.303;1987850;0;Just too many variables here...I'm not really clear where the upload is actually failing. Is there anything at all in the $_FILES array, or is it just the type that's missing?;241779
+1904864;2010-01-01 04:48:15.567;1987656;0;C# habit, fixed.  Thanks.;17034
+1904865;2010-01-01 04:49:11.980;1987902;0;"What does ""Each project/build will have only one source code file different"" mean? Do you mean that project1 and project2 will have the exact same source files except for one? That's rather strange, but if that is what you mean ...";238704
+1904866;2010-01-01 04:49:22.773;1987901;0;How is similarity computed? If all puzzles yield an integer value, for example, then you could create a Hashmap of int -> Puzzle, rounding each yielded value to some similarity threshold.;78182
+1904867;2010-01-01 04:50:54.037;1987683;0;"No, because the issue is someone setting variables that you don't intend to be set. (though I see the ""extract"" answer pretty much answers your question...lookup register_globals if you're curious about the security issue.)";241779
+1904868;2010-01-01 04:50:56.657;1970966;0;for that, you'd probably just capture manual screenshots (press both buttons together);103644
+1904869;2010-01-01 04:51:18.187;1987904;1;I'd rather not keep them inside the app, but I will give that a try later. Also, what does the underscore mean in front of a string?;166792
+1904872;2010-01-01 04:52:56.600;1878727;0;not actually, i guess a temporary fix was to put doctrine library inside the project library folder. it seems putting doctrine in a folder and including that folder in php.ini does not work for me. i am using windows 7, wamp 2;119032
+1904873;2010-01-01 04:53:25.373;1976193;0;"PERFECT!  All I had to do was add code that gave each AB table the 'atBat' class, and it worked great. (I will add this code to my original post).  Thank you so much.
+
+I'll add";240350
+1904874;2010-01-01 04:54:23.057;1987763;0;Can you give me any example or tutorial of CoreData?;NULL
+1904875;2010-01-01 04:55:09.903;1987835;0;Updated my question :);231917
+1904876;2010-01-01 04:56:12.927;1987901;0;see above for clarification;147601
+1904877;2010-01-01 04:56:15.393;1987910;0;Maybe give a bit more info on what you are stuck on exactly.  You can't figure out how to retrieve the model objects you need from the database?   Or you have them already, but you just aren't sure how to display the data in a template?;12983
+1904879;2010-01-01 04:57:54.647;1987907;0;Since google is god, go with google.;238704
+1904881;2010-01-01 04:58:41.753;448277;0;Nice, will work perfectly for my current project;163065
+1904882;2010-01-01 04:59:32.640;1987841;0;You are absolutely not going to build any iPhone apps on Windows if that's what all these silly threads are leading up to.;187712
+1904884;2010-01-01 05:03:21.127;1987877;0;Prasson, Thank you.;224988
+1904885;2010-01-01 05:03:24.573;1987769;0;This should not be tagged 'C'.  C and C++ are different languages.;226621
+1904886;2010-01-01 05:04:51.897;1986715;0;Thanks, I have to uninstall my Developers tool, delete the directory, and the install the proper iphone sdk for snow leopard. I had the iphone sdk for Leopard before.;115988
+1904887;2010-01-01 05:07:45.173;1986776;24;Using `[int(copysign(1, zero)) for zero in (0, 0.0, -0.0)]` gives `[1, 1, -1]`. That should have been `[0, 0, 0]` according to http://en.wikipedia.org/wiki/Sign_function;238424
+1904888;2010-01-01 05:08:39.570;1986057;0;Thanks Jerb I was able to get this working.  It was related to the ServiceOperationInfo on my workflow.;241347
+1904890;2010-01-01 05:10:27.003;1987837;0;Tab characters are actually `^I`.;20713
+1904891;2010-01-01 05:11:06.720;1987907;0;"Your example is borderline. Fluent interfaces change the scenario a bit. Calling V value = originalMap.inverse().get() is arguably better than BiMap<V,K> tempMap = originalMap.inverse(); V value = tempMap.get(); Also method combination is better than having to create another separate function with more code than just calls to the methods of the class.";5190
+1904892;2010-01-01 05:11:09.113;1987895;0;I am fairly sure you know this, but just for record: `enum` is also `int`.  I agree with your recommendation about `enum` though :-).;226621
+1904893;2010-01-01 05:11:09.457;1979198;0;i need a solution that runs on linux server. will any of those work on a gui-less environment.;240663
+1904895;2010-01-01 05:11:43.770;1985429;0;Really helpful suggestion and up to the point. Thanks.;132112
+1904896;2010-01-01 05:13:06.037;1987789;0;Did something similar with jquery using `prependTo` for a new field with the correct type while removing the old field.;212700
+1904898;2010-01-01 05:14:01.393;933167;0;`sigaction` should be generally preferred to `signal`, which has different behaviors on different UNIXes.;20713
+1904899;2010-01-01 05:14:23.523;1987904;0;Damn you for making me think on New Year's Eve! I don't know why I use the underscore, but all my scripts have it. I had to boot up my mac and test it without the underscore and it doesn't appear to make a difference. That makes me feel silly. If I had to guess I would say your issue is that the directory you are placing the .scm in is not in your folders list (Edit->Preferences->Folders->Scripts).;57348
+1904900;2010-01-01 05:15:53.597;1987868;1;Umm... Should you remove objective-c tag then?;125844
+1904901;2010-01-01 05:16:37.480;1952747;0;Excellent recommendation - easy to use!;42471
+1904902;2010-01-01 05:16:55.693;1831408;2;"I'm surprised your article didn't mention [FEN][1], which handles castling, en passant availability, etc.
+
+
+  [1] http://en.wikipedia.org/wiki/FEN";29173
+1904903;2010-01-01 05:19:06.947;1987887;5;Gender *can* be represented as binary 0 or 1, but more accurately represented as float between 0.0 and 1.0.;40516
+1904904;2010-01-01 05:19:51.850;1987932;0;Enable the Develop menu in Safari and check the console for errors.;187712
+1904905;2010-01-01 05:21:17.127;1986191;0;Well I have to respectfully disagree with that. I wrote in another comment that my purpose is to enforcing coding standards within my own project. So having java do that for me would be of great help, and is a good practice (I think) generally.;123349
+1904907;2010-01-01 05:21:28.960;1987893;0;I would seem dt2 is defined differently: please post its definition.;16076
+1904909;2010-01-01 05:22:17.063;1987919;1;Why are you calling function(*args) INSIDE the decorator?  It's job is to simply return a function (in your case, unmodified).;64004
+1904911;2010-01-01 05:23:36.547;1987931;0;"C# may have similarities to Java, but it is by no means a ""reworking"" of it.";194940
+1904912;2010-01-01 05:24:09.197;1987930;0;Why are you re-implementing an HTTP library?  Is there a problem with curl?  It has command line options for passing cookies, following redirects, etc...;64004
+1904913;2010-01-01 05:24:43.407;1987878;0;"@Ben - Thanks for the answer. Yes, we are using calculatedCell heights for each cell so the heights are different for each cell. 
+
+I need to do a calculate cell height before the cell is draw, with multiple buttons in the table cell. However, the location of the buttons will change in each cell.";216638
+1904914;2010-01-01 05:25:13.080;1987811;0;"Thanks guys. :-D  And thanks for not counting off for using the word ""simple"" four times in one question. :-D";242181
+1904915;2010-01-01 05:25:13.877;1986381;0;Thanks for your help, I have updated my further confusions in EDIT1 section of my post, any further comments?;63235
+1904916;2010-01-01 05:25:23.883;1987940;0;"the problem is that similarity may not be transient. You could have a situation where Similar(A,B) && Similar(B,C) && !Similar(A,C);";48839
+1904917;2010-01-01 05:25:49.380;1984622;0;Thanks for your help, I have updated my further confusions in EDIT1 section of my post, any further comments?;63235
+1904918;2010-01-01 05:27:31.000;1984672;0;Thanks for your help, I have updated my further confusions in EDIT1 section of my post, any further comments?;63235
+1904919;2010-01-01 05:27:58.190;1987940;1;OP formulates question such that we can assume his similarity is an equality relation.;24468
+1904920;2010-01-01 05:28:03.900;1984531;0;Thanks for your help, I have updated my further confusions in EDIT1 section of my post, any further comments?;63235
+1904922;2010-01-01 05:29:25.457;1987679;0;Bjarne Stoustrup says to think of the x as a hexidecimal number, so still 0x;241536
+1904923;2010-01-01 05:30:26.120;1987930;0;cURL won't work properly with proxies, I tried 5 proxies, but only one of them worked out with cURL I don't khnow why, so I built my own code.;238952
+1904924;2010-01-01 05:31:29.050;1970889;0;Make sure that your private variable is still being initialized.;84942
+1904925;2010-01-01 05:32:14.477;1986062;0;"As a ""learner,"" I can try but I'm quite sure I'd screw it up.";185727
+1904926;2010-01-01 05:32:45.537;1962730;2;If you creatively build a site that will only work in WebKit browsers, then I'd hope you'd creatively work for a competitor of mine.;76337
+1904927;2010-01-01 05:33:27.493;1987756;0;"Right you are on both accounts.  This thing has gone in many different directions.  I actually implemented the suggestion from paragraph 2, and it's my preferred way of doing things.  I've rewritten the code to fix the bug you suggest in paragraph one (the bug was exactly that...I'm a victim of my own refactoring).
+
+Thanks a lot for your help.  Happy New Year!";145350
+1904928;2010-01-01 05:34:08.717;1987236;0;@Brian - i expect you to answer my this question http://stackoverflow.com/questions/1962697/what-are-pros-and-cons-to-use-vendor-specific-extesions-which-are-not-included;84201
+1904929;2010-01-01 05:34:09.170;1987877;0;"@MOshe: Its ""Prasoon"". xD";165520
+1904930;2010-01-01 05:34:13.537;1986090;0;Thanks.  I didn't know InfolSelect was still available.  Has it not be upgraded since 2007?  OneNote has some issue with 64bit OS...forget exactly what the problem is...?;185727
+1904931;2010-01-01 05:35:04.707;1987339;0;The local system (running the expect script) is ubuntu linux.  The host the script is logging into is running SCO Unix.;46425
+1904933;2010-01-01 05:37:27.360;1987964;0;but in the old days, way back when ...;238704
+1904934;2010-01-01 05:39:45.610;1987956;0;Sorry, I forgot to mention that I am using a shared server and do not have the access to execute external commands.;238623
+1904936;2010-01-01 05:41:02.797;1987700;0;@Justin: Thanks, I forgot to mention it, just for the record, if you make an assignment (you miss the `var` statement) to an undeclared identifier (one that is not reachable in the scope chain), it will become member of the global object (a global variable) something that you don't really want or need...;5445
+1904938;2010-01-01 05:42:36.663;1987969;0;"Interesting. In PHP and some other languages, I've often used booleanValue = booleanExpression1 && booleanExpression2, and based on the evaluation of the ""and"" expression, booleanValue will be set appropriately. So this is not possible with Ruby?";83897
+1904939;2010-01-01 05:42:39.300;1987964;1;Anyone know the history of why this typedef was useful?  I suspect it had some relationship with 16 vs 32 bit.;59768
+1904940;2010-01-01 05:44:07.753;1987960;4;"What you're calling ""raw string operator"" is really ""verbatim string literal"".";5314
+1904941;2010-01-01 05:44:16.277;1984328;0;HI but should i alwyas use devenv.exe /resetskippkgs command to open Visual studio.I canot use the Start-> Progrramme-> MVS2008 option.;117077
+1904942;2010-01-01 05:44:51.667;1987964;0;I haven't been a Windows programmer back then but I doubt there's so much history about it. Windows has a bunch of LPxyz data types and probably, this is provided for consistency with those names.;33708
+1904943;2010-01-01 05:45:13.367;1987969;0;PHP and other C-likes short-circuit their &&s too.  When you're using booleans the results are as you'd expect, but when you've got object types and dynamic types you're into the language specific zone.;8992
+1904944;2010-01-01 05:45:28.687;1987964;6;@Todd:  Naw.  The windows developers felt they had to have SHOUTing types for all the system call parameters.;198536
+1904945;2010-01-01 05:45:31.713;1987969;0;Also, if X (current_user) is false (I assume this means current_user is not set--nil?), then will id be set to false rather than an int (the value of current_user.record.id)?;83897
+1904946;2010-01-01 05:46:04.730;1987967;0;as you suggested, i included the referer ----> same result:(;238952
+1904948;2010-01-01 05:46:33.910;1987980;0;I plan to head there to write my CSS file thanks though :);117069
+1904949;2010-01-01 05:47:11.303;1987969;0;See my edit.  If current_user is nill the whole statement ends up as nil.;8992
+1904950;2010-01-01 05:48:41.533;1987950;0;Thanks to John Saunders for pointing out this is a Windows issue. I heard using / is better for cross-compatibility, which doesn't matter too much here as I'm targeting Windows.;225650
+1904951;2010-01-01 05:49:01.543;1987893;0;"dt2 is clone of dt1 as I have mentioned. and defined as DataTable dt2 = null;
+
+Hope this is what you tring to look for.";215215
+1904952;2010-01-01 05:49:14.483;1987960;0;Thanks for the reply!;225650
+1904953;2010-01-01 05:49:18.740;1987868;0;No, I'm looking to use it for Objective-C;224988
+1904954;2010-01-01 05:50:27.397;235970;0;Does this method account for tabs = 8 spaces? or does it count tab as one character?;17925
+1904955;2010-01-01 05:50:30.993;1987982;16;"+1 for ack (AKA ""ack-grep"" on some distros).  It's `grep -r` on steroids.";212275
+1904957;2010-01-01 05:51:03.667;1978714;0;No - it doesn't release for you.  dealloc of the child view is never called.  Rather than view, I should say viewcontroller.;40106
+1904958;2010-01-01 05:51:04.923;1987964;0;"FWIW: ""LP"" stands for ""long pointer"". It's a remnant of the horrible Hungarian notation days.";166339
+1904959;2010-01-01 05:51:11.757;1987232;0;Thank you all very much. I was totally off! Interesting to see this app data folder!;53885
+1904960;2010-01-01 05:51:48.610;1987980;0;Any halfway *decent* CSS tutorial (and there are many) will also discuss how to invoke it in your HTML. Don't put the cart before the horse. Write the CSS and then invoke it.;153545
+1904961;2010-01-01 05:52:13.127;1987939;0;Great amazing thanks to both of you..I'll get up my rep so I can ++ you hehe.;241815
+1904963;2010-01-01 05:53:12.437;1987978;0;thanks,I have tried that, however since my program involved drawing using mouse drag, I need the super.paintComponents(s) to delete the trail of previous drawing when I drag my drawing to a new location.;80796
+1904965;2010-01-01 05:57:58.763;1987964;4;Back on 16-bit 8086, long (far) pointers and short (near) pointers were different: the former was a 32-bit value of segment+offset, and the latter was a 16-bit value of offset (thus could only point to within the same segment).  Nowadays there's no distinction between long pointers and any other kind of pointer.;20713
+1904966;2010-01-01 05:59:03.183;1987985;0;Perfect! Thanks!!;238623
+1904967;2010-01-01 05:59:47.230;1987985;0;Always a pleasure :);127404
+1904968;2010-01-01 05:59:55.910;1987959;1;there's nothing wrong with this log statement;6694
+1904969;2010-01-01 05:59:56.193;1987980;0;"Thankfully, this CSS is only for personal use so i (probably) won't be subjecting anyone to seeing my horrible CSS ;).";117069
+1904970;2010-01-01 05:59:59.983;1987964;0;long vs short...16 vs 32 bit?;59768
+1904972;2010-01-01 06:00:41.557;1987929;0;It's unclear why you're using a local variable (temping) here. Also, where in this does it break?;6694
+1904973;2010-01-01 06:01:10.457;1987910;0;Code samples help a lot.  The vague description is hard to follow.  Please provide code samples so we can understand what you are talking about.;10661
+1904974;2010-01-01 06:02:25.960;1987997;0;I only want the content of the one clicked, though. Is that possible, while keeping the anchor tags like they are?;214225
+1904976;2010-01-01 06:03:22.113;1987573;0;Might as well start with good habits.  If you've never heard of or read about normalization, now would be a good time to learn about it.;37213
+1904978;2010-01-01 06:03:42.650;1987997;0;"change .each to .click, somehow I missed the ""clicked"" part";151445
+1904979;2010-01-01 06:04:24.093;1987895;1;In C++ an enum has its *own* type traits, and implicitly casts to int in an int context.;33345
+1904980;2010-01-01 06:05:00.830;1987887;3;I prefer to represent gender as a complex value that is somewhere in the unit circle.  I have yet to see something involving gender that wasn't complex.;2624511
+1904981;2010-01-01 06:05:43.187;1987878;0;Is the second button disappearing when the first button is hit, or is it starting out hidden?;6694
+1904982;2010-01-01 06:05:56.983;1987996;7;My main concern is: Why would you ever want to do that in C++? That's dreadfully obfuscated.;77542
+1904983;2010-01-01 06:06:32.677;1987997;0;That worked wonderfully. Thanks. :);214225
+1904984;2010-01-01 06:06:32.957;1986566;0;"actually i was able to send the mails.i sent 4 5 mails.but later exception occured.is that a server problem.
+
+
+String[] recipients was written as String reciepients[] in the code provided by this site.i changed that is that the reason???";240855
+1904985;2010-01-01 06:06:40.920;1987853;0;I disagree - Groovy might be the glue, but it's all Spring and Hibernate underneath.  The generated code is Java AFAIK.;37213
+1904986;2010-01-01 06:06:58.807;1987959;0;"but i get image here and i pass this image to my next controller so at that  i place write this code 
+
+imgproducttoupload.image = [Global getimage]; 
+
+imgproducttoupload is uiimageview in next controller where i show image
+here i found bad exception";331153
+1904987;2010-01-01 06:07:17.980;1987964;2;"""long/short pointer"" is misleading (""far/near"" is clearer); it has nothing to do with the datum being pointed at, but rather the pointer representation.  A 16-bit system with segmented addressing can access more than 2^16 bytes of address space, but anything outside of the current segment cannot be accessed without a segment prefix.  x86-32 and x86-64 use flat addressing (PAE is weird and sorta gives you longer physical addresses, but virtual addresses are still 32 bits), so this is no longer relevant, but the naming was established with Win16.";20713
+1904988;2010-01-01 06:07:25.500;1987996;2;Also, your macro requires two parameters and you pass it one.;77542
+1904989;2010-01-01 06:07:34.420;1987994;0;"I tried defining double for the columns of dt1 as  
+dt1.Columns.Add(""b"", typeof(double)); 
+It's still giving same error.";215215
+1904990;2010-01-01 06:08:10.717;1987964;0;It seems my original assertion has been unofficially confirmed.;59768
+1904991;2010-01-01 06:10:30.937;1987997;0;Thanks. also added a couple more options in case you have other links on the page that you want to exclude.;151445
+1904992;2010-01-01 06:13:31.930;1978547;0;My bad, there's updated it now cause there was a syntax issue.;219912
+1904993;2010-01-01 06:14:26.047;1987994;0;"I tried defining double for the columns of dt1 as dt1.Columns.Add
+(""b"", typeof(double)); It's still giving same error. And also I 
+can't write the way u have written as the value of data in dt1 is 
+being polulated from a sql query. except when the sql returns null
+ value I manually add a row to the datatable dt1 as 
+dt1.Rows.Add(""xyz"", 0.0, 0.0); When the sql value is not null the 
+values of dt1 is dt1 = GetDataTable(strSQL); Where GetDataTable is 
+function which returns a datatable for the query strSQL.
+ Hope there is some way.";215215
+1904994;2010-01-01 06:14:56.387;1987969;4;"Really this has nothing to do with short circuiting; in Ruby, Perl, and other dynamic languages, the language designers chose `&&` to return the first false-ish value (or the last value, if all are true-ish), and `||` to return the first true-ish value (or the last value, if all are false-ish).  Short-circuiting just means that it stops at that return point, but even without short-circuiting the return value would be the same.";20713
+1904995;2010-01-01 06:17:18.473;1984228;0;"Rob,
+I downloaded the latest code and unfortunately gotten the same results.
+
+Thanks";96931
+1904996;2010-01-01 06:18:29.120;1987964;0;@ephemient: IA32 architecture actually supports segmented addressing but virtually all modern operating systems initialize segment base registers to 0 and effectively make a flat address space available.;33708
+1904997;2010-01-01 06:18:49.720;1521284;0;... but it *is* being parsed incorrectly... part of FBML implementation involves adding an xmlns:fbml declaration to the <html> element, so it is valid.;2596
+1904998;2010-01-01 06:20:22.860;1985309;0;Thanks rafael.. I got the point..;238828
+1904999;2010-01-01 06:21:07.257;1987853;0;Yeah on this inside it is Java, but from what I have seen, end users build on it with Groovy and GSP pages more often than with straight Java and JSP.;179233
+1905000;2010-01-01 06:23:09.810;1988006;0;Well written answer.;92942
+1905001;2010-01-01 06:23:11.807;1988018;0;Does the first div have an explicit width set on it?;135978
+1905002;2010-01-01 06:23:12.183;1967276;3;Glade is good, but it won't solve your example problem. Glade keeps the interface completely separate from the code. This keeps it portable between languages, but prevents things like your example.;105084
+1905005;2010-01-01 06:24:44.980;1987994;0;maybe instead of 0.0 try (float)double.Epsilon, or just single.Epsilon?  This would be an extreme hack, but since double.Epsilon =  4.94065645841247e-324 and single.Epsilon = 1.4e-45, it should still recognize a minimal value.  Even if you store single.Epsilon instead of 0.0, the merge values should remain accurate since you're only accounting for tenths.;151445
+1905008;2010-01-01 06:28:24.637;1987919;4;gahooa: because that's one way 'decorator' (what he imports, not the language construct) works, see http://pypi.python.org/pypi/decorator.;NULL
+1905009;2010-01-01 06:28:40.410;1987309;0;@Motti - Yes, it unfortunately appears that is the case. I believe the article was speaking about System.DateTime living in mscorlib, not DotNetFactory. Given that, is there a way to create an instance of System.DateTime via pure VBScript? CreateObject is causing errors for System.DateTime, but works for System.Collections.ArrayList without a problem. I don't have much .NET experience, so this has me a bit frustrated.;77777
+1905010;2010-01-01 06:28:58.083;1987844;0;That's an excellent idea! That even makes life easier to write _temporary_ codes and still maintain atomicity in the new table.;137954
+1905012;2010-01-01 06:32:18.543;1987975;1;"`Path.PathSeparator` is a character to split paths in the PATH environment variable. On Windows it is `;`. I updated this answer to refer to `DirectorySeparatorChar`.";138304
+1905014;2010-01-01 06:35:16.393;1971176;1;Using Velocity.evaluate() is a bug performance hit as it doesn't support Velocity's template caching mechanism.  If you put the templates in the classpath, use ClasspathResourceLoader.  For arbitrary file locations, use a FileResourceLoader.;32978
+1905015;2010-01-01 06:35:26.590;1984653;0;I accepted this because it answered the question that I asked, but I ended up just doing `new ImageMenuItem (stockId, null)`.;105084
+1905016;2010-01-01 06:35:46.620;1985948;0;@Mark, if you're using the negated character class `[^<]*`, which may be a good idea depending on the nature of the subject string, I'd make it possessive to prevent possible needless backtracking: `#<div>([^<]*+)</div>#`.;130169
+1905017;2010-01-01 06:35:48.617;1987878;0;@Ben - Starting out hidden. I had fooled around with 'setHidden = No' just to make sure, but it did not help. Also if you clicked the button, you could see it when it was clicked. I also tried UIControlStateHighlighted for the state but that did not help either.;216638
+1905018;2010-01-01 06:35:50.667;1987994;0;"@Jim : didn't get u exactly .. But do mean some thing like this dt1.Columns.Add (""b"", typeof((float)double));";215215
+1905019;2010-01-01 06:37:14.823;1793926;0;This didn't seem to help. I ended up just replacing my glade files with native code, which solved my cross-platform issues.;105084
+1905020;2010-01-01 06:37:22.473;1987767;0;Thank you guys....;175856
+1905021;2010-01-01 06:37:23.830;1988022;0;ulti cassini, or the microsoft one?;1220
+1905022;2010-01-01 06:37:57.200;1987767;0;"""Happy New Year""";175856
+1905023;2010-01-01 06:40:35.017;1942178;2;I've updated iptools to support Python 2.3, 2.5, 2.6 and 3.1.;8171
+1905024;2010-01-01 06:40:41.250;1988035;8;That really isn't named parameters in the way Objective-C does them. That looks more like a fluent interface. It's really not the same thing.;166339
+1905025;2010-01-01 06:40:42.913;1988022;0;microsoft one...;146857
+1905027;2010-01-01 06:41:54.673;1985921;0;"A small addition is necessary to this statement (added part in bold): “the ^ character is regex for _not_ (when used **as the first character** in a character group)”.
+`[^a]` and `[a^]` have different meanings. You probably knew that already, right? ;-)";130169
+1905028;2010-01-01 06:42:54.460;1987964;0;Right, it's possible use segments in 32-bit mode it but you break compatibility with every library in your environment and more :)  (Of course, if you do everything yourself, you can use segments, as Google NaCl does.)  x86-64 completely ignores the segment registers, huzzah.;20713
+1905030;2010-01-01 06:43:52.400;1988006;0;Thanks Pax, for your nice answer.;67381
+1905031;2010-01-01 06:45:33.753;1985957;0;you're welcome, and happy new year :);218682
+1905032;2010-01-01 06:46:10.280;1988035;23;I like using `.withFoo`, rather than `.setFoo`: `newBuilder().withSize(1).withName(1).build()` rather than `newBuilder().setSize(1).setName(1).build()`;125844
+1905034;2010-01-01 06:47:02.250;1987553;0;Fair enough: An automocking container leverages an IoC container to create mocks. A brief description of (I think) the first one is here: http://blog.eleutian.com/CommentView,guid,762249da-e25a-4503-8f20-c6d59b1a69bc.aspx;43836
+1905035;2010-01-01 06:47:54.030;1987641;0;This is a great approach, and will also work for any ad-hoc reports designed directly against the database.;32241
+1905036;2010-01-01 06:50:23.547;1988035;10;"Asaph: yes, I know. Java doesn't have named parameters. That's why I said this is ""the best Java idiom I've seem for *simulating* keyword arguments"". Objective-C's ""named parameters"" are also less than ideal, since they force a particular ordering. They aren't true keyword arguments like in Lisp or Python. At least with the Java Builder pattern you just need to remember the names, not the order, just like real keyword arguments.";90848
+1905037;2010-01-01 06:50:24.897;1985483;0;how do i define a variable to it? And may i know how does it work in python? Sorry for the newbie question because i do not really understand it and it does not seem to be working, maybe i did it wrongly or something;241467
+1905038;2010-01-01 06:51:35.120;1987875;0;Code::Blocks is a geek must.;113673
+1905039;2010-01-01 06:53:11.170;1962730;0;You needn't worry. I don't build sites for anyone. I was speaking from my perspective, as an Engineer, where compliance with standards is considered important. I recognise that web developers shy away from standards, because the 'standards' are only guidelines, and there's a kind of *arms race* going on to keep the browsing public entertained and coming back. I think the OP, while *deeply curious* about these things is not a developer, either.;153545
+1905040;2010-01-01 06:54:20.660;1984359;0;I left saving to session out, yes. Do it at (// save $destination_url to session). You may use for that Zend_Session, or $_SESSION super-global directly. Andrew, how the code looks like exactly depends a lot on how you do things in your application. I believe, at this point it's simple enough to figure the details out.;6430
+1905041;2010-01-01 06:54:39.047;1987959;0;how and where are you declaring the variable 'Global'???;221153
+1905042;2010-01-01 06:55:30.923;1980728;0;Thanks, I actually came across this the other day. I ended up using HTML5 with java fallback, but this isn't a very bad idea either. Only problem would be clients without VLC installed.;107510
+1905043;2010-01-01 06:56:01.377;1987356;0;Yes. Typically, each `+` operator involves the overhad of creating a new temporary `StringBuilder` object, initializing it with the partially built string, appending the next character, which typically causes the internal buffer array in `StringBuilder` to be reallocated and copied (again). And this happens for each loop iteration. So, yeah, it's generally a very slow way to do it. Using an explicit `StringBuilder` having a sufficiently large buffer allocated to it eliminates all of that overhead.;170383
+1905044;2010-01-01 06:57:00.883;1987961;0;Can you post reason why you want to fix your grid size, infact grid is designed for dynamic sizing, and for fixed sizes, you can simply use Canvas thats easy to design n fast.;85597
+1905046;2010-01-01 06:58:35.200;1988035;10;"notnoop: I prefer ""set"" because these are setters that mutate the state of the Builder. Yes, ""with"" looks nice in the simple case where you're chaining together everything, but in more complicated cases where you've got the Builder in its own variable (perhaps because you're conditionally setting properties) I like that the set prefix makes it completely clear that the Builder is being mutated when these methods are called. The ""with"" prefix sounds functional to me, and these methods are decidedly not functional.";90848
+1905047;2010-01-01 07:00:18.277;1988038;2;Would the downvoter care to comment?;166339
+1905049;2010-01-01 07:01:02.183;1962727;0;"But this is really a problem with the *browsers*, not the standards ;-D";153545
+1905050;2010-01-01 07:03:16.837;1984152;0;WOW! This totally rules, love it!;107510
+1905052;2010-01-01 07:06:22.010;1986759;0;No this is not relevant with my question. Sorry i know what interface is. What i really need is calling a method from a string.;176873
+1905053;2010-01-01 07:07:53.443;1988008;0;thnx  for support let me try and check;195504
+1905056;2010-01-01 07:09:24.850;1988063;0;Pretty much every framework out there uses a resource configuration file, to specify the username/password and database server.;125844
+1905057;2010-01-01 07:10:33.687;1986672;1;Don't you ever need refrection ? I used it in Java and glad C# has it too. and it is a long story where to use it. but it is really needed. Example above is just an example to explain myself. Of course i will not use it like that.;176873
+1905059;2010-01-01 07:11:20.487;1987856;0;Along with gzip, if you haven't concatenated all your js files into 1 file, you should do that too. http://www.ryandoherty.net/2008/10/12/optimizing-openspacebook/;956
+1905061;2010-01-01 07:11:46.303;1988010;2;Can you really use a lambda character like that? Awesome.;102937
+1905062;2010-01-01 07:12:54.510;1988063;0;I've now clarified a bit what I mean, sorry, my bad.;107510
+1905066;2010-01-01 07:15:19.167;1988090;0;I just tried it there but it doesn't seem to get called when I rotate the simulator. I stuck an NSLOG in there and it's not getting printed.;234371
+1905067;2010-01-01 07:18:13.250;1986745;0;I accept it and your all answers in 2010 will be accepted :P ( Thanks it really helped a lot );176873
+1905069;2010-01-01 07:18:41.633;1988095;0;@Luke i ll definitely work on that part...;146857
+1905070;2010-01-01 07:24:26.577;1988100;0;You'll have better luck at http://mathoverflow.net.;23897
+1905072;2010-01-01 07:24:54.227;1988094;0;changed accepted to this for the comprehensive explanation;117069
+1905073;2010-01-01 07:25:28.883;1988100;5;There's no such thing as clockwise or anticlockwise in 3D space. Clockwise or anticlockwise is only applicable on a 2D plane. If you want to project your vertices on a 2D plane first, it is up to you to define that plane. As stated, your question makes no sense whatsoever.;187690
+1905074;2010-01-01 07:25:33.383;1988068;0;Hmm. I was under the impression that you didn't specify the specific font, but i'll try it :);117069
+1905077;2010-01-01 07:26:34.583;1988102;3;umm... is this a homework/quiz question?;125844
+1905078;2010-01-01 07:28:18.243;1987949;0;AH! Exactly what I was looking for! - sorry for not providing code excerpts. Thank you.;84372
+1905079;2010-01-01 07:29:15.693;1988100;0;"I'm confused; are your vertices already ordered and you want to determine the order, or are they randomly ordered and you want to put them in order? Also are you aware that to make this determination the vertices would need to be mapped to a plane and one side would need to be declared to be the front?
+
+Usually ordering is used to specify if the triangle is facing the camera or not.
+
+Either way, why do you want to do this and in what language and or frameworks? Or is this a homework question?";459
+1905080;2010-01-01 07:29:18.237;1988101;0;Sorry for the confusion. I am deleting them myself, and there are FKs everywhere. I am using cursor to reuse p_DeleteB, which is fairly complicated.;3827
+1905081;2010-01-01 07:30:23.000;1988111;0;are you sure that we can generate calls form the application legally?? or this code is for jailbroken phones??;221153
+1905082;2010-01-01 07:31:31.257;933979;14;"@eyelidlessness: If you can implement A in B, it means B has at least as much power as A. If you cannot execute some statement of A in the A-implementation-of-B, then it's not an implementation.
+
+If A can be implemented in B and B can be implemented in A, power(A) >= power(B), and power(B) >= power(A). The only solution is power(A) == power(B).";77542
+1905083;2010-01-01 07:31:55.553;1988068;0;It works! Thanks!;117069
+1905084;2010-01-01 07:34:36.010;1988104;0;Thanks Rob Farley!;184273
+1905085;2010-01-01 07:35:46.927;1988111;2;@Nithin: plenty of apps in the app store can generate phone calls.  See one of the dozens of restaurant review apps for an example.;23897
+1905087;2010-01-01 07:39:41.240;1988105;0;"Yes, probably. Get rid of your cursor and you'll have a much easier time. If you want to post your code, there'll be plenty of people who can help you. My other answer still holds... that last paragraph where I say ""If I were you...""";144351
+1905090;2010-01-01 07:40:38.360;1984444;0;tried this and it seems to only work with folder externals and not single file externals support in 1.6+... first client to get this working right will have a nice edge over the rest!;104804
+1905091;2010-01-01 07:41:14.403;1984121;4;Thank you. This answer hits the spot cos it also explains the benefits of using `self`.;194982
+1905092;2010-01-01 07:41:32.650;1987029;0;Ok, fair enough.  I moved Core Data above sqlite.  I had a strong sqlite background and just found it much easier than Core Data to initially learn.  But someone with a stronger OSX programmering background might be different.;101280
+1905094;2010-01-01 07:42:59.550;1988090;1;Are you putting this in the view controller? Are you overriding other rotation methods, such as `-shouldAutorotateToInterfaceOrientation:`?;19410
+1905095;2010-01-01 07:44:58.233;1988010;1;I liked the lambda char usage as well, kudos.;184725
+1905096;2010-01-01 07:45:26.620;1987969;0;Ah, okay, I have seen the || symbol in Ruby before. That helps. On a different note, I don't think this works the same way in PHP. See this script, which prints 1, not 23: http://chadjohnson.ath.cx:8080/static/double_ampersand_test.phps;83897
+1905097;2010-01-01 07:45:45.190;1986881;0;thank you. That was very help ful. But what about the functions? Do they have similar offsets? In that case how would be the offset computed? when it needs to refer to a variable or call a function. How does it do it? say hypotheticall if I need `l = k+2`. How does it do?;241671
+1905098;2010-01-01 07:47:30.053;1988109;0;This post ought to be moved to Doctype.;220819
+1905099;2010-01-01 07:50:39.613;1987599;1;"That sounds like possibly some sort of misconfiguration; `/dev/stdin` should (almost) always be usable.  In particular, I believe Linux and Solaris both implement it as a symlink to `/proc/self/fd/0`, and the only problems I can think of would be if UID has changed.";20713
+1905100;2010-01-01 07:50:53.253;1984257;0;"Aha! After looking at this very quickly, I see that something like this could achieve the aim:
+
+RewriteRule ^([0-Z]+)/([0-9]+)$ /?uuid=$1&type=$2
+
+So this would map:
+'65.19.134.36/uploader/suhFolmJnCL3T_7oJ1rkxyeP4oSQtbzf/000' to the URL in the original question.
+
+Possibly. I can imagine that there is much more to it than I can see after a quick 10 minute investigation.
+
+Definitely worth looking into more though. Thanks for the idea! And how do you get line feeds in coments?? ;)";241389
+1905101;2010-01-01 07:52:01.037;1987975;0;Oops. Thank you for the correction, I did mean to post about DirectorySeparatorChar.;92414
+1905102;2010-01-01 07:52:57.470;1987599;0;"Well, so one ""common"" situation would be: terminal is owned by user A, script is running as user B, stdin is tied to terminal.  Is this what you're doing?";20713
+1905103;2010-01-01 07:53:52.453;1984290;0;I see, How would I layer UIViews then?;92714
+1905104;2010-01-01 07:54:48.143;1988147;1;Agreed. Though personally I think the ones who disable JavaScript are the same people who insist on investing in the buggy-whip industry. :);55589
+1905105;2010-01-01 07:55:04.393;1985695;0;"1. Can you elaborate on the properties in the entity class that you do not see? (maybe post the entity class here)
+2. ""..the code just stuck.."" ?? with no errors ? in log files on console?";74057
+1905108;2010-01-01 07:57:59.643;1987972;0;Exactly the kind of information I was looking for.;338
+1905109;2010-01-01 07:58:15.323;1988098;0;I was specifically referring to DataNucleus' JPA implementation, but it's good to know that JPA in general suits my need. I don't quite understand what you meant in the second paragraph, what in particular can't it do? :/;107510
+1905110;2010-01-01 07:59:06.077;1988146;1;"It isn't so much the definition as to having the tools to accomplish it.  You could compile VB into pure assembly, or you could write a low level VM loaded at runtime (like singularity).  Both would accomplish the questions parameters without needing to question the definition of what an operating system ""is"".";152246
+1905111;2010-01-01 08:00:17.673;1988134;0;I have tried this one, however they don't allow you to save anything with the free version.;241417
+1905112;2010-01-01 08:00:43.810;1988147;1;Often this is not up to the user. Think about visually impaired people using reading systems, robots that don't interpret JS well, PDA's or any kind of not fully supporting apparatus. Being a developer, you have to separate your content from presentation, it's much more professional, i believe.;202895
+1905113;2010-01-01 08:02:15.073;1983760;0;Hey, thats a great answer!... happily then, that its the only one. Thanks for your reply.;83473
+1905114;2010-01-01 08:04:55.643;1988098;0;In databases, you can define (amongst other things) indices on columns you might frequently use when retrieving data. This has considerable performance benefits.;216420
+1905116;2010-01-01 08:05:42.443;1988117;0;"The usual declaration for main is ""public static void main(String[] args)"" sans the throws Exception.  Main should properly deal with exceptions rather than display a stack trace to the user!";65868
+1905117;2010-01-01 08:05:55.103;1988120;1;+1 for to the point answer.;82449
+1905118;2010-01-01 08:06:13.380;1871952;0;except documentation is non existant;72357
+1905119;2010-01-01 08:06:57.747;1987931;0;Matt -- I look forward to your answer to this question, then.;209359
+1905120;2010-01-01 08:09:32.023;1988147;1;"I would ask why the method here is ""post"". This form doesn't submit any data or anything, and making its method a post will cause warnings when using the back button or refresh button in many browsers.";165876
+1905121;2010-01-01 08:09:34.323;1986358;0;are these profiler tools freeware ?;238779
+1905122;2010-01-01 08:09:40.050;1987290;0;@Roger: you learn something new every day, I was unaware that you could declare variable inside an if statement. and result in appropriate scope. I'll update my answer.;13430
+1905123;2010-01-01 08:11:23.103;1988162;0;Please elaborate on your second paragraph...;228936
+1905124;2010-01-01 08:13:45.820;1988102;0;I think so...there is another similar question posted by the same user;25688
+1905125;2010-01-01 08:14:17.043;1987868;1;With what runtime?;25646
+1905126;2010-01-01 08:17:43.393;1988081;0;Interesting approach, but we only have access to the VM. The host OS is out of bounds.;56564
+1905127;2010-01-01 08:18:08.520;1982942;2;Mixing production code and code only used for testing purposes in a single class is a bad practice in my opinion, hence the downvote.;68234
+1905128;2010-01-01 08:18:13.363;1988168;0;sorry if i wasnt clear, i cant use strings. i can only  save a char(only one at a time) or a number (limited to using only scanf and getchar);241854
+1905129;2010-01-01 08:18:35.430;1988147;0;@Clueless, correct, edited.;202895
+1905130;2010-01-01 08:18:51.380;1988081;0;I should have originally mentioned that our deployment server is already a VM.;56564
+1905131;2010-01-01 08:21:10.947;1979246;0;http://stackoverflow.com/questions/352586/how-to-use-enums-with-jpa;NULL
+1905132;2010-01-01 08:23:50.973;1986881;0;"I'm not clear about: `Let's say that in a hypothetical system, executable code starts at address 0x1000.` what do you mean by executable code? .text section? of the another library object file? 0x1000 is offset? little confused.
+
+ - I didn't understand this:
+'Let's also say that the data sections of a program want to start at an even page boundary after the executable code.`";241671
+1905133;2010-01-01 08:25:21.890;1988168;0;updated my answer, HTH. as this is a HW question, to get more help you should really post some code of your own and note exactly what you're having a problem with;8206
+1905134;2010-01-01 08:27:02.940;1986144;0;i what to record after removing the microphone from my app;239457
+1905136;2010-01-01 08:28:48.613;1987650;0;Why then when I view GMail elements in Firebug, there colours are displayed as hex, but when I view my own page, they are displayed as rgb?;8741
+1905137;2010-01-01 08:28:48.787;1988126;0;Thanks a lot It works for my question!;184273
+1905138;2010-01-01 08:29:23.933;1988132;0;Thanks your answer work too!;184273
+1905139;2010-01-01 08:29:34.603;1987645;0;@Eilon, see my added example.;8741
+1905141;2010-01-01 08:30:31.420;1986787;0;I want an example source code for incorporating this feature into my app.;2355649
+1905147;2010-01-01 08:36:32.630;1988189;7;Storing your result in a different table for each year is not the SQL way. You should use a single table with a year column with an index on that column. This will make things a lot easier for you.;61974
+1905148;2010-01-01 08:37:08.700;1988189;0;This is why per-period tables are not for the uninitiated.;20862
+1905150;2010-01-01 08:37:52.247;858203;0;"Excellent, just what I was looking for as well - even on tbe active tab.  Now I don't have to reload vids to save them with ""Keep It!""";8741
+1905151;2010-01-01 08:38:11.530;1987529;0;you're right, sorry, my job has had me floating in PHP land for a while and I forgot how to use a pointer properly;84478
+1905152;2010-01-01 08:39:01.970;1988145;0;In this particular case, 3 component arrays (x,y,z co-ordinates) are by far the most common case. What's also a bit weird is that even reading from numpy arrays, the python code is still faster. If it was call overhead, I'd expect that to be slowed down even more than the pure NumPy solution.;216420
+1905154;2010-01-01 08:42:23.010;1988145;0;@Adam: but by reading from numpy's arrays you save the overhead of calling the `cross` function itself, which is a dynamically loaded extension so it goes through at least a couple of pointers. For such short arrays it indeed makes sense as a micro-optimization to unroll the call to `cross`;8206
+1905155;2010-01-01 08:43:08.507;1987655;0;+1 for inspiration.  What I actually needed was a script to convert hex to RGB (in a string form), so I can use a jQuery filter on the inline style text.;8741
+1905156;2010-01-01 08:43:10.613;1988195;0;"Works like a charm.
+Thankyou so much";241858
+1905157;2010-01-01 08:43:36.197;1986676;1;It wouldn't. Fix your actual issues. That is, in the end, more important. The OP asked why it's important to compile C or C++ code with different compilers, and I gave him some reasons, but it's more important to provide core functionality, features, and bug fixes to your user base.;69755
+1905158;2010-01-01 08:45:39.073;1987965;0;don't think it is any different, it suppress the whole line as others and not just the difference. Correct me please, if I am wrong.;61821
+1905159;2010-01-01 08:46:13.470;1988168;0;"To parse 0.123 is it better to read up the ""123"" part as an integer and divide it by 1000 in one step. Since none of 0.1, 0.02 or 0.003  are representable as IEEE 754 floats, your method accumulates more rounding errors than necessary.";139746
+1905160;2010-01-01 08:47:40.277;1988168;0;thanks !! it works;241854
+1905161;2010-01-01 08:48:07.320;1986657;0;Downvoted why? Can you give a reason why the above is wrong or unhelpful?;12960
+1905162;2010-01-01 08:48:17.583;1988196;4;There already exists such an OS! Check this out => http://sourceforge.net/projects/jos/;192247
+1905163;2010-01-01 08:48:40.797;1987938;0;To be honest, it doesn't look like a diff tool, in any sense. A good tool is one that doesn't need any time to learn and a good UI is that: Don't make me think.;61821
+1905166;2010-01-01 08:49:49.460;1987367;0;@S.Lot, I've added what I can.  I was deliberately trying to avoid platform specifics in my question, as it is rather distant from any implementation layer.;8741
+1905167;2010-01-01 08:49:57.353;1988203;0;Eli beat me to roughly the same answer...;114307
+1905168;2010-01-01 08:50:02.987;1987902;0;sorry my description was short. each dll has only 2 source files, one file is specific for each dll and second file is same for all of them.;241811
+1905171;2010-01-01 08:51:27.710;1987924;0;Thanks! It really worked.;236444
+1905172;2010-01-01 08:52:33.100;1988111;0;can we test this in a simulator?;221153
+1905173;2010-01-01 08:52:40.220;1987548;0;"I know a little about algorithm of semaphores (wait and signal algorithms).
+I don't know how to simulate the semaphore's queue with mailbox.
+when we say in wait procedure that :
+
+semaphore.count--;
+
+if (semaphore.count < 0)
+    place this process in semaphore.queue and block this process
+
+and when we say in siganl procedure that :
+
+semaphore.count++;
+
+if (semaphore.count <= 0)
+    remove process p from semaphore.queue and place in ready list
+
+Now How should I do these with mailbox?
+where processes must be placed?";241480
+1905174;2010-01-01 08:52:57.770;1988204;2;Here is one more. http://sourceforge.net/projects/jos/ . But I second what Eli Bendersky and Ron Gejman say.;147671
+1905175;2010-01-01 08:53:14.097;1988168;0;@Pascal is right here - so if numerical errors matter you may want to modify the solution you submit;8206
+1905176;2010-01-01 08:53:48.057;1988190;0;Note that I personally don't like `strncpy()` over `strcpy()` because 1) it writes to every byte in the destination buffer, filling it with zeros at the end, and 2) if the destination is smaller than source, one must manually write `0` at the end, and in this case, a better solution most of the time is to have a larger destination buffer to begin with.;226621
+1905177;2010-01-01 08:57:37.760;1988121;0;Looks cool, but what was wrong with sbt (scala 2.7, http://code.google.com/p/simple-build-tool/), xsbt (scala 2.8, http://code.google.com/p/simple-build-tool/wiki/0_6_Summary) or buildr (http://buildr.apache.org/, http://faler.wordpress.com/2009/04/07/using-buildr-to-build-scala-projects-or-why-buildr-is-bloody-brilliant/) ?;6309
+1905178;2010-01-01 08:58:56.323;1988192;0;What is in errno after the failed called to acquire (is it ETIME or something else)?;29809
+1905179;2010-01-01 08:59:19.247;1988195;3;You want UNION ALL there, not UNION.;61974
+1905180;2010-01-01 09:01:14.727;1988077;15;When you tried it what happened?;57695
+1905181;2010-01-01 09:02:22.477;1988208;0;O, I was looking at the docs and it said it inherited EventDispatcher, so plus it showed one its methods being addEventlistner. Not sure why. But I am trying to be light as possible. I am tiling and using sprites slow down my scrolling. is there a better solution ?;201934
+1905182;2010-01-01 09:04:09.370;683522;0;"@Mark: The question doesn't include ""What other outdated practices are there?"" How was I meant to answer a question which wasn't there?";22656
+1905184;2010-01-01 09:06:58.037;1988195;0;Yep, was somehow assuming rows are unique across 2 tables which could be false. Fixed;119280
+1905185;2010-01-01 09:07:18.630;1987892;0;Actually i have a job to develop online inventory and POS system. Main functionality will be in java or CPP and will call by a server side script(PHP/.NET)through shell command. In future a complete multi-user online office management system will be implemented in very similar way. We are preferring JAVA for this.;169965
+1905187;2010-01-01 09:10:06.097;1988170;2;What is the problem that you are trying to solve here? Please tell us that you are not looking for ways to evade CAPTCHAs.;66617
+1905188;2010-01-01 09:10:39.723;1988210;0;alright this solved the white square problems. However, sometimes I don't get exactly 6 red and 6 blue.;100066
+1905189;2010-01-01 09:15:06.680;1987902;1;i don't want to create a project file for each dll;241811
+1905191;2010-01-01 09:16:00.120;1988221;0;Thanks, that works;100066
+1905192;2010-01-01 09:19:13.193;1988111;2;You won't be able to test in the simulator as it neither has the Phone or SMS apps. If you try it, you will get an alert notifying you of the fact, as stated in the first linked page.;2481
+1905193;2010-01-01 09:19:38.800;1986719;1;"Answer from given link:
+
+Either of the following solved the problem:
+ - Running both vs and ahk as the current user
+ - Compiling the script and running both vs and the compiled app as administrator";209953
+1905194;2010-01-01 09:19:59.550;1956831;0;@oliver have u tried this one?;168417
+1905195;2010-01-01 09:20:08.120;1987236;1;@Jitendra Ha ha! I have answered a bunch of your recent questions, haven't I? I'm a bit drunk from a new year's party. But I can try... I just won't guarantee that my answer will be as good as the last couple, though.;69755
+1905196;2010-01-01 09:20:16.263;1981724;0;I'd recommend against checking in binaries to the same repository as source code. Especially with Mercurial, you're adding binary cruft for everyone who downloads the repo.;4596
+1905197;2010-01-01 09:20:25.337;1587761;0;Good question.  Since the output to OCR is rarely useful in itself, but is an input to, usally, some text and/or layout extraction software, and often requires programmatic massaging, I count this as a programming-related question.;222815
+1905198;2010-01-01 09:20:33.230;1968581;0;My comment was about the programming model not the hosting environment. When you use a session you access the objects in it with indexers and you need to cast the result. If you want to access typed data you have to create a class that accesses the session and returns the data. Usually a proxy design pattern is used to implement that class. This way you'll control what kind and type of objects you have in session.;236831
+1905199;2010-01-01 09:20:35.693;1988229;0;fixed code format and retagged;228936
+1905200;2010-01-01 09:26:15.120;1948360;0;Thanks. We are also trying to balance between being rigid in taking new builds and getting suprises when we discover new bugs in already tested functionalities. We dont have QA automated yet completely, so there is a risk of new builds undoing any test cases that passed successfully in the previous builds.;236747
+1905201;2010-01-01 09:27:04.777;1948219;0;Thanks. Our test bed is not completely automated and we do have challenges in regressing every build as it comes daily;236747
+1905203;2010-01-01 09:29:55.253;1988202;0;In a desktop application? J2SE?;176873
+1905204;2010-01-01 09:31:32.607;1988195;0;Can you use square brackets instead of apostrophes for your columns please? It's way more preferred, as `'Horse Number'` could easily be interpreted as a string in your outer query.;144351
+1905205;2010-01-01 09:33:06.940;1988202;0;yes. a desktop app;229616
+1905206;2010-01-01 09:36:16.350;1988229;0;If you create a new ASP.NET MVC application using the wizard and deploy it to a virtual directory in IIS, does it work?;29407
+1905207;2010-01-01 09:38:14.833;1988018;0;We need some sample code, here. And know the browser you are testing it with.;231181
+1905208;2010-01-01 09:39:51.600;1988245;0;+1 for suggesting wildcard mapping in IIS. It looks as if that's the problem because the URL provided by the OP is extensionless.;29407
+1905209;2010-01-01 09:41:25.247;1988241;0;"Thanks! Great answer to my question. The thing is I would also like to extract the ""segments"". Either in a match collection or in groups. If you look at my original pattern you see that I first have a non-capturing group, then a capturing group ""extracting"" the ""segment"". Is it possible to incorporate that into your pattern?";241867
+1905211;2010-01-01 09:43:27.643;1988038;2;+1 - for the advice about sticking to the idioms of the language you are currently using.  Please think of the other people who will need to read your code!;139985
+1905213;2010-01-01 09:45:36.953;1984080;0;how are you trying to use it? have a look at the documentation first to make sure you're using it correctly http://www.php.net/manual/en/domelement.setattribute.php;11708
+1905214;2010-01-01 09:45:53.677;1988258;0;i just want to be able to display a webpage.;229616
+1905215;2010-01-01 09:47:08.963;1988256;0;That won't work though - the cd will be lost after the first sudo has finished executing.;3978
+1905216;2010-01-01 09:47:26.643;1988171;0;can I develop data flow diagrams dynamically based on the input entered by a user. How can integrate it with swings.;241426
+1905217;2010-01-01 09:47:30.460;1902137;0;so they are not only used in many to many relations? cos in the docs, i only see these options used in many to many relations;119032
+1905218;2010-01-01 09:48:20.600;790176;0;Did you finally achieved what you want ? Can you please pick an answer that worked (or tell us what you did in the end). Thx;231181
+1905219;2010-01-01 09:49:04.257;1988244;0;ok and what about my third question;84201
+1905221;2010-01-01 09:49:50.923;1988231;1;What language are you using?;61974
+1905223;2010-01-01 09:51:58.440;1984728;0;"@Fabien: Or perhaps use if(""jsVar"" in window){}... but I would avoid code that would require coding for this error case.";239916
+1905224;2010-01-01 09:52:06.410;1988258;1;OK what will be the input? Is that page will be something like Google, or a web page that is designed by you? Will it be a simple/single html or a complete web site? If it is just one page and you will provide the input than you can go for JEditorPane. Otherwise you may search jeditorpane in google and see lots of programmers complaining from it. AFAIK there is no better alternative.;176873
+1905225;2010-01-01 09:52:59.293;1988231;0;"C# (latest .Net 3.5). I also would like to extract the ""segments"" if I get a successfull match (if possible). Perhaps I need to have a second pattern to do that?";241867
+1905226;2010-01-01 09:53:03.337;1988196;7;JOS never got anywhere ... http://www.jnode.org is a better example.;139985
+1905228;2010-01-01 09:53:53.520;1988262;0;Can you explain what's going on in foreach? Please.;119198
+1905229;2010-01-01 09:55:13.830;1988252;0;Dupe: http://stackoverflow.com/questions/1447791/delete-directory-in-php;40906
+1905230;2010-01-01 09:55:29.630;1988262;0;it will loop through to see if there is directories or files in that sub-folder before deleting. it will then delete the sub-folder or files. rmdir will fail if there are still files or sub-folder in the folder that you want to delete.;126039
+1905232;2010-01-01 09:55:43.737;1984132;0;You can create it as a string and just send the string;11708
+1905233;2010-01-01 09:56:43.220;1988252;0;Here too: http://stackoverflow.com/questions/1334398/how-to-delete-a-folder-with-contents-using-php;40906
+1905234;2010-01-01 09:56:43.407;1970279;0;Any particular reason why you don't want to read the registry? That seems an arbitrary condition to impose.;165620
+1905235;2010-01-01 09:58:34.890;1988192;0;"@Samuel: Thanks for mentioning errno. errno is 40 and ACE_OS::strerror(errno) returns ""Function not Implemented"". What should i use in this case?";57005
+1905236;2010-01-01 09:58:52.090;1988248;17;"@Tor: yeah, because that's a way to greet people asking a question ""you don't know google? Go search there and leave me alone""... I mean, you don't want to answer him? Then just don't, and go to another question. There are other people here who will provide these answers.";126945
+1905237;2010-01-01 09:59:59.463;1988248;12;@tor:I found this site through google!!!;223541
+1905238;2010-01-01 10:00:27.547;1986320;0;I cannot use cocoa.;993179
+1905239;2010-01-01 10:00:58.700;1987532;0;Also, global is only evil if you use PHP for your entire app instead of just templating (for which it was originally intended).;228936
+1905240;2010-01-01 10:01:04.800;1986567;0;Sorry, same sample I copied on Mac, it doesn't work.;993179
+1905241;2010-01-01 10:01:04.847;1988241;0;Yes, exactly the same way, add the capturing group around what you're interested in.  However, you'll likely need to call your regex library with a different function in order to capture all of them, instead of just the first or last, as the capturing group is then instead a repetition.  I'll update with an example.;NULL
+1905242;2010-01-01 10:03:27.887;1988256;0;Actually, you can't even call cd directly because it is not an *external* command.;119005
+1905243;2010-01-01 10:03:35.593;1988201;3;Windows API's are not a necessary part of an operating system.;53897
+1905244;2010-01-01 10:04:44.467;1988262;0;It works, thanks.;119198
+1905245;2010-01-01 10:05:22.360;1988268;4;Beware of reformatting the above code in Eclipse.;53897
+1905246;2010-01-01 10:05:27.257;1986106;0;CC machines are a pain to setup. I would strongly suggest Hudson over CC as a learning exercise.;40906
+1905248;2010-01-01 10:09:21.727;1988279;0;Hi Marc, vs2005 & .net 2.0 used in my project. I am afraid i can't use LINQ tech.;215912
+1905252;2010-01-01 10:10:22.083;1987843;0;Another area of code is causing the problem. Nothing is wrong with what you're doing in the sample code (except the retain is unneccessary, but this won't cause your problem);946
+1905253;2010-01-01 10:12:33.313;1986144;1;The iPhone has a built-in microphone. As TechZen already said: The phone will fall back to it's built-in mic/speaker as soon as you remove the headphones.;100848
+1905254;2010-01-01 10:12:50.127;1895603;0;so just to conclude, in your above answer, User: relations: Car: foreignType: many. it means many cars to one user?;119032
+1905255;2010-01-01 10:13:31.640;1988279;4;Then I see a lot of nested loops in your future...;23354
+1905256;2010-01-01 10:13:46.850;1985464;0;This appears to answer the question, what gives?;946
+1905257;2010-01-01 10:14:49.250;1988208;0;@numerical25: Keep reading the documentation, and you'll see that just because something is an EventDispatcher, doesn't mean that it reacts to mouse events. All display objects are event dispatchers, to be able to dispatch events such as ADDED_TO_STAGE and REMOVED_FROM STAGE.;229824
+1905258;2010-01-01 10:15:07.037;1988280;0;"What do you mean by ""allow access to folders?"" Do you mean allow users to browse folders? Also which version of IIS?";2525
+1905259;2010-01-01 10:15:21.077;1988279;1;For info, if you had VS2008 you can still use LINQ-to-Objects with .NET 2.0 via LINQBridge: http://www.albahari.com/nutshell/linqbridge.aspx;23354
+1905260;2010-01-01 10:15:51.107;1988241;0;+1: That's a nice way to solve it in Python. It saves having two almost identical regexps, and the performance hit of matching on the same string twice. But does .NET's Regex have an option to say where the match should start like Python or will this require copying strings, nullifying the performance advantage?;61974
+1905261;2010-01-01 10:19:44.903;1988241;0;"""is then inside* a repetition.""  (You're entering regex-engine-specific territory.)";NULL
+1905262;2010-01-01 10:21:17.257;1988279;0;Thank you for your resource.;215912
+1905263;2010-01-01 10:21:32.700;1985491;8;Spring JDBC is vastly inferior to Ibatis. For one thing you either have to write row mappers (tedious) or Spring's bean mapping is incredibly slow. That doesn't matter if you're binding a form in Spring MVC but it sure does if you're returning thousands of rows. I cut down execution timeon a query from 50+ seconds to <2 just by replacing Spring's bean mapping in Spring JDBC with an explicit row mapper but who wants to write those?;18393
+1905264;2010-01-01 10:23:04.663;1986886;0;John, I have no such reputation units to vote up. I'm new here, sorry.;220959
+1905265;2010-01-01 10:24:19.013;1969954;0;I use DevExpress skins as well. They are great and have a nice editor if you are bold enough to start making your own skin.;69358
+1905266;2010-01-01 10:26:05.977;1957528;0;What error does it give you?;340
+1905267;2010-01-01 10:26:12.253;1987299;1;I'd be curious to see the same benchmark run with Perl using package variables instead.;2766176
+1905268;2010-01-01 10:26:14.393;1988241;0;Mark: beats me---had this question been marked C# specific from the start I'd likely have refrained (but you seem to have that part covered well anyway).  Picking up where another regex stops is essential at times---you can apply a completely different expression, or try out various ones, at that point.;NULL
+1905269;2010-01-01 10:26:22.107;1984825;0;thanks- I'll give that a go.... (and mark the question answered after that);2947
+1905271;2010-01-01 10:27:31.457;1988301;0;unfortunately in IE6 it wont work I think;221213
+1905272;2010-01-01 10:27:39.710;1988285;0;Hi Darin, Acturally, mainDict generated from a parsing result of XSD file. There is no keyword can be inserted to my code. i declared mainDict as a static dictionary<string, object> . I am afraid i can't foreach (KeyWord Content) as your suggestion. how to extend the StringBuilder loop method to meet my requirement? thank you.;215912
+1905273;2010-01-01 10:29:13.700;1984871;2;With all benchmarks, report the versions of Perl and Python, note any odd compilation options (e.g. threaded or debugging perls may be slower), and report the hardware used so people can compare similar setups. Often in these cases, I will also try to run the benchmarks on a different operating system to see if it's really a problem with the stock interpreters. If you let someone else compile them for you, that might be the problem. :);2766176
+1905274;2010-01-01 10:29:29.720;1988084;0;Why one down vote?;165520
+1905275;2010-01-01 10:29:50.080;1975488;1;This would consider all nouns at the start of a sentence to be proper, though.  I really wish we changed our grammatical rules for things like this as they introduce ambiguity and don't have any function as far as I can tell beyond aesthetics.;53646
+1905276;2010-01-01 10:31:47.287;1987895;0;wouldn't you rather use *unsigned* ints? It's not like age/month/.. can be negative.;128384
+1905277;2010-01-01 10:32:07.940;1988278;0;"Thanks for the answer, however it does not fully answer my question. If I use this query, there will be old tags in the database. If you look at my example data in the question, I also need to delete the ""design"" tag from it. For the second question, I can't verify whether the tags box changed or not. How can I verify it? (It seems the only way is to request all the tags again before updating the row and compare them, which seems inefficient. I believe there should be a better solution for the all question.)";229335
+1905278;2010-01-01 10:33:07.310;1988241;0;Thanks all of you! You really put a lot of effort into helping me!;241867
+1905279;2010-01-01 10:34:01.177;1988111;2;I second that you can generate calls, I do it in my app.  It does nothing in simulator, so test it on actual device.;946
+1905280;2010-01-01 10:34:29.563;1984634;0;i want to terminate the prosess on system2 by sending a OS call from system 1 how is it possible.;233572
+1905281;2010-01-01 10:35:26.260;1988305;0;Hi thank you for your response. But can you tell me where can I add js file in my application? or how can i refference to the js file (which is in remote location);131564
+1905282;2010-01-01 10:36:19.940;1988282;0;Agreed, but the question pertains to Arrays, and more specifically to extend Array verbs.;228259
+1905283;2010-01-01 10:36:38.657;1979585;0;"I'll be reading the book soon - thanks for pointing it out. However this doesn't help with my testing needs ;)";87280
+1905284;2010-01-01 10:37:51.170;1987679;0;@John: Regardless of what he may think or like, my understanding is that ISO guidelines require versioning of documents such as standards to be in base-10.;NULL
+1905285;2010-01-01 10:38:08.267;1988285;0;See if update helps.;29407
+1905286;2010-01-01 10:41:50.337;1988285;0;"sb.AppendFormat(""{0}/{1}/{2}/{3}, {4}"", - Can't using the fixed 4 variables. The items number will changed dynamical based on the mainDic layers. This means the mainDict generated dynamical and if the XSD file change, the mainDic must changed too. and the top code still could hande the dynamical condition.";215912
+1905287;2010-01-01 10:43:10.927;1988317;2;Please don't write things like '//end if' and '//end for' at the end of blocks. It clutters the code and it isn't needed to understand what is going on. Plus it's not compile checked. Even if those comments are there I won't believe them without checking it for myself.;61974
+1905288;2010-01-01 10:44:35.630;1988317;0;Can you give us the message of the exception? InvalidOperationException is widely used throughout the .NET Framework.;138578
+1905289;2010-01-01 10:45:57.327;1988303;0;I am not using pthreads/win32. I am using windows native APIs.;236222
+1905290;2010-01-01 10:46:50.280;1988280;1;This question really belongs on ServerFault.com;113141
+1905291;2010-01-01 10:47:07.003;1988190;0;strlcpy is your friend. Google it.;49658
+1905292;2010-01-01 10:47:10.590;1983016;1;@Norman: Let me put it this way: I don't number the limitations of the .bst language among the main defects of bibtex.  This is not to defend the .bst language as an example of how to design a concatenative language, where I defer to your superior knowledge.;222815
+1905293;2010-01-01 10:47:51.837;1984920;8;"""On average, a garbage collector is far faster than manual memory management"" is misleading. It is faster than naive memory allocation, and far slower than optimised manual memory management. The problem is that nobody has the time to do the optimisations, and  programming in the optimised model is not much fun";35306
+1905294;2010-01-01 10:48:55.873;173467;2;@David Arno: Client certificates, hardware tokens and OTPs to name a few.;20138
+1905295;2010-01-01 10:49:55.797;1987187;0;@Derek: try putting the id #next in the A tag instead of the IMG tag.;210578
+1905296;2010-01-01 10:50:51.817;1873410;0;+1: Strong list;239916
+1905297;2010-01-01 10:50:52.300;1985471;0;@Christoph, I agree with you regarding use cases, especially because the original question really is about Arrays and nothing else. However it would still be nice as an added bonus to be able to reuse the function on other objects. Now regarding overloading, does `this.push || push` allow overloading by an intermediate class between this and Array? And, similar question, does `this.push.apply` allow overloading by an intermediate class? Finally, what is the benefit of the alternate version, wouldn't `this.push` always be faster than `this.push || push`?;228259
+1905299;2010-01-01 10:51:29.207;1984884;0;VS is certainly not performance critical. Nobody buys a different compiler because they have to wait a bit longer for the build. Otherwise we'd be all using Delphi. They might buy a slower one because it optimises better, though.;35306
+1905300;2010-01-01 10:52:02.190;1987529;0;"by safe do you mean thread safe ?
+and why is it bad keeping state in my function ?";215769
+1905301;2010-01-01 10:52:52.220;1987219;0;"note always , just the first time the function is called.
+
+but i think i will use the INT_MAX ... thanks !";215769
+1905302;2010-01-01 10:53:40.687;1987051;0;"You're welcome. I believe using natural log is better, it was just easier to explain using base 2. Let's clarify the cosine similarity:
+TF/IDF is purely a representation: You convert a vector of word counts to a vector of TF/IDF values. The cosine similarity is the scalar multiplication between two normalized vectors; The vectors can be the original counts or transformed by TF/IDF. In the case as you stated it, the scalar multiplication will be zero because we either have words appearing in only one vector, or a common word with a zero score ('dog'). HTH.";1702
+1905303;2010-01-01 10:54:15.693;1988305;0;In my example I used inline script, but you can also reference your js using using the `src` attribute: `<script type='text/javascript' src='http://mysite.com/userprofile.js'></script>`;29407
+1905308;2010-01-01 10:56:19.603;1987025;0;ya i know there are errors in the code , ya i am pushing a pointer into the stack and poping an object not pointer, ya i can correct these errors , the main aim of posting this code was to explain you what i want to do. thanks for your comments because you are only one who answered this question.;238919
+1905310;2010-01-01 10:57:38.027;1987567;0;But you _can_ guarantee execution order, using the priority argument of addEventListener(). Furthermore, while your manager suggestion is great, your comments about not saving overhead unless you also are able to abstract calculations is somewhat misleading, as it doesn't deal with the rather big cost of Event object instantiation.;229824
+1905311;2010-01-01 11:00:04.433;1985471;0;Ignore my last question, the alternate version helps to use rotate on objects that do not implement `push` or `splice`. The 2 other questions are still valid although I could find the answer myself if I was not that lazy. I also like your answers (that's the drawback of providing good answers, people bother you with questions they could answer themselves).;228259
+1905312;2010-01-01 11:00:31.390;1988346;5;"Try `printf(""yes\n"");` or `puts(""yes"");`.  You don't need `string.h`.";226621
+1905313;2010-01-01 11:01:22.043;1986784;1;Starting with PHP 5.1, the real paths of includes and requires are cached by default. See http://prematureoptimization.org/blog/archives/33 - that still doesn't mean the OP should add all the folders to the include path though.;208809
+1905315;2010-01-01 11:02:18.703;1983191;0;I have stepped through the validation but I don't see anything pertinent which could be due to the fact that I'm not checking the DropDownList in the validation.;241245
+1905317;2010-01-01 11:06:12.017;1987219;0;"I don't know what you mean by ""note always"".  Assuming you meant ""not always"", what is that referring to?";226621
+1905318;2010-01-01 11:08:12.387;1987627;0;Thanks. I'll give it a try.;116987
+1905319;2010-01-01 11:10:32.273;1988305;0;Hi.. I'm sorry it is not working for me. I dont know wats the wrong with me. Even that alert msg also not coming..;131564
+1905321;2010-01-01 11:11:23.537;1988190;0;I know about `strlcpy()`, but it's not ANSI/ISO C.  It's not even POSIX.;226621
+1905322;2010-01-01 11:15:09.973;1988317;0;I'd guess from the code that it is 'Queue empty.';61974
+1905323;2010-01-01 11:16:15.540;1988262;0;no problem. happy new year!;126039
+1905324;2010-01-01 11:17:07.113;1988332;1;@Rilindo: this is brilliant!  modified two lines and I  was good to go.  thanks.;207725
+1905325;2010-01-01 11:17:14.680;1987895;0;@greyfade: thanks for the correction!;226621
+1905327;2010-01-01 11:17:30.030;1984884;0;Real-life performance much more depends on the libraries and frameworks you use, and there you mostly don't have a language choice.;35306
+1905331;2010-01-01 11:19:07.390;1988361;4;"I think your camparer (comparator?) should take two arguments, this would simplify the case when the added value is inline and not in a variable you can access in your function.
+
+array.pushIfNotExist({ name: ""tom"", text: ""tasty"" }, function(a,b){ return a.name === b.name && a.text === b.text; });";268
+1905332;2010-01-01 11:19:10.150;1988340;0;+1 Second regex is better, no need to use lookaround, especially lookbehind, unless you need to, it's an efficiency killer!;220299
+1905333;2010-01-01 11:19:20.043;1988358;1;there is definitly something wrong with your code, and i think you are mistaking views and controllers. Your task sounds trivial, but I think you are doing it wrong. Check out Movies tutorial from http://asp.net/mvc/;35954
+1905335;2010-01-01 11:19:55.343;1988347;0;It's SO making it look like multiplying.It was `a**2...`.I've just corrected it.;198729
+1905336;2010-01-01 11:21:25.050;1971464;0;I think GAE would work fine for this, and you could probably find an undirected graph solution. Could you give us a list of what functions you'd likely perform most?;78212
+1905337;2010-01-01 11:22:37.540;1986381;1;"In your example, the current node is the Document Node. It's neither virtual nor abstract. It's the topmost node of the DOM and the parent of the catalog element. So the apply-templates instruction will select just the one and only ""catalog"" element.";42585
+1905338;2010-01-01 11:23:42.450;1988268;19;Interesting technique but seems a little expensive as it will create a new class every time I use it in my code.;240656
+1905339;2010-01-01 11:25:42.807;1985159;0;The goal isn't to make the fastest program. It's to compare similar programs doing similar things. Of course the programs are faster if you do less work. That doesn't help you compare the parts you cut out though. :);2766176
+1905341;2010-01-01 11:26:54.333;1976681;0;"Thank you for your answer, but this is not what I was expected as an answer.  
+I think I've questioned that ""if someone had integrated libsegfault.so and gdbserver"".  
+I wanted a reason why this was not done yet, or a correct (adequate) integration between libsegfault.so and gdbserver.  
+  
+Sorry for my question for not being detailed enough, but the requirements are:  
+1. Being able to plugin by LD_PRELOAD to any program
+2. The program may be a multithreaded program
+3. The program may link to a library that contain main function";239054
+1905343;2010-01-01 11:27:08.230;1251789;0;"Could someone clarify, does inspect.getmembers() differ fundamentally from dir(), or is it just a convenient wrapper around dir (which the ""Note:"" in its documentation implies might be the case)?";91962
+1905344;2010-01-01 11:28:08.353;1987535;0;Thanks that worked! I have chosen the inclusion tag, which works fine for this use-case.;237690
+1905345;2010-01-01 11:28:40.843;1985257;0;All right! I just used the resource as if it was an ordinary string and wrote it into a temporary file. And everything workes fine, thank you again :);192957
+1905347;2010-01-01 11:28:59.237;1986881;0;"Yes, in my example executable code lives in the .text section(s). they are concatenated together during linking. The offsets for functions are adjusted just like any other symbol. Although the .text offset might start at 0x1000, when all the .text sections are combined, the final size might be much larger than that.
+If the code contains l = k+2, the object code that performs the operation willl have the addresses of l and k adjusted (because of the relocation records) to the final calculated values.";204046
+1905348;2010-01-01 11:33:06.317;1985287;0;You can't really recommend the Cygwin behemoth just to allow command line builds.  That really is a sledgehammer to crack a nut - it has a place for porting Linux code to Windows but is otherwise ill-advised to use it for native Win32 development.  *All* compilers are command line tools whether driven from an IDE or not.;168986
+1905349;2010-01-01 11:33:31.743;1988383;0;That's one possible and blatant fix...;39992
+1905350;2010-01-01 11:34:06.687;1988203;0;Jikes RVM (formerly IBM Jalapeno) and Sun Lab's Maxine are two examples of self-hosting JVMs. The former has around 1000 lines of C. Java is usually compiled down to machine code.;4725
+1905351;2010-01-01 11:34:36.920;1987783;0;unfortunately I have also tried the @ version before and it doesn't work at all. I have tried many ways to submit files to twitter, including using flash's URLLorder and flash's filereference's upload etc. Do you mind to make a real sample that really able to update the twitter background? Many many thanks.;63226
+1905352;2010-01-01 11:34:39.450;1985284;0;@Christoph: Nothing stops you from using VC++ from the command line.  The build log from and IDE build even shows you what command-line was issued for each build step.;168986
+1905353;2010-01-01 11:34:43.100;1985492;2;Never seen the http://iphoneonrails.com/ project so that's worth a green tick alone. Thanks!;125680
+1905354;2010-01-01 11:35:30.193;1980257;0;Thanks! I think this should suffice.;22009
+1905355;2010-01-01 11:35:54.610;1988389;0;There is a Try..Catch. Why I am not getting an exception alert?;194328
+1905356;2010-01-01 11:36:27.090;1988346;0;ok i feel dumb. i missed yes, as Matt Greer pointed;192296
+1905357;2010-01-01 11:38:19.583;1988383;0;or tell the webserver to handle HTML as PHP in the httpdconf;208809
+1905358;2010-01-01 11:38:43.857;1988383;0;there isnt another fix, lol?!;161266
+1905359;2010-01-01 11:39:11.580;1984863;1;In our case the mergeinfo was redundant. But you are right it will destroy ant partial merge info that you have done.;97627
+1905360;2010-01-01 11:39:53.883;1988390;0;I removed the try..catch altogether and added error_reporting(E_ALL^E_NOTICE) on top.;194328
+1905361;2010-01-01 11:40:10.653;1979092;0;oh my, somehow it seems that this got extremely complicated, I've spent quite some time figuring out how to enable analog loopback (alsa doesn't see it, even though it is seen under windows, whatever that means). I guess I'll have to find some other way. Thanks for the effort though.;96282
+1905362;2010-01-01 11:41:17.630;1988320;0;just to add, theres nothing special about json. its just a javascript object initialization graph.. in your example you have an array (the square brackets), with objects in it (the curly bracket syntax).. you should check out object and array literals in javascript to reveal the 'magic';63751
+1905363;2010-01-01 11:41:56.677;1985247;0;a great answer for many editors;149482
+1905364;2010-01-01 11:42:51.293;1979293;4;This error doesn't just happen due to bugs in Microsoft controls. It also occurs when you make a programming error, and accidentally set a property to a invalid value. Something different on the user machines is causing the different behaviour - e.g. Windows themes or different configuration of the application.;15639
+1905365;2010-01-01 11:43:31.323;1975941;0;and yet it was accepted as the answer, so I'm guessing it answered the question, or he did not actually test it.;267
+1905366;2010-01-01 11:44:43.460;1988340;0;HI cletus, amazing thanks for your immediate response. thanks a lot.;84761
+1905367;2010-01-01 11:45:40.680;1988377;0;Depends on how do you plan to find the appropriate coordinates of the cities on your jpg image;143972
+1905368;2010-01-01 11:46:02.180;1988289;0;well i feel very conferrable with java, but i know its memory eater compared to php. but maybe i wrong and today java web is much better i dont know  i didnt do java web for long time ... but from what i remember its was pure fun (plain jsp and servlets no frameworks ).;63898
+1905369;2010-01-01 11:47:28.377;1985280;0;"@Tom: DJGPP is not a Windows compiler; it is a DOS compiler with a 32bit DOS-extender. See: http://www.delorie.com/djgpp/v2faq/faq3_6.html";168986
+1905370;2010-01-01 11:47:40.513;1876197;2;@Cameron.  That's not actually true.  A property with an empty getter and setter is a property not a field.  The compiler fills in the backing field behind the scenes.;9266
+1905371;2010-01-01 11:47:54.430;1985284;1;"@Christoph The free ""Windows SDK"" from microsoft includes the 32 and 64 bit c/c++ compilers, you don't need VS of any form to use them";417292
+1905372;2010-01-01 11:48:23.220;1986204;0;Or, do you have a slow logger like a database logger configured using log4net for debug output? This, combined with showSql=true, would slow your code down a fair bit as well.;83109
+1905373;2010-01-01 11:48:32.527;1985471;0;Regarding the >>> operator, does it really improve performances considering that JS always converts back integers to double? This could result into length being converted to integer, shifted (not), then converted back to double, and finally used as a double later. This could decrease performances unless some JS implementation actually stores (unsigned) integers in variables. In which case one might think that such an implementation would store this.length as an integer and therefore >>> 0 would not improve anything. Also this.length would already be unsigned.;228259
+1905374;2010-01-01 11:50:08.090;1985387;0;Upvoting this as most of the other comments seem to be suggesting gcc based compilers, which are fine, but it's just as possible to get the microsoft ones, and most examples etc. for the windows platform is targetted at those so it's probably easier in many ways;417292
+1905375;2010-01-01 11:51:13.607;1972131;0;Thanks a lot. Adding weblogic-application.xml to my META-INF directory solves this problem.;49964
+1905376;2010-01-01 11:52:23.720;1985267;0;As Chris has pointed out above, you will spend a lot of time in a debugger when you are trying to understand how a program is 'run'. A good IDE can actually help. What does *not* help is having some 'wizards' write your code for you. If you are writing all the code, the I don't think an IDE will impact your actual understanding.;165620
+1905377;2010-01-01 11:53:07.643;1988413;0;Aha... Thought it has something to do with unicodes/ascii. Just copy/pasted example and forgot about that. Anyway - how to override automatic encoding?;82062
+1905379;2010-01-01 11:53:28.113;1988394;0;Thank you, but that's more about coding standards rather than source deployment/build standards, I'm looking for documentation on how to get away from '.. well it runs on my machine ..'.;160966
+1905380;2010-01-01 11:54:33.543;1986306;0;"Thanks. I just don't get it - how can I start a process and not stop it without a kill? Maybe I should look at Daemons spec.
+I'll also check collectiveidea's fork.";116925
+1905381;2010-01-01 11:55:44.133;1988391;1;Versions of IE tested?  Clearer description on how we might reproduce the problem would help.  Can you include a small example repro?;17516
+1905382;2010-01-01 11:56:04.227;1851810;0;Any chance you could accept any answer? :);165132
+1905383;2010-01-01 11:56:10.103;1988413;0;just set it to false and use the H() when you want to encode something;48387
+1905385;2010-01-01 11:56:39.747;1988419;2;"Define ""unnacceptable""?";17516
+1905386;2010-01-01 11:58:11.163;1988413;0;That i understood. It's acceptable solution. Just wondering - if i can keep it true and still render html with something like `NH()`. :);82062
+1905388;2010-01-01 11:59:01.363;1988302;0;Show us the command line you are using.;2961
+1905390;2010-01-01 12:00:27.693;1980179;0;"That sounds like an excellent work-around. At least its managed in a single location in this way. Ill try it out as soon as i have time to make sure it works correctly.
+
+I would however still be interested in whether there is a fully automated solution.";240873
+1905391;2010-01-01 12:01:00.940;1988340;0;"I tried like this:
+instead of ""one"", my starting values is :/c/document_library/get_file?
+end value is ( instead of two): 
+&groupId=
+
+Pattern p = Pattern.compile(""(\\b/c/document_library/get_file?uuid=\\b)(.*?)(\\b&groupId=\\b)""); 
+Matcher m = p.matcher(content); 
+List<String> matches = new ArrayList<String>(); 
+List<String> result = new ArrayList<String>();
+while (m.find()) { 
+  matches.add(m.group()); 
+} 
+     
+for(int z=0; z<matches.size(); z++) {
+    result.add(matches.get(z));
+}
+     System.out.println(""result1 >>> = "" + matches.get(0));
+
+But i am getting Index =0 ; size = 0....";84761
+1905394;2010-01-01 12:02:11.530;1988413;0;O,  Don't know, I don't have spark install here so I can't check it. I just had the same bug I solved it with automaticEncoding=false, let me know if you find something...;48387
+1905398;2010-01-01 12:03:46.363;1985552;0;"I'm glad this answer made it, I upvoted you Kevin ;-)";179341
+1905399;2010-01-01 12:03:49.453;1985813;0;@Lasse V. Karlsen: Correct and fixed.;6212
+1905401;2010-01-01 12:04:26.847;1988328;0;Interesting, but aside from the theme, i don't see the connection to programming. Also a very vague question...;117069
+1905402;2010-01-01 12:04:42.977;1987983;2;"I'm not sure you realized, but the ""decorator"" package he's using does the same thing as the construct with ""wrapper"".  The only difference between your snippets is the order of applying the decorators in My_class.  You might clarify that in the answer to explain why it fixes things.";221537
+1905403;2010-01-01 12:05:29.463;1874192;0;I'd give this +10 if I could. Saved me a lot of work trying to figure out why plugins wouldn't install properly.;5179
+1905406;2010-01-01 12:07:19.323;1988305;2;After setting the DocumentText, you have to handle the DocumentCompleted event, and do the InvokeScript call(s) in the handler.;128240
+1905409;2010-01-01 12:07:58.307;1988394;0;I'm not sure if this helps, but this is what I have for my project: http://ellcc.org/installation.html. The instructions are a bit complex because I use stuff from a variety of sources.;204046
+1905410;2010-01-01 12:08:03.313;1985471;0;"Running some performance tests (FF 3.5 only), I found a very slight performance improvement using `unshift.apply( this, splice.call( this, count % this.length, this.length ) );` over the use of two intermediate variables and the shift operators. I have also tried to put the shift operators directly into the modulo expression and it was slightly slower.";228259
+1905414;2010-01-01 12:10:01.157;1953319;0;@SuperString: Dear SuperString, I highly support this answer and hope you decide to go with the trie. It offers the best compromise between speed and space. It is a general, well known data structure, which makes implementation very easy (either there are already good implemenataions or there is sufficient doc.). Plus: Maintainability and readability increase, as one doesn't have to read through custom data structure designs! Good Luck Data Wraith (+1);179341
+1905415;2010-01-01 12:10:34.400;1987718;0;I have added a few notes.;2548
+1905416;2010-01-01 12:10:38.333;1988425;0;Hmmm... tried that and it didn't worked.;49416
+1905420;2010-01-01 12:12:42.980;1984837;0;10 megabytes is not a problem, but that is only for php5. If user wants to have a code completion for framework or his own code, the usage will increment drastically.;146248
+1905421;2010-01-01 12:13:18.687;1988428;0;Works like a charm!;49416
+1905422;2010-01-01 12:13:40.213;1988437;1;Think this is a duplicate of http://stackoverflow.com/questions/394175/ ?;12960
+1905423;2010-01-01 12:13:54.490;1988413;0;I'm too lazy to dive deep into spark source code at the moment. I'll just accept your answer. :);82062
+1905424;2010-01-01 12:14:11.070;1988434;1;Please considering changing your original question to add more information, rather than adding an answer - people can't respond to answers except via limited comments;2525
+1905427;2010-01-01 12:15:35.623;1988419;4;Should get you fired and thrown out of the IEEE and ACM;35306
+1905430;2010-01-01 12:21:07.467;1984788;0;The VBScript code you posted runs on the client?;17516
+1905432;2010-01-01 12:22:53.617;1988386;0;-1 as It **IS** possible with sudo to temporarily gain other user's rights.;180174
+1905433;2010-01-01 12:23:47.407;1983415;0;The reason for not displaying the remaining digits is that the field contains financial data with 6 decimals accuracy but people are only used to deal with 2 digits accuracy.;241246
+1905434;2010-01-01 12:24:24.457;1988094;1;Don't capitalize html tags. The various html specs prefer or require lowercase tag names.;166339
+1905436;2010-01-01 12:25:49.540;911586;0;Am having the same issue. The DejaClick plugin for Firefox solves this. Don't know how.;48066
+1905437;2010-01-01 12:27:11.833;1988425;0;Make sure that CancelSelectOnNullParameter is set to false.;239438
+1905438;2010-01-01 12:27:18.297;1974551;0;"Is this Beta 1 or Beta 2? I am using Beta 2, and the ""Press any key to continue"" prompt does appear, both with C# and C++ console applications.";165620
+1905440;2010-01-01 12:28:03.850;1482916;0;The problem with exceptions escaping destructor is that if you use a type that does that with virtually any standard class template, you get U.B. (and not just `terminate`). Ditto for most third-party C++ libraries out there. It's not a hard requirement in theory, but in effect it triggers so much U.B. it's easier to treat it as one.;111335
+1905448;2010-01-01 12:32:24.263;1987867;0;Going to be a bit hard to tell, unless you post the code of the 500 handler...;104349
+1905449;2010-01-01 12:33:13.043;1988461;0;@maxedmelon, I am consued with the Kohana2 andKohana3. I plan to installed and start with KO3. I found a lot of tutorials based on Kohana2.X. Thank you.;215912
+1905451;2010-01-01 12:35:15.427;1987718;0;Thanks. The code used to take 8 secs, now it takes 3 secs.;241786
+1905455;2010-01-01 12:36:13.470;1988390;0;did you try calling the php file from browser directly?;126039
+1905459;2010-01-01 12:36:57.327;1988471;0;this doesn't seem to work either?;161266
+1905463;2010-01-01 12:37:50.773;1988461;0;So you've copied and pasted this answer ? http://stackoverflow.com/questions/394175/searching-for-a-kohana-beginners-tutorial-for-php/467326#467326. Wouldn't it be better to link to it and give credit where credit's due ?;12960
+1905472;2010-01-01 12:40:16.430;1988272;3;"Hi, imho good idea to reveal fundamental types and class scope modifiers (static, etc.) you are using ""up front"" in your original question in a very strange and complex example like this : only in your 2nd. comment to Darin's answer below do you finally tell us that 'mainDict is : ""static dictionary<string, object>."" We know nothing about the Types of the various sub-keys, sub-dictionaries, or the sub2Value type : we don't know if sub2Dict is sub-classed from sub1Dict, etc. My ""psychic"" powers are dim :)";133321
+1905473;2010-01-01 12:40:25.400;1988454;0;What do you mean exactly by not working?  The items are not being displayed?  Are u sure the `history` array is populated?;44084
+1905475;2010-01-01 12:41:32.870;1988301;0;Nor IE7​​​​​​​​.​​​​​​​​​​;18936
+1905476;2010-01-01 12:41:37.927;1988482;0;This seems to be the most logic... should this code be above or below the element?;161266
+1905477;2010-01-01 12:42:15.583;1988482;0;@anthony don't worry, its a webapp - for iPhone :);161266
+1905478;2010-01-01 12:42:43.680;1988475;2;Perhaps you have two classes called RightException. The type of the exception you caught should have been 'admin.RightException.RightException' not just 'RightException'.;61974
+1905479;2010-01-01 12:42:53.320;1985325;0;Sorry but I don't remember exactly. Just that there was a transparency problem with IE. And (luckily) I don't have an IE6 anymore.;216011
+1905481;2010-01-01 12:42:57.173;1988454;0;if i alert the `history` json array - it has 4 `[object Object]` thing s come up, this is correct as there are 4 items :);161266
+1905486;2010-01-01 12:44:09.340;1988483;1;http://docs.jquery.com/Selectors/class#classclass should have solved this for you.;144424
+1905489;2010-01-01 12:45:07.670;1988482;1;"@tarnfeld:  You didn't think that little nugget was worth mentioning in your question?  A long with exactly what mean by ""doesn't work""??";17516
+1905491;2010-01-01 12:46:06.123;1988477;0;"i tried this before. i still get two characters :(
+if i press key 'a' and the corresponding key i am sending is அ (U+0B8A).
+but i get 'அa' in the notepad";238798
+1905492;2010-01-01 12:46:46.357;1988475;0;"@Mark - that was my first guess, but no. I thought maybe it's the fact the module of the exception has the same name as the exception itself, so I included it in this example, but AFAIK this shouldn't matter.
+@mikej - it's the same code, except for replacing the real name of the exception for ""RightException"". Other than that - the same code";154510
+1905495;2010-01-01 12:48:03.047;1988482;1;"This needs to be executed once the element with id ""list"" is guaranteed to exist. You could put the code as it is in a `<script>` element at the end of the the body or inside a window or body onload handler.";96100
+1905498;2010-01-01 12:48:18.880;1987769;0;You can retag it Alok.;168225
+1905500;2010-01-01 12:49:06.023;1988475;0;"Is RightException defined in a file called admin/RightException.py? Is this the actual code that causes the problem or just an example you've put together to illustrate what you're doing? Is the second except line actually except Exception, exception:? What version of Python? I would expect the message to actually read something like ""this is what i got: <class 'admin.RightException.RightException'>"" rather than just ""this is what i got: RightException""";63034
+1905501;2010-01-01 12:49:06.180;1988482;0;hahahaha, sorryyy i will update :);161266
+1905502;2010-01-01 12:50:12.137;1988506;0;Is it true for all of the relations?;140367
+1905505;2010-01-01 12:50:55.490;1988505;0;Ok.. that's what I figured. Let me ask you another question. I have had bad experiences in the past with csv files not loading the data properly. I have never had that sort of experience using a dump file which was why I decided to go the route I went. Do you have any preference between the two methods?;241904
+1905506;2010-01-01 12:51:01.433;1979685;0;i use JS to perform cross domain population, there is another solution to inject html seo friendly from cross domains?;187048
+1905507;2010-01-01 12:51:01.980;1986449;0;Which version of the NHibernate Linq provider are you using?  The latest version in the trunk or the NHContrib separate DLL one?;12712
+1905509;2010-01-01 12:52:49.183;1988475;1;`%type(exception)` should be `%type(e)`.  Please post a complete code snippet that produces the behavior you see.;226621
+1905510;2010-01-01 12:52:50.507;1988505;0;It depends what you want it data for - if it's for backup purposes, I always go the dump file route.;109825
+1905511;2010-01-01 12:53:41.223;1988484;9;If you absolutely need to have totally optimal code then why are your porting it from C++ to Python? Python is much slower than C++. You can't expect to get similar performance.;61974
+1905512;2010-01-01 12:53:47.310;1988386;4;It's not possible in the sense that the user the shell script itself runs as can't be changed (which is what the original question asked).  Invoking other processes with sudo doesn't change who the script itself is running as.;237688
+1905514;2010-01-01 12:54:04.670;1988506;0;According to your diagram, yes..;2372835
+1905515;2010-01-01 12:54:29.680;1988484;0;could you be more specific about which aspects of STL lists you need that Python lists don't support? I very much doubt there is a drop-in replacement, but with more detail we can probably guide you to the Pythonic way, or tell you its not possible.;32136
+1905517;2010-01-01 12:55:12.140;1988475;0;"@mikej - yeah, it's the actual code, except for the name of the exception (I initially changed it since it is irrelevant to the problem - the real name is RunStoppedException).
+You are right about the printout, I haven't copied that part but wrote it from memory. I'll edit it
+I am using python2.6";154510
+1905519;2010-01-01 12:56:12.513;1988471;0;There was a spurious var in there originally, removed, tested, works on my machine dunno about Iphone;17516
+1905520;2010-01-01 12:56:44.187;1987528;0;Belive me, I have very good reasons.;221023
+1905521;2010-01-01 12:56:50.330;1981161;0;I've not done TARGET=mytest.pl explicitly, but my script has the same name as the pro file (less .pro) and the directory name, and I think qmake automatically adds the rule.;NULL
+1905523;2010-01-01 12:57:44.257;1988471;0;still nothing :(;161266
+1905524;2010-01-01 12:58:48.110;1988505;0;Yeah, these will be backups. I'd have to agree with you. I'll stick with the mysqldump. Thanks.;241904
+1905525;2010-01-01 12:59:01.277;1988463;0;I didn't find my answer there,but thank you all the same !;198729
+1905527;2010-01-01 12:59:13.950;1988475;4;Please make an effort to create a self-contained snippet, and then copy and paste it, and the output you get. It looks like there is a subtle bug somewhere, so it could be hidden from view by any little omission.;26575
+1905528;2010-01-01 13:00:31.507;1981846;0;I will play with this some more, but my previous attempts didn't work - I think because qmake is automatically adding the script name to QMAKE_DISTCLEAN...is it part of the app template?;NULL
+1905529;2010-01-01 13:00:44.550;1988454;0;Can't actually see what is wrong with your code now looks ok to me.  Perhaps its a mobilesafari issue?  Consider placing additional appropriate tags to your question;17516
+1905530;2010-01-01 13:02:28.077;1987792;0;"It's very interesting to hear that Linux story from you, because of course I hope that my project will be as successful as Linux. (which programmer doesn't? ;) ) But in the beginning, it first has to become that successful, so I'd rather do what I can to make it compilable on the most common compilers, so that many people can use it and participate. And even though I hope for success, it is never guaranteed and doesn't come without efforts, so I better have a ""plan B"" for being unsuccessful.";39946
+1905535;2010-01-01 13:04:30.617;1988510;0;Is there an example somewhere other than Plurk? Somewhere you don't have to sign up!?;207752
+1905536;2010-01-01 13:04:45.680;1988491;0;see my question #4 for new css property which i saw today;84201
+1905537;2010-01-01 13:04:50.880;1988533;0;"Your code cannot possibly work? The indentation seems wrong (since there are no indented lines below your function definitions.) At the very least, you would need a ""pass"" statement there. Please reformat the code so that it looks exactly like the program you are running.";229824
+1905538;2010-01-01 13:05:38.627;1988515;0;what's the type of the Guides property?;5555
+1905539;2010-01-01 13:05:41.497;1988322;5;"This is one notch beyond ""why use an if() statement?""  Buy a book or find a class.";17034
+1905540;2010-01-01 13:07:14.833;1986374;0;"nlucaroni, very interesting! (The link is http://caml.inria.fr/cgi-bin/viewcvs.cgi/ocaml/branches/fstclassmod/ I believe)
+Chris Conway, I added some examples.";100020
+1905541;2010-01-01 13:07:44.667;1988491;0;It's not a new property, `cm` and `in` are regular measurement units in CSS. Fonts are specified in points usually, though.;187606
+1905544;2010-01-01 13:08:53.020;1985455;1;True (as stated in the answer), but it saves having to rotate the array.;41709
+1905546;2010-01-01 13:09:46.303;1988544;0;OK, so the APC is concurrently executed, if we're talking about a uniprocessor system, using the time slice mechanism?;174614
+1905548;2010-01-01 13:09:50.770;1988475;0;@Jouni - These are the best sinppets I can give - I am sure there is something missing, like I said, but I do not know where it is nor what to look for - that is actually what I am asking. When I try to run the most naive example (i.e with no extra code other than the code above), it does work as expected...;154510
+1905550;2010-01-01 13:10:07.987;1988289;0;Resin has a PHP (called Quercus) implemented in Java so no buffer overruns :-);185541
+1905551;2010-01-01 13:10:25.677;1988379;0;The Fast Mutex support is intended for drivers, not user-mode code.;172642
+1905554;2010-01-01 13:11:47.297;1987960;0;"@Jay: ""Verbatim string literal operator""? or just ""Verbatim string literal""?";5190
+1905555;2010-01-01 13:11:48.950;1986062;0;"But ""screwing"" up things like that is how you learn.  It's also a good way to practice things like designing a programming,  building test cases and db design and optimization.";7516
+1905557;2010-01-01 13:13:01.810;1987802;0;"Taking the array by reference would be better then letting it decay to a pointer, e.g. `template<int n> struct foo { int (&arr)[n]; foo(int (&a)[n]) : arr(a) {} };`";168225
+1905558;2010-01-01 13:13:05.117;1986555;0;@JaredPar, so you're basically saying because most people don't get error handling right, you shouldn't even bother caring for errors and instead let the application crash and burn, possibly corrupting the user's data? The problem is that OOM happens at runtime on the user's machine. You have no control over memory sizes in these machines and over the HD space for the swap file. Then add memory leaks to it... Plus, it is quite easy to test that your app can handle it. Use a wrapper for malloc/realloc that randomly returns NULL.;153617
+1905560;2010-01-01 13:14:09.000;1983415;0;"Displaying the data to 2 decimal places in the change list makes sense; I'm only opposed to doing it in the change form.";76664
+1905561;2010-01-01 13:14:18.837;1895603;0;hmm i guess it means 1 car to many users? i kinda confused with these foreign thingy;119032
+1905565;2010-01-01 13:16:19.290;1987950;0;"Bug in title: should be ""/ or \\"", not ""// or \"".";63225
+1905566;2010-01-01 13:18:26.603;1988462;0;Because if Icon.ExtractAssociatedIcon is called on a thread that doesn't have a handle, the wrong icon may be extracted. Same with SHGetFileInfo.;163921
+1905567;2010-01-01 13:19:03.543;1988479;0;Because if Icon.ExtractAssociatedIcon is called on a thread that doesn't have a handle, the wrong icon may be extracted. Same with SHGetFileInfo.;163921
+1905568;2010-01-01 13:19:47.067;1988564;0;Thanks !  Makes sense!! :);174614
+1905569;2010-01-01 13:20:18.660;1988458;0;Formsets? Never heard about it. Will try it. Sounds good :-);237690
+1905570;2010-01-01 13:20:20.577;1988328;0;any suggestions on what forums / sites where i can solicit for more ideas? i chose stackoverflow because of the IT audience.;195965
+1905571;2010-01-01 13:21:13.197;791411;6;Won't this swallow the exception whole, which is almost always a bad idea?;38522
+1905572;2010-01-01 13:21:21.167;1988328;0;i also changed the title to a question now;195965
+1905573;2010-01-01 13:21:49.667;1988573;0;Can you provide the HTML markup?;47738
+1905575;2010-01-01 13:22:03.177;1988484;4;Capital letters don't make your ideas any stronger.;64588
+1905576;2010-01-01 13:22:08.013;1988259;0;Regarding Pt.3. If I have the source class in CORBA, then how should I proceed?;231917
+1905578;2010-01-01 13:22:22.883;1988546;0;It ought to be doable in a single step, using an array formula... I just can't figure out how... :-(;241914
+1905579;2010-01-01 13:23:01.930;1984994;0;When I create a new file in Visual Studio, it is automatically 'added'. It gets the plus icon, and when I commit from Ankh it gets added and committed. However, these files are not truely added, and are invisible to other tools.;11236
+1905580;2010-01-01 13:23:33.160;1987704;1;I'll try this one, thanks.;11236
+1905582;2010-01-01 13:24:22.800;1987708;0;I am getting this property even without doing any merges on subfolders.;11236
+1905583;2010-01-01 13:24:28.277;1988557;0;"the number of bits available for representing a number is `not limited`. the number 7 can be represented as 111 (3bits) or 0111 (4bits) or 00111 (5bits) and so and so on.
+
+Your statement `How many bits in a binary number? 32?` 32? where did you get this limit from?";241671
+1905584;2010-01-01 13:24:39.133;1988568;0;"Could you be more specific, please? MIN will return the minimal value in column B, regardless of the contents of column A - which is not what I need. And what to use LOOKUP for? I don't need to know the address of the cell that contains the value that interests me; I need only the value itself.
+
+It ought to be doable with some array formula using MIN and IF...";241914
+1905585;2010-01-01 13:25:11.957;1988571;0;"You're right about Netbeans, that what I actually said, I want it to become independent from my own private environment.
+Probably you're right and simply reading a lot of sources and documentation will help, but I was hoping that there is something like a standard way to do it and a description of how it is being done. The configure/make/makeinstall process is of course such a thing, and I was wondering if someone had probably written a book or site on the whole process of packaging and publishing source towards a general public (because 'normal' books are about shipping products).";160966
+1905586;2010-01-01 13:25:41.643;1988484;4;Please do not write in all caps.  You have bold and italic -- they're better for emphasis.;10661
+1905588;2010-01-01 13:26:48.410;1988458;0;But for my use-case above, if I create a Formset for one Address Form. Will the formset check that the user filled no data in it and will not validate it?;237690
+1905589;2010-01-01 13:27:06.507;1988493;0;<MarshalAs(UnmanagedType.LPStr)> was the problem. It should have been LP*T*Str. Thank you very much for answering the question.;163921
+1905590;2010-01-01 13:27:43.260;1988568;0;"Nevermind, solved it:
+
+{=MIN(IF(A1:A5>0,B1:B5,FALSE))}";241914
+1905591;2010-01-01 13:27:56.600;1988493;0;New Win32Exception(Marshal.GetLastWin32Error()) is the same as New Win32Exception. The constructor gets the last error by default unless you use the constructor where you specify the error code.;163921
+1905593;2010-01-01 13:28:00.797;1965562;0;"BillW,
+thank you for your comments. i will give specific details soon";238798
+1905594;2010-01-01 13:28:18.813;1988579;0;"thank you, now I wished you wherent so fast.
+I was being stupid, the problem was that I replaced all the td's
+two lines after the evaluation, sorry";133418
+1905595;2010-01-01 13:28:23.730;1988259;0;I'm not sure there is an easy wayto debug CORBA stubs. There seems to be plugins for eclipse, which might be useful, but I haven't used it: http://eclipsecorba.sourceforge.net/ and http://homepage2.nifty.com/interpress/ORBstudio/index000.html;203907
+1905596;2010-01-01 13:28:42.840;1979685;0;yes. pull it on the server so that no JS is required ...;185527
+1905597;2010-01-01 13:28:54.540;1988576;0;Thanks - that worked;239721
+1905601;2010-01-01 13:29:49.483;1988484;2;Trying to reproduce C++ idioms in Python will only make you a bad Python programmer. Read Idan K's answer below, he's right.;10194
+1905602;2010-01-01 13:30:22.757;1988579;0;if it's possible to delete the post then please do.;133418
+1905603;2010-01-01 13:30:46.767;1988557;0;"`The ASCII code for space in 0x32. The ASCII code for zero is 0x30`. There my question was not ""what are the ascii codes of space & zero. I can look up ascii table.---
+
+Author said: `To solve the first problem, you could always agree to use a fixed number of bytes, perhaps padding on the left with ASCII codes for zeros or spaces.` Well, when you agree upon fixed number of bytes how can you pad left with ""ASCII codes""? can you represent 7 in 2 bytes by padding left with ""ASCII codes""?";241671
+1905604;2010-01-01 13:31:05.363;1988477;0;@coder, see my update. I don't think it's the best solution but it might solve your problems.;108130
+1905605;2010-01-01 13:32:08.447;1988557;0;@Alice: The number of bits available for representing a number is *always limited* because computers are finite. The only question is whether the limit is a fixed hard-coded limit, or if it is only dependent on available computer resources.;61974
+1905606;2010-01-01 13:32:29.867;1986512;2;I thought there was no ambiguity there at all. I am (obviously) a small sample :-);12960
+1905607;2010-01-01 13:33:14.970;1988475;0;"Please try harder, then. Without a reproduceable snippet nobody can answer your question. Most likely you are doing something stupid like defining the ""same"" class in two different modules.";10194
+1905608;2010-01-01 13:33:38.117;1988557;0;"@S.Lott: ""The ASCII code for space in 0x32."" The ASCII code for space is 0x20, not 0x32. You got it right later though.";61974
+1905609;2010-01-01 13:34:27.727;1988533;0;sorry i forgotten to add print x;241467
+1905611;2010-01-01 13:35:07.007;1987878;0;I would try stripping the button down to as little code as possible, and moving it right next to the first button. If that works, start adding back the original code and see where it stops working.;6694
+1905612;2010-01-01 13:35:17.367;1988571;0;"For transforming from NetBeans to generic makefiles, you might want to write a special ""maintainer's"" script (and maybe publish it as well).  About organizing code, there's not much to write about, aside from writing about using specific tools (like autotools or cmake).  Just check any source code for what should be there (I'll edit my answer for some ideas).";158676
+1905613;2010-01-01 13:36:11.657;1985464;0;yes it is, I can get all the cookies which I wanted, thanks :);6946
+1905614;2010-01-01 13:36:39.063;1988599;3;Read here:http://docs.python.org/library/datetime.html;165520
+1905617;2010-01-01 13:40:07.747;1988475;0;OK, with your advice and encouragement, I have managed to find the exact reason, and reedited the question. Thanks for your efforts!;154510
+1905619;2010-01-01 13:40:12.707;1966686;0;i edited my question so you can maybe understand it now.;111731
+1905622;2010-01-01 13:41:45.420;1987958;0;It's too bad that Path.Combine takes only 2 parameters.;86191
+1905623;2010-01-01 13:41:49.133;1988587;6;"-1: Do My Homework For Me.  Could you provide a smaller, more compact snippet.  Could you ask any more specific questions?  The ""choose any part and perform"" is rather rude, don't you think?";10661
+1905624;2010-01-01 13:42:16.573;1988536;0;Nice links, thanks.;160966
+1905626;2010-01-01 13:42:56.150;1987929;0;And what exception does it throw?;19679
+1905627;2010-01-01 13:43:29.797;1987545;0;Thanks for the update, @Tatu, that makes a lot more sense to me now. Unfortunately I'd already given you a +1 so I can't do it again but hopefully the explanation will earn you some more (well-earned) rep. Cheers.;14860
+1905630;2010-01-01 13:44:12.047;1988599;0;Thanks, I read it before asking the question :);197473
+1905631;2010-01-01 13:44:42.900;1988614;4;Exactly the same as you would any other element, SO is not a replacement for google.;220299
+1905632;2010-01-01 13:45:00.700;1988615;0;The title of your question gives the impression your problem is with IE, FF and Chrome. The *body* of the question says they're ok, but IE6 is a mess. This is confusing.;153545
+1905633;2010-01-01 13:45:28.300;1984946;0;You could use the MAC address. See GetPrimaryMACAddress sample code in XCode Developer Documentation.;118908
+1905634;2010-01-01 13:45:39.903;1988493;0;I tried both a control handle and a module handle. The Icon.ExtractAssociatedIcon passes IntPtr.Zero, which I believed is the reason why ExtractAssociatedIcon fails to retrieve the proper icon when run on a background thread. This behavior can be seen when getting the icon for an XML file (.xml). That is why I wanted to try the API call in order to pass different handles. Regardless, of which function or the handles, the wrong icon is always returned. (I just tested.);163921
+1905637;2010-01-01 13:46:32.507;1988477;0;"hey,
+
+It worked. the thing is i have to capture few thing in addition to including the lines u gave.
+
+i have to return 1 at the end of the callback function. to prevent characters being displayed, i returned CallNextHookEx in my if else statement which has the code for sendinput.";238798
+1905639;2010-01-01 13:47:06.560;1988628;0;did you write your answer before I changed my question, since you can run the code for yourself now :) It appears something deeper, that the two inspections above won't resolve...;154510
+1905641;2010-01-01 13:47:33.240;1988530;0;I need the length so that I can later strip out the null bytes caused by CBC. So, the length is stored in plain-text in the database.;283055
+1905644;2010-01-01 13:48:51.283;1988631;1;superuser.com may be more relevant here;8206
+1905645;2010-01-01 13:49:51.863;1988513;0;Additional details follow: I am storing the length of the plain-text in a database so that I can later strip out the null bytes caused by CBC.;283055
+1905646;2010-01-01 13:50:48.987;1988555;0;Critical Section CAN be entered again from the same thread. http://msdn.microsoft.com/en-us/library/ms682608(VS.85).aspx;93236
+1905647;2010-01-01 13:51:45.630;1988595;1;"+1. My ""comments"" rule is that they should tell *why* something is being done. The code already tells *what* is being done.";14860
+1905648;2010-01-01 13:52:04.273;1985393;0;"Thanks for the answer;
+I've looked into CoreData a while ago, but my system already uses SQLite and I don't really wish to change the core of my app.
+I would like to know what's you opinion about implementing the same function which NSFetchedResultsController was built for, but with SQLite.
+Thanks again for your answer.";126392
+1905649;2010-01-01 13:52:13.447;1988491;0;"@Pekka - Ok. thanks. then A4 paper's width is = (8.27 inches) so if i set #wrapper{width:8.27in;padding:.20in} then should i get perfect width in printing for A4 paper size? Will try this";84201
+1905650;2010-01-01 13:52:16.300;1988637;0;Thanks! works fine.;111731
+1905651;2010-01-01 13:52:59.763;1988623;0;@Tower, can you please define 'later'? *later* in the page or *later* after several pages?;174774
+1905654;2010-01-01 13:55:14.220;1988615;0;Some code will be usefull;93988
+1905656;2010-01-01 13:55:41.397;1988623;0;"I want to supply some data for Apache service, and then access it from PHP. I want this data to be only in memory, not in the filesystem or elsewhere. So, htaccess files or httpd.conf with SetEnv is not an option here. It has to stay on memory, and die along with the service. I just want to access the data via PHP like echo $_SERVER[...]; or something?";283055
+1905657;2010-01-01 13:55:50.447;1987763;1;Refer to the answers on the following questions for more about Core Data: http://stackoverflow.com/questions/1581599/getting-started-in-core-data-for-iphone , http://stackoverflow.com/questions/1656476/new-to-core-data-for-iphone , http://stackoverflow.com/questions/840634/core-data-vs-sqlite-for-sql-experienced-developers;19679
+1905658;2010-01-01 13:56:37.980;1988628;0;Edited now with test of your example;39991
+1905659;2010-01-01 13:57:33.953;1987763;1;Apple also has a lot of sample code on the subject, such as CoreDataBooks (formerly SQLiteBooks): http://developer.apple.com/iPhone/library/samplecode/CoreDataBooks/index.html;19679
+1905660;2010-01-01 13:57:34.530;1944648;2;please note, that coppersmith has very high constant costs and therefore is only recommended for big matrices (forget about multiplying 2 4x4-matrices in a video game for example);179341
+1905661;2010-01-01 13:57:50.177;1988589;0;"""Linux assembly"" (??) Assembly has nothing to do with the OS - it's the type of your processor. I assume that by ""Intel assembly"" you mean x86? Please clarify.";231502
+1905663;2010-01-01 13:57:57.027;1987309;0;It depends if the .NET class is COM visible, otherwise you can't create them directly from native (e.g. VBS) code. You can write your own .NET class that is COM visible and have it create types via reflection.;3848
+1905664;2010-01-01 13:58:50.233;1987891;0;Can you please give us some real code?;93988
+1905665;2010-01-01 13:59:18.020;1988651;1;Correct answer, +1.... :);165520
+1905667;2010-01-01 14:00:19.187;864544;4;Link is broken. This seems to be the new location: http://developer.apple.com/safari/library/documentation/ScriptingAutomation/Conceptual/JSCodingGuide/Advanced/Advanced.html;61974
+1905668;2010-01-01 14:00:54.023;1985288;1;Didn't you just ask this same question? http://stackoverflow.com/questions/1978698/how-to-record-the-user-voice-in-objective-c-for-iphone;19679
+1905669;2010-01-01 14:01:07.563;1988589;0;Yes. Intel assembly = x86;187976
+1905670;2010-01-01 14:01:37.467;1988648;0;I have changed the code to refer explicitly to each location (see above) - still no dice. So I think your guess is wrong, though I agree that naming the module and class with the same name is bad practice;154510
+1905671;2010-01-01 14:01:41.117;1988650;0;Thanks a lot, it solved the problem;158625
+1905672;2010-01-01 14:02:02.083;108297;15;"Note: all classes are created at runtime. So you can use the 'class' statement within a conditional, or within a function (very useful for creating families of classes or classes that act as closures). 
+
+The improvement that 'type' brings is the ability to neatly define a dynamically generated set of attributes (or bases).";182604
+1905673;2010-01-01 14:03:39.137;1988098;0;Oh, yup, I know what they are heh :) Hadn't understood before, thanks :);107510
+1905674;2010-01-01 14:04:33.453;1988654;0;can i have two forms on the same page.Both the forms action go to the same page. Does it sounds logical?;239578
+1905676;2010-01-01 14:05:07.587;1988614;8;No, but SO is indexed by Google. People who ask the same question in the future will end up here, rather than at expert-sexchange, and isn't that much better?;9021
+1905677;2010-01-01 14:05:57.353;1988620;0;can you give an example of this;122528
+1905679;2010-01-01 14:07:21.420;1988679;12;Unique in what sense - on your machine, in your application?;NULL
+1905680;2010-01-01 14:07:23.637;1988671;1;It's not clear to me how the deletion goes: you have an action in the URL to add an item, do you have one to remove it? I think you should post some code.;148968
+1905681;2010-01-01 14:07:47.693;1988666;0;OFF: It is very dangerous to let the Web page pass an SQL query. Your SQL server could be attacked directly this way! I hope it is not production code...;204737
+1905682;2010-01-01 14:08:26.643;1988679;1;You should use a GUID.;34397
+1905683;2010-01-01 14:08:30.777;1988493;0;Download SysInternals' AutoRuns utility and disable all non-MSFT shell extension handlers.;17034
+1905684;2010-01-01 14:09:02.460;1988607;4;It's called a compiler error.;34397
+1905685;2010-01-01 14:09:13.957;1988666;0;No it is not a production code. As I wrote, I am going to work on it.;194328
+1905686;2010-01-01 14:09:23.380;1988572;0;this is a dupe...;23528
+1905687;2010-01-01 14:09:30.293;1988607;0;"Well, I think this is simply called ""overloading on the return type"", which is not allowed by the C# spec but is allowed by the CLR spec.";46642
+1905688;2010-01-01 14:09:53.457;1988665;1;collision-free is unlikely;8206
+1905689;2010-01-01 14:10:06.483;1988648;0;Updated answer re update! :-);18936
+1905690;2010-01-01 14:10:28.963;1988422;0;"Thanks! export ANT_OPTS=""-Xms1024M -Xmx1024M"" finally worked.";211359
+1905691;2010-01-01 14:10:51.307;1988679;10;SLaks - how can you say that without knowing his requirements? And since when is a GUID 32 bits?;NULL
+1905692;2010-01-01 14:11:03.193;1988683;1;Firebug is the best to figure this out, indeed. :);204737
+1905694;2010-01-01 14:11:17.327;1484387;0;@RBarryYoung, seeing as the OP is using a SqlDataSource, solutions to his problem that don't involve surplus code are very ASP.NET specific.;8741
+1905695;2010-01-01 14:11:27.373;1988594;2;Overall I agree with you, but it is true that C++ does have some well tuned containers and algorithms. You have more opportunity of making the best choice. That said, if that's Unknown's motivation in this then I really think the move to Python is a mistake.;32136
+1905696;2010-01-01 14:13:04.467;1988671;0;+ 1 You have to put some code;214889
+1905697;2010-01-01 14:13:23.127;1988683;0;"Also try to install the ""Web Developer"" toolbar into Firefox, that is also very handy.";204737
+1905698;2010-01-01 14:13:54.887;1988623;0;Can we ask what the use case is here? Seems like an odd request.;1902010
+1905699;2010-01-01 14:13:54.977;1986914;1;Compiling Qt4 from git under MSVC 2009 it takes me 3 hours. With MinGW between 5 and 6. I don't think mingw/gcc is slower on windows: I KNOW IT, I HAVE MEASURED IT.;78712
+1905701;2010-01-01 14:14:41.543;1988683;0;"Do I need to check the ""Console"" tab in FireBug? There it is showing the DropDown code with the same options for all the DropDowns.";194328
+1905703;2010-01-01 14:15:07.740;304684;0;I really don't think C# got its dynamic features from VB...;46642
+1905704;2010-01-01 14:15:19.003;1982432;1;There's a connection between what I wrote and topics such as Explain Plan, Indexing, and Data Normalization.  I'd love to discuss that connection in greater depth in some sort of discussion forum.  SO is not such a forum.;19937
+1905705;2010-01-01 14:15:28.237;1988679;0;To be honest,what is the difference between the two of them?;93040
+1905706;2010-01-01 14:15:32.557;1988015;0;"I suggest : Try to start the app from Windbg And look the stacktrace;";201794
+1905707;2010-01-01 14:15:41.373;1988692;0;Do you need a JavaScript framework like Qooxdoo or YUI or a CSS framework?;204737
+1905708;2010-01-01 14:15:57.880;1988665;0;"@Eli Bendersky: Indeed. I've modified the question to imply ""as collision-free as possible"".";44389
+1905710;2010-01-01 14:16:05.503;1988679;0;Provide more information. The length of the ID a 32-bit integer - does this mean a 4-billion-digit ID? Unlikely.;8206
+1905711;2010-01-01 14:17:45.923;1988458;0;Ok it works. Will try it for the other inlines also and post the result in my question!;237690
+1905712;2010-01-01 14:18:11.833;1988679;0;sorry,if i wrote incorrectly,it should be a 32 bit number. did you interpret 32 * 32 bit?;93040
+1905713;2010-01-01 14:18:22.707;1984987;0;i know core java.;365034
+1905714;2010-01-01 14:18:53.720;1988683;0;In the Console tab, you should see every AJAX request that the page makes.  It will show you the query string and the server's response.;34397
+1905715;2010-01-01 14:19:31.490;1987907;2;"This is one of the problems that Scala's ""traits"" were designed to solve (http://javaforyou.wordpress.com/2009/07/11/traits-in-scala-deep-dive/). Sadly, the Scala tools are still rubbish....";21234
+1905717;2010-01-01 14:20:06.247;1988707;0;Post the exact error you get;148968
+1905718;2010-01-01 14:20:48.507;1988648;0;"@bobince - Thanks! This looks like the right diagnosis for the problem (gonna dig into it a little further), only thing is, I don't get where am I making an ""implicit"" import. I am explictly spelling out, as best as I can, the path of the module. So I understand the problem, but not how to solve it, in this case (can't go any more explicit in my imports:)";154510
+1905722;2010-01-01 14:21:39.503;1987068;0;Or, right-click on the Frameworks group and choose “Add Existing Framework”, then pick Core Graphics out of the list.;30461
+1905723;2010-01-01 14:22:14.557;1987089;0;Thanks for the help.  This is definitly easer t use and read.;159370
+1905724;2010-01-01 14:22:53.180;1988707;0;Do you get an error if you directly call emil_form.php?uname=uname...?;46425
+1905725;2010-01-01 14:23:19.827;1985471;0;I figured out the answer to method overloading by intermediate classes. The prototype of the object class will have the reference to the last overloaded definition. So in short, it will work.;228259
+1905726;2010-01-01 14:24:51.090;1988623;0;I'd like to set a key into the memory that I will use to encrypt data. I don't want this key to exist in the filesystem or in the database.;283055
+1905727;2010-01-01 14:24:53.957;1975377;1;Which database?;2548
+1905728;2010-01-01 14:25:08.217;1988679;4;@Ajay: as for the differene - if that's in your application then a simple counter will do the job. If that's on the machine then you want it unique even between different processes running the same program, and this is more difficult.;8206
+1905729;2010-01-01 14:25:32.520;1988715;0;I am already using SetParent, but I have now discovered that the HWND provided by windows to the screensaver is a child of the settings dialog, so by calling GetParent on the HWND, I get a HWND that represents the dialog.;241930
+1905730;2010-01-01 14:25:43.007;1988690;0;No one will have any idea what kind of formatting you want. Can you do a quick mock-up with an image editing tool?;19410
+1905731;2010-01-01 14:26:15.893;1988702;0;Interesting suggestion. Not sure how much of a problem it might turn out to be, but these trees could potentially be quite deep and don't really have a maximal number of nodes (could be 10, 100, 1000, or even a bit larger).;44389
+1905732;2010-01-01 14:26:38.447;1988715;0;So, does it work?;34397
+1905734;2010-01-01 14:27:57.307;1982281;0;Mel: If multiple objects need to know that the animation finished, they should listen for an NSNotification that your animation object posts. Notifying multiple objects that something has happened is the purpose of NSNotification and NSNotificationCenter.;30461
+1905735;2010-01-01 14:28:03.373;1988632;0;Why do you have to launch the Test Cases through reflection, rather than simply by running them trough a standard TestRunner ? Is it because the jar files are uploaded to your server at run-time ?;77804
+1905736;2010-01-01 14:28:19.660;1988603;3;In my opinion it would be better to rename the control to toolStripButtonDeselectAllFilters rather than having a control so badly named that you need a comment explaining what it does every time you refer to it.;61974
+1905737;2010-01-01 14:28:32.987;1988514;1;I see by the answers there is some confusion here.  Do you want to be able to apply a constant set of multiple classes to an element, or do you want to be able to add more classes to an element that it originally has?;8741
+1905739;2010-01-01 14:28:36.963;1988676;0;Yes, that's a good solution. The reason I did not do it this way was that I wanted my control to look *exactly* like a regular combobox (which, considering Mark Byers' answer to this question, is actually not a good idea). However, this didn't seem possible because the drop-down button of a `ComboBox` does not look the same as a normal `Button`.;240733
+1905740;2010-01-01 14:28:58.913;1988714;0;You make a good point in general. However, trees are slightly different to sequences in that they contain greater structure - a tree cannot simply be represent by a sequence (unless you specifically know it is a binary/ternary/etc. tree). Might be able to adapt the algorithm easily enough however...;44389
+1905743;2010-01-01 14:30:33.030;864544;0;@Mark: Thanks for pointing that out. Post is updated.;44389
+1905745;2010-01-01 14:30:56.050;1988631;0;no. i am specifically asking about code here, not anything not-related to programming.;111731
+1905746;2010-01-01 14:30:56.660;1987651;0;Thanks Ross. We currently use SVN, and we have a very small development team, so I want something that is easy to use and maintain. I'm wondering if both of these are more than we need. Do you know if very small teams (2 to 4 developers)  use these apps?;NULL
+1905747;2010-01-01 14:31:58.983;1988087;0;Regarding using Photoshop: Raster images don't scale very well when the UI scale factor changes. This *currently* doesn't happen, but Apple's been hinting for a few OS versions that that will change someday. I predict that using a vector editor, or drawing in code, or both (Opacity can export an image as Quartz drawing code) will pay off.;30461
+1905748;2010-01-01 14:32:47.827;1984994;0;"they're listed in View -> Pending Changes as ""new"", ""new"" and ""added"" are different things, but they behave the same when committing in Ankh";5555
+1905752;2010-01-01 14:33:38.980;1988714;0;A tree *can* be represented as a sequence.  I showed in my answer and example of how.;158676
+1905753;2010-01-01 14:33:53.427;1988742;1;community wiki?;171461
+1905755;2010-01-01 14:35:42.690;1987005;0;Without knowing more, I suggest you use RRUZ's suggestion and use an exception logger to find out exactly what's failing to narrow down the cause.;19183
+1905756;2010-01-01 14:35:57.040;1988648;1;The `import RunStoppedException` in `admin.test` in the new example is not explicit. If the top-level package is `admin`, it should be `import admin.RunStoppedException`.;18936
+1905757;2010-01-01 14:36:08.633;1988615;0;I think you can ask your question here too -> http://doctype.com/;169545
+1905758;2010-01-01 14:36:13.640;1987940;0;What about hashCode?  Can each set of similar items be reduced to a single number?;48839
+1905759;2010-01-01 14:36:13.793;1988740;2;+1: Prefixes are your only choice.;10661
+1905760;2010-01-01 14:36:38.707;1988587;0;Don't remove the code the answers refer to;35306
