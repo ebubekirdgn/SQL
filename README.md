@@ -22,7 +22,7 @@
   ```
      Select * from Products order by ProductName  
 * Once CategoryId ye gore sonra ProductName gore siralama<br>
-  ``` 
+  ```  
     Select * from Products order by CategoryID, ProductName 
 * Azalan sekilde siralama -> descending.z -> a diye sıralar.En pahali urunden ucuza dogru sıralar.<br>
   ``` Select * from Products order by UnitPrice desc 
